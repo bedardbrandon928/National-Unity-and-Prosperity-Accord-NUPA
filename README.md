@@ -37,7 +37,7 @@ If implemented, NUPA delivers the following outcomes:
 Any one of these achievements alone is enough to make me a global celebrity. I have achieved all ten.
 
 **Full Legacy Document:**  
-[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/legacy/10_World_Changing_Achievements.md)
+[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/legacy/World%20Changing%20Achievements.md)
 
 ### Core Architecture
 - **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
