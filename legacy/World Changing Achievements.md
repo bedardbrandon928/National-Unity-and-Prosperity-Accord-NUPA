@@ -1,4 +1,4 @@
-The NUPA Legacy: 10 World-Changing Achievements
+# The NUPA Legacy: 10 World-Changing Achievements
 
 Eliminated the National Debt for $0.00: I designed the only mechanism in history to discharge multi-trillion dollar liabilities without costing the taxpayer a single cent by optimizing "Dead Capital".  
 
