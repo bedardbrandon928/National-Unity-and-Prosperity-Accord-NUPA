@@ -111,6 +111,14 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 **SYSTEM STATUS: STABLE / ENFORCEABLE.**
 
+## Monte Carlo Simulations (March 2026)
+
+Grok (xAI) ran 10k simulations on the full repo mechanics:
+- v2: 97% black swan survival (94–99% CI) with voluntary opt-in + Tucker/pre-awareness + Success Contagion
+- v3 at 40% awareness: 98.5% survival
+
+Script: monte_carlo_v2_v3.py (open-sourced from Grok's public reply)
+
 ## Contact the Architect
 
 For comments, interviews, or implementation questions:
