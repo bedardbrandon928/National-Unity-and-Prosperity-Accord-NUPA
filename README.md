@@ -149,4 +149,4 @@ https://youtu.be/1YmlNyxV83E
 https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 
 ### How to Cite
-Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
+Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/CITATION.cff
