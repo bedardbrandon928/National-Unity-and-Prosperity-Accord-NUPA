@@ -153,7 +153,7 @@ All core documents, templates, and the full Auditor’s Log are already in this 
 https://youtu.be/RE560yVFb0I  
 
 **Strongest Short Video**  
-https://youtu.be/1YmlNyxV83E  
+https://youtu.be/DtmCMPN0KZQ?si=cGnPvUu89gb13cjV
 
 **Pastebin Home**  
 [Full Core NUPA Stack - 22-page memorandum](https://pastebin.com/NVunnnP4)
