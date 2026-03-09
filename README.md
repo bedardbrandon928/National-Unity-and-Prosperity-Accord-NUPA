@@ -138,6 +138,9 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
   - Black Swan Survival: 98.6% (95% CI: 97.9–99.3%)
   - Verdict: "Go For Launch" threshold reached. Survival nearly certain at 30–40% awareness saturation.
 
+- NUPA Waterfall Audit Script (March 2026, Gemini-validated): Deterministic 40/40/20 model shows \~$3T+ Tribal wealth transfer and \~$2.2T federal tax surge over 15 years. AI Firewall confirmed active.  
+  - **System Integrity: 100%**.
+
 ## Contact the Architect
 
 For comments, interviews, or implementation questions:
