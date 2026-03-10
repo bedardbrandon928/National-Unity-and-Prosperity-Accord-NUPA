@@ -1,4 +1,4 @@
-The Federal Treasury "Septuple-Stream" Audit
+# The Federal Treasury "Septuple-Stream" Audit
 
 All figures represent the combined annual revenue for the U.S. Government once the system is fully operational.
 
@@ -22,7 +22,7 @@ Yearly Federal Tax Revenue (The Septuple-Stream)
 | Year 10 | $23,270 | $558.5 Billion | **$232.0 Billion** |
 | TOTAL | --- | $4.53 Trillion | $1.91 Trillion |
 
-Why These Numbers Are Solid
+**Why These Numbers Are Solid**
 
 This $1.91 Trillion is generated from seven specific, taxable events that happen because the land is no longer "Dead Capital":
  * Income Tax: 22% on the dividends paid to 15 million people.
