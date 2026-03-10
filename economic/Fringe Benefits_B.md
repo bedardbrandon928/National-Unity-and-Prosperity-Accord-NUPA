@@ -1,4 +1,4 @@
-NUPA FRINGE BENEFITS
+# NUPA FRINGE BENEFITS
 
 NUPA's primary effects—discharging historical liabilities at net-zero cost, creating a market-based anti-automation firewall, and generating perpetual tax revenue through land optimization—are transformative on their own. But the real magic lies in the secondary and tertiary ripple effects, which cascade outward to reshape society, politics, and even global dynamics. These are speculative but grounded in economic principles (e.g., incentives driving behavior, reduced inequality boosting growth) and historical parallels (e.g., Alaska Permanent Fund's impact on poverty and community stability).
 
