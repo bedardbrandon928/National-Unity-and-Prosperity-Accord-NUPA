@@ -86,13 +86,13 @@ If implemented, NUPA delivers the following outcomes:
 - **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated
 
 ### Repository Structure
-- **core/** — Core Technical Stack (22-page Memorandum), Full Executive Summary
-- **governance/** — VQPV, Sovereign Covenant, Opt-In documents  
-- **legal/** — Agreements, notices, Tucker Act strategy  
-- **economic/** — Septuple Stream audit, ripple effects, projections  
-- **story/** — The Original Estate Story  
-- **legacy/** — 10 World-Changing Achievements
-- **simulations/** — Six AI Monte Carlo Simulation Python Scripts for replicability
+- [**core/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/core) — Core Technical Stack (22-page Memorandum), Full Executive Summary
+- [**governance/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/governance) — VQPV, Sovereign Covenant, Opt-In documents  
+- [**legal/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legal) — Agreements, notices, Tucker Act strategy  
+- [**economic/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/economic) — Septuple Stream audit, ripple effects, projections  
+- [**story/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/story) — The Original Estate Story  
+- [**legacy/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legacy) — 10 World-Changing Achievements
+- [**simulations/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/simulations) — Six AI Monte Carlo Simulation Python Scripts for replicability
 
 ### Legal Viability & Preemptive Objections
 NUPA is deliberately engineered to operate entirely within existing statutory authority. The faster it is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.
