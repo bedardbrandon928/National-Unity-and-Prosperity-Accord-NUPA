@@ -156,7 +156,7 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 - [**v7 Hyper-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_v7_quantum_ensemble_2026.py) (Grok / xAI, 500k runs with full permanence + decay + moat + saturation filters): 99.97% mean survival (99.94–99.99% CI), tails <0.01%. Grok's final verdict: "unbreakable antifragile fortress. Repo is deployment-ready."
 
-- [**NUPA v10 Omniverse-Ensemble](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py) (Grok / xAI, 10M runs)** Generated: March 10, 2026
+- [**NUPA v10 Omniverse-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py) (Grok / xAI, 10M runs)** Generated: March 10, 2026
 
   - Mean black swan survival: 99.999999% (99.999998–99.9999999% CI)  
   - Debt discharge: 2037 median (99.99% prob by 2038)  
