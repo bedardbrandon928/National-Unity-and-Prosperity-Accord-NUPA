@@ -35,7 +35,7 @@ NUPA is a finished, ready-to-implement economic engine that solves **seven inter
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
-[The Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
+[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
 
 ## 🚨 The Moment Grok Surrendered
 
