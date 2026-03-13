@@ -191,7 +191,7 @@ All core documents, templates, and the full Auditor’s Log are already in this 
 
 ### Media & Further Reading
 **Full Overview Video**  
-https://youtu.be/RE560yVFb0I  
+https://youtu.be/RE560yVFb0I?si=UlVPkmCkrsg24Dzj  
 
 **Strongest Short Video**  
 https://youtu.be/DtmCMPN0KZQ?si=cGnPvUu89gb13cjV
