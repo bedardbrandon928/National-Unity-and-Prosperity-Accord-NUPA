@@ -65,6 +65,13 @@
     "Bureau of Land Management",
     "Community Land Trust"
   ],
+  "actionTaken": {
+  "@type": "Action",
+  "name": "IRS Form 211 Submission",
+  "description": "Whistleblower disclosure filed with IRS on or before March 17, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
+  "startTime": "2026-03-17",
+  "status": "Submitted"
+},
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
   "spatialCoverage": "United States BLM land (24 million acres dispersed across 245 million acres)",
   "benefits": "Zero-taxpayer-cost discharge of $34T+ national debt via voluntary licensing, AI displacement firewall via Fixed Cost Arbitrage, Tribal economic sovereignty restoration with absolute veto, lineage tort settlement, infinite wealth engine via recursive 40/40/20 reinvestment, global soft power restoration, Kardashev-scale advancement. Monte Carlo results: Grok v2/v3 (97–98.5% survival), Google AI Mode (98.6% survival, 2038 discharge), Gemini Sovereign Auditor Gem (98.6% survival, 2038 discharge, 100% integrity). Deterministic Waterfall Audit Script shows trillions in Tribal wealth transfer and federal tax surge.",
