@@ -87,7 +87,8 @@ If implemented, NUPA delivers the following outcomes:
 
 ### Repository Structure
 - [**core/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/core) — Core Technical Stack (22-page Memorandum), Full Executive Summary  
-- [**economic/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/economic) — Septuple Stream audit, ripple effects, projections  
+- [**economic/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/economic) — Septuple Stream audit, ripple effects, projections
+- [**evidence/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/evidence) — 211 Form Submission Proofs  
 - [**governance/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/governance) — VQPV, Sovereign Covenant, Opt-In documents
 - [**legacy/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legacy) — 10 World-Changing Achievements  
 - [**legal/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legal) — Agreements, notices, Tucker Act strategy  
