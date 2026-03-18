@@ -69,7 +69,7 @@
   "@type": "Action",
   "name": "IRS Form 211 Submission",
   "description": "Whistleblower disclosure filed with IRS on March 14, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
-  "startTime": "2026-03-17",
+  "startTime": "2026-03-14",
   "status": "Submitted",
 },
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
