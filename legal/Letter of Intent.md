@@ -1,5 +1,15 @@
 # LETTER OF INTENT: NUPA INTEGRATION & ESCROW AUTHORIZATION
 
+**THIS IS A TEMPLATE ONLY**  
+
+For illustrative and planning purposes. No funds are being solicited. Official execution occurs only through a designated Tier-1 law firm after the first Sovereign Opt-In.  
+
+**DISCLAIMER – NOT A SOLICITATION**  
+
+This document is a conceptual template only and is provided for informational purposes.  
+
+No funds are currently being solicited or accepted. Corporate option deposits will only be accepted after a Sovereign Tribe has formally executed the MOSU and a designated Tier-1 law firm has issued the official Notice of Opportunity through a neutral escrow account. Any expressions of interest at this stage are purely exploratory and create no legal obligation.
+
 To: Legal Counsel for the [Name of Sovereign Nation]  
 From: Brandon Anthony Bedard, Policy Architect  
 Subject: Authorization of Multi-Phase Escrow for the NUPA Framework
@@ -29,3 +39,7 @@ While the framework provides the logic for a 70% reduction in operational costs 
 **​4. Fiduciary Autonomy**
 
 By utilizing Tribal Legal Counsel as the Escrow Agent, the framework remains a Private IP Contract. This reinforces Sovereign Seniority, ensuring the Nation controls the capital flow from the moment of ignition through long-term maintenance.
+
+**5. Escrow Refund Trigger**
+
+The Neutral Administration Escrow Agent shall release and return 100% of the Optionee’s Reservation Deposit to the Optionee upon written demand by the Optionee upon the earliest of: (a) twenty‑four (24) months after the Escrow Receipt Date if, by such date, no Authorizing Licensing has been enacted into law; (b) the Optionee’s written notice declining to execute a 99‑year Ground Lease within ninety (90) days after delivery of a lease form; or (c) the failure to introduce Authorizing Licensing in either the U.S. House or Senate within twelve (12) months after the Escrow Receipt Date and the Sponsor Group threshold (thirty (30) bipartisan cosponsors) has not been met within the succeeding ninety (90) day cure period. For purposes hereof, “Authorizing Licensing” means legislation enacted into law that (i) expressly authorizes the licensure protocol contemplated by the NUPA Framework (FASL/NUPALTA) and (ii) permits the vesting or recordation of the applicable long‑term commercial license or possessory interest in favor of the Community Land Trust (CLT) or other designated fiduciary. The Escrow Agent shall release refunded funds within seven (7) business days of receipt of a Refund Demand that complies with this paragraph; any dispute regarding entitlement to refund shall be resolved by expedited arbitration under the AAA Commercial Rules, with an award issued no later than thirty (30) days after filing.
