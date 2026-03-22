@@ -1,5 +1,9 @@
 # INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC)
 
+**THIS IS A TEMPLATE ONLY**  
+
+For illustrative and planning purposes. 
+
 INSTRUMENT: First Nation Equity & Cross-Border Stewardship Agreement  
 VERSION: 2026.MAR.EQUITY
 
