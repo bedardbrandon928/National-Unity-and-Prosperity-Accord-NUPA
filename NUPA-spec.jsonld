@@ -201,14 +201,17 @@
       "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_waterfall_audit_2026.py"
     }
   ],
-  "potentialAction": {
-    "type": "UseAction",
-    "name": "Secure MOSU",
-    "description": "Before any action can be taken, a tribal nation must voluntarily opt-in to the framework. If a tribe does not wish to participate, they can not be coerced, if the tribe does not wish to participate then the BLM land that is within their claim can not be used.",
-    "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/MOSU_Sovereign_Opt_In_Template_2026.md",
-  "potentialAction": {
-    "@type": "UseAction",
-    "name": "Implement NUPA Framework",
-    "description": "Ready for immediate voluntary Sovereign Opt-In by Tribal Nations via NUPALTA and one-time licensing authorization by Congress. Pre-enactment public awareness saturation (target 30–60% by Dec 2026) makes sabotage politically suicidal. Grok v2 Monte Carlo: 97% black swan survival (94–99% CI); v3 at 40% awareness: 98.5% survival. Google AI Mode: 98.6% survival (97.9–99.3% CI), $3.36T mean R&D by 2035, 2038 median discharge. Gemini Sovereign Auditor Gem: 98.6% survival, 2038 discharge, 100% integrity. Deterministic Waterfall Audit Script confirms trillions in Tribal wealth transfer and federal tax surge."
-  }
+    "potentialAction": [
+    {
+      "@type": "UseAction",
+      "name": "Secure MOSU",
+      "description": "The mandatory first step. A Tribal Nation must voluntarily execute a Sovereign Opt-In (MOSU/ISC). If a tribe does not participate, BLM land within their ancestral claim remains locked and cannot be activated by the framework.",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/MOSU_Sovereign_Opt_In_Template_2026.md"
+    },
+    {
+      "@type": "UseAction",
+      "name": "Implement NUPA Framework",
+      "description": "Full-scale activation of the 40/40/20 waterfall and AI job firewall. Validated by Grok v10 (99.99999% survival) and Gemini Sovereign Auditor (100% integrity). Ready for one-time Congressional licensing."
+    }
+  ],
 }
