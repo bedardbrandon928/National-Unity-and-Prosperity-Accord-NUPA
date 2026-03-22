@@ -92,10 +92,11 @@ Since November 18, 2025, the Architect has established a comprehensive record of
 
 ### III. The 1% Framework Usage Fee
 
-As the Architect of this system, a perpetual 1% Framework Usage Fee is established as a performance-contingent royalty. This fee is not a retainer or a taxpayer-funded grant; it is triggered exclusively by the successful execution of private corporate ground leases within a NUPA-chartered hub. 
+As the Architect of this system, a perpetual 1% Framework Usage Fee is established as a performance-contingent royalty. This fee is not a retainer or a taxpayer-funded grant; it is triggered exclusively by the successful execution of private corporate ground leases within a NUPA-chartered hub. This fee is hard-coded in every lease agreement and is explicitly non-negotiable.
 
  * Contingency of Success: The Architect receives no compensation unless the framework successfully generates new wealth for the Sovereign Nations and the designated beneficiaries.
  * Perpetual Alignment: This fee is perpetual to mirror the perpetual growth ensured by the 20% Recursive Reinvestment engine, ensuring the Architect’s interests remain permanently aligned with the continued prosperity and stability of the system.
+ * NUPALTA and VAP Funding: Aside from paying the Architect himself, this fee specifically goes to pay for the continued operations for NUPALTA until the agency sunsets, after which time the fee goes to pay for the Legacy Administrator. This fee also pays for the express maintenance and privacy of the Verification Assistance Program's (VAP) Forensic Genealogical Survey and the legal representation of the Architect and the framework in all litigious matters.
  * Architect’s Limited Veto Provision: The Architect retains a narrow, non-delegable veto power exercisable solely in two circumstances: (1) any corporation that has directly caused personal harm to the Architect through misclassification, algorithmic lockouts, or predatory labor practices (including DoorDash and all other supporters or beneficiaries of California Proposition 22), and (2) major institutional investors that have publicly advocated for or implemented policies designed to create or maintain a permanent dependency class (specifically BlackRock, Vanguard, and State Street). In all other cases, participation decisions for ground leases and hub operations rest exclusively with the local VQPV boards and the Sovereign Tribe/CLT, consistent with the decentralized, non-bureaucratic design of the NUPA framework.
 
 ### IV. Economic and Social Justification
