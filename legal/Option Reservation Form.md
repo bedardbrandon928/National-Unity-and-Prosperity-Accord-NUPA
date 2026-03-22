@@ -1,5 +1,15 @@
 # OPTION RESERVATION AGREEMENT (FOUNDING PARTNER)
 
+**THIS IS A TEMPLATE ONLY**  
+
+For illustrative and planning purposes. No funds are being solicited. Official execution occurs only through a designated Tier-1 law firm after the first Sovereign Opt-In.  
+
+**DISCLAIMER – NOT A SOLICITATION**  
+
+This document is a conceptual template only and is provided for informational purposes.  
+
+No funds are currently being solicited or accepted. Corporate option deposits will only be accepted after a Sovereign Tribe has formally executed the MOSU and a designated Tier-1 law firm has issued the official Notice of Opportunity through a neutral escrow account. Any expressions of interest at this stage are purely exploratory and create no legal obligation.
+
 **PARTIES:**
 
 1. The Office of the Policy Architect (on behalf of the future NUPALTA)
