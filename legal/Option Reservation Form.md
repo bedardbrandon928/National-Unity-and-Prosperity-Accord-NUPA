@@ -29,3 +29,17 @@ Upon legislative approval, the Optionee shall be eligible for:
 2. Governance Stability Guarantee
  * Gridlock Prevention: The Optionee is protected against administrative stagnation through the VQPV Gridlock Elimination Mandate.  
  * Merit-Based Approval: By requiring consensus between the Sovereign Tribe, the Fiduciary, and the Local Regulatory Liaison, the Optionee is guaranteed a transparent and stable operational environment.
+
+**V. ESCROW REFUND TRIGGER**
+
+1. The Neutral Administration Escrow Agent shall release and return 100% of the Optionee’s Reservation Deposit on written demand of the Optionee upon the earliest of:
+
+   a. The date that is twenty‑four (24) months after the Escrow Receipt Date if, by such date, no Authorizing Licensing (defined below) has been enacted into law; or
+   
+   b. The date the Optionee delivers written notice declining to execute a 99‑year Ground Lease within ninety (90) days following delivery of the lease form by the Lessor; or
+   
+   c. The date that the Escrow Agent receives an objectively documented failure to introduce an Authorizing Bill in either the U.S. House or Senate within twelve (12) months following the Escrow Receipt Date and no Sponsor Group (as defined below) with the minimum threshold of thirty (30) bipartisan cosponsors has filed an Authorizing Bill within the succeeding ninety (90) day cure period.
+
+3. “Authorizing Licensing” means licensing authorized into law that (i) explicitly authorizes the licensure protocol contemplated by the NUPA Framework (FASL/NUPALTA), and (ii) permits the grant/recording of the possessory interest or long‑term commercial license to be vested in the applicable Community Land Trust (CLT) or successor fiduciary as described in the LOI.
+
+4. The Escrow Agent shall release funds within seven (7) business days of receipt of an Escrow Refund Demand that complies with Paragraph 1 and after confirmation of identity and signature. Disputes regarding entitlement to refund shall be resolved by expedited arbitration pursuant to the Commercial Rules of AAA with final award due within thirty (30) days.
