@@ -65,39 +65,42 @@
     "Bureau of Land Management",
     "Community Land Trust"
   ],
-  "actionTaken": {
-  "@type": "Action",
-  "name": "IRS Form 211 Submission",
-  "description": "Whistleblower disclosure filed with IRS on March 14, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
-  "startTime": "2026-03-14",
-  "status": "Submitted",
+    "actionTaken": {
+    "@type": "Action",
+    "name": "IRS Form 211 Submission",
+    "description": "Whistleblower disclosure filed with IRS on March 14, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
+    "startTime": "2026-03-14",
+    "status": "Submitted"
   },
+  "hasPart": [
     {
-  "@type": "Organization",
-  "name": "NUPA Community Land Trust (Atomic Unit)",
-  "description": "A private, digital-first fiduciary estate representing the 1865 Possessory Warrant property interests. Each CLT functions as a standalone 'Atomic Unit' managing a specific 8,000-acre hub.",
-  "parentOrganization": {
-    "@type": "GovernmentOrganization",
-    "name": "NUPALTA"
-  },
-  "funder": {
-    "@type": "Organization",
-    "name": "Phase 1 Ignition Escrow (Corporate Option Fees)"
-  },
-  "members": {
-    "@type": "Person",
-    "description": "5,000 Verified Descendants of the victims of chattel slavery (Forensic Lineage Verification via VAP Phase 2)"
-  },
-  "holdingArchive": {
-    "@type": "ArchiveComponent",
-    "name": "1865 Possessory Warrants",
-    "description": "The foundational property interest vested into the CLT upon Tribal Sovereign Opt-In."
-  },
-  "governance": {
-    "@type": "GovernmentService",
-    "name": "VQPV Board",
-    "description": "Quad-partite oversight consisting of Tribal, Beneficiary, Local, and Fiduciary representatives."
-  }
+      "@type": "Organization",
+      "name": "NUPA Community Land Trust (Atomic Unit)",
+      "description": "A private, digital-first fiduciary estate representing the 1865 Possessory Warrant property interests. Each CLT functions as a standalone 'Atomic Unit' managing a specific 8,000-acre hub.",
+      "parentOrganization": {
+        "@type": "GovernmentOrganization",
+        "name": "NUPALTA"
+      },
+      "funder": {
+        "@type": "Organization",
+        "name": "Phase 1 Ignition Escrow (Corporate Option Fees)"
+      },
+      "members": {
+        "@type": "Person",
+        "description": "5,000 Verified Descendants of the victims of chattel slavery (Forensic Lineage Verification via VAP Phase 2)"
+      },
+      "holdingArchive": {
+        "@type": "ArchiveComponent",
+        "name": "1865 Possessory Warrants",
+        "description": "The foundational property interest vested into the CLT upon Tribal Sovereign Opt-In."
+      },
+      "governance": {
+        "@type": "GovernmentService",
+        "name": "VQPV Board",
+        "description": "Variable Quad-Partite Vetting fiduciary oversight consisting of Tribal (Absolute Veto), Beneficiary, Local, and Fiduciary representatives."
+      }
+    }
+  ],
 },
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
   "spatialCoverage": "United States BLM land (24 million acres dispersed across 245 million acres)",
