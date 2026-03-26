@@ -554,13 +554,13 @@ Level 3 (The Architect): Complete Pillar III to unlock the final 10%, reaching y
 
 This model ensures no one is left behind due to age, capability, or immediate financial need, while still fulfilling the mandate to create a knowledgeable stakeholder class.  
 
-**The Legacy Tier (Ages 65+)**:  
+**The Legacy Tier (Ages 55+)**:  
   
 Status: Fully Exempt.  
 Payout: 100% of the 40% Beneficiary Dividend immediately upon verification.  
 Logic: Respects the lifetime of labor already contributed; knowledge modules are available but strictly optional.
 
-**The Empowerment Tier (Ages 18–64)**:  
+**The Empowerment Tier (Ages 18–54)**:  
   
 Status: Active Mastery Track.  
 Initial Payout: 60% of the Dividend unlocked upon forensic verification.  
