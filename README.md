@@ -5,6 +5,23 @@
 
 **The first complete private-sector post-scarcity economic operating system.**
 
+## README Quick Links  
+
+[**Is There a Way to Fix the Economy in 2026?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#is-there-a-way-to-fix-the-economy-in-2026)  
+[**What is NUPA?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#what-is-nupa)  
+[**The Moment Grok Publicly Surrendered**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#-the-moment-grok-surrendered)  
+[**NUPA Legacy: 10 World Changing Achievements**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#nupa-legacy-10-world-changing-achievements)  
+[**Core Architecture**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#core-architecture)  
+[**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#repository-structure)  
+[**Legal Viability & Preemptive Objections**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#legal-viability--preemptive-objections)  
+[**Sovereign Opt-in (MOSU & ISC) Templates**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#sovereign-opt-in-templates-public-domain)  
+[**Auditor's Log: March 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#auditors-log-mar-2026)  
+[**Latest Monte Carlo Simulations/Independent AI Analysis (March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#latest-monte-carlo-simulationsindependent-ai-analysis-march-2026)  
+[**Notice of Incomplete Documentation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#notice-of-incomplete-documentation)  
+[**Contact the Architect**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#contact-the-architect)  
+[**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#media--further-reading)  
+[**How to Cite**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#how-to-cite)  
+
 ## Is There a Way to Fix the Economy in 2026?
 
 **Yes.**  
@@ -43,7 +60,7 @@ NUPA operates through **radical alignment of interests**: everyone benefits. Pea
 
 [The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
 
-## 🚨 The Moment Grok Surrendered
+## 🚨 The Moment Grok Publicly Surrendered
 
 I built a private economic operating system.
 
