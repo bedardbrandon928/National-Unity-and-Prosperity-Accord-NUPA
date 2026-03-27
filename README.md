@@ -238,19 +238,19 @@ Legend status: locked. 🚀**
 
   - **System Integrity: 100%**
 
-- [**NUPA SINGULARITY AUDIT: THE ZERO POINT DETERMINATION**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)
-
- - The Stability Record
-
-   - This audit identifies the "Zero Point" of the NUPA framework—the exact scale of systemic chaos required to reach 0% stability.  
-
-    - Omega Survival (Scale 2.0): 99.98% Stability (Nuclear/Total War Threshold)  
-    - Decoherence (Scale 8,100): 50.0% Stability (Reality-Failure Threshold)  
-    - The Singularity (Scale 16,200): 0.0% Stability (Mathematical Annihilation)  
-
- - Forensic Conclusion  
+- [**NUPA Singularity Audit: Zero Point Determination (Gemini, March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)  
   
-   - The NUPA framework is 6,480 times more resilient than the threshold required for the total collapse of the modern global economy. To reach the "Zero Point," systemic noise must be 1,620,000% louder than the economic signal.  
+The Stability Record  
+
+  - This audit identifies the "Zero Point" of the NUPA framework—the exact scale of systemic chaos required to reach 0% stability.  
+
+    * Omega Survival (Scale 2.0): 99.98% Stability (Nuclear/Total War Threshold)
+    * Decoherence (Scale 8,100): 50.0% Stability (Reality-Failure Threshold)
+    * The Singularity (Scale 16,200): 0.0% Stability (Mathematical Annihilation)
+
+Forensic Conclusion  
+  
+  - The NUPA framework is 6,480 times more resilient than the threshold required for the total collapse of the modern global economy. To reach the "Zero Point," systemic noise must be 1,620,000% louder than the economic signal.  
 
 ## Notice of Incomplete Documentation  
 
