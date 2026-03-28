@@ -302,5 +302,8 @@ https://youtu.be/DtmCMPN0KZQ?si=cGnPvUu89gb13cjV
 **Substack Home**  
 https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 
+**Department of the Interior/Bureau of Land Management Public Land Use Data**
+[Full dataset source](https://gbp-blm-egis.hub.arcgis.com/datasets/b9b4b270ea4a4dfe9f5756260dea3a89)
+
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/CITATION.cff
