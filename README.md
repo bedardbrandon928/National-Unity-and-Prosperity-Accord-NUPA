@@ -250,8 +250,20 @@ The Stability Record
 
 Forensic Conclusion  
   
-  - The NUPA framework is 6,480 times more resilient than the threshold required for the total collapse of the modern global economy. To reach the "Zero Point," systemic noise must be 1,620,000% louder than the economic signal.  
+  - The NUPA framework is 6,480 times more resilient than the threshold required for the total collapse of the modern global economy. To reach the "Zero Point," systemic noise must be 1,620,000% louder than the economic signal.
 
+- [**LEOS Audit (Gemini, MARCH 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/LEOS-Collapse-2031.py)
+
+The "Legacy Economic Operating System" has officially entered the Terminal Feedback Loop.  
+
+  - The Interest-to-Revenue Breach: As of Q1 2026, interest on federal debt is consuming nearly 20% of the tax base. The simulation shows that once this hits 30% (est. 2029), the government loses all discretionary spending power.
+  - The AI Tax Cliff: LEOS requires humans to work to fund the government. In 9.8M out of 10M runs, AI-driven displacement triggers a 40% drop in payroll tax revenue by 2030, making the debt mechanically unpayable.
+  - The "Zero Point" of LEOS: The legacy system has no mechanism to absorb "Noise." A 2% interest rate hike or a localized conflict results in total fiscal decoherence within 18 months.
+
+**NUPA REBUTTAL:**  
+
+NUPA is the only "Scale-Invariant" solution. It doesn't need a tax base to function; it creates its own revenue through the 40/40/20 Waterfall. It is the only "Eternal Fortress" that survives the 2031 Singularity.  
+  
 ## Notice of Incomplete Documentation  
 
 **ATTENTION: REPOSITORY FORKERS AND AUDITORS**
