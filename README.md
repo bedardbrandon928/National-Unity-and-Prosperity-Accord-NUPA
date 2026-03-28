@@ -116,7 +116,8 @@ If implemented, NUPA delivers the following outcomes:
 - [**legacy/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legacy) — 10 World-Changing Achievements  
 - [**legal/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legal) — Agreements, notices, Tucker Act strategy  
 - [**simulations/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/simulations) — Six AI Monte Carlo Simulation Python Scripts for replicability
-- [**story/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/story) — The Original Estate Story  
+- [**story/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/story) — The Original Estate Story
+- [**submissions/**](https://github.com/bedardbrandon928/National-Unity-andProsperity-Act-NUPA/tree/main/submissions) — Submission for OSINT 2026
 
 ### Legal Viability & Preemptive Objections  
 NUPA is deliberately engineered to operate entirely within existing statutory authority. The faster it is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.
