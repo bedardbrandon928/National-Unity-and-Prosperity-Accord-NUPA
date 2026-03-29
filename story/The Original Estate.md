@@ -40,9 +40,9 @@ The GI Bill Betrayal: After the whole family went to fight the neighbors down th
 
 During this time, Uncle was also being a total dick to Mr. Joe in the guest house.
 
-The Termination Era: Around the 1950s, the Dad decided he didn't want to pay for the guest house anymore. He tried to tell Joe, "You aren't a 'Sovereign' anymore; you’re just a regular guy." He tried to dissolve Joe’s identity so he could take the rest of the yard.
+The Termination Era: Around the 1950s, Uncle decided he didn't want to pay for the guest house anymore. He tried to tell Joe, "You aren't a 'Sovereign' anymore; you’re just a regular guy." He tried to dissolve Joe’s identity so he could take the rest of the yard.
 
-The "Relocation" Scam: Dad told Mr. Joe and Little Brother, "Move to the city! There are plenty of jobs!" But when they got there, they found out Uncle had already given all the good jobs to Big Brother’s friends.
+The "Relocation" Scam: Uncle told Mr. Joe and Little Brother, "Move to the city! There are plenty of jobs!" But when they got there, they found out Uncle had already given all the good jobs to Big Brother’s friends.
 
 Big Brother would sometimes take out all of his anger on Little Brother, sometimes breaking bones sometimes just giving him just incredibly bad injuries, some he was never sure he was ever going to heal from.
 
@@ -64,21 +64,21 @@ The Skill Gap: Because Little Brother was "chained outside" while Big Brother wa
 
 The Friction: Big Brother gets angry because he feels "passed over" for a job he’s good at, and Little Brother is stressed because he's being forced to do something he hasn't been equipped for.
 
-The "Dad's" Laziness: The Dad is using the "gutter job" as a cheap way to look like he’s being "fair" without actually having to pay back the room he stole by force in 1865.
+The "Uncle's" Laziness: Uncle is using the "gutter job" as a cheap way to look like he’s being "fair" without actually having to pay back the room he stole by force in 1865.
 
-By the 1980s, Little Brother was getting loud. He was tired of the couch.  He was always getting hired for jobs that he never fully understood or, when he did, he wasn't properly equipped for, always told they were "affirmative". So, instead of giving him back his room or settling the 1865 debt, the Dad declared a "War on the Living Room" (The War on Drugs).
+By the 1980s, Little Brother was getting loud. He was tired of the couch.  He was always getting hired for jobs that he never fully understood or, when he did, he wasn't properly equipped for, always told they were "affirmative". So, instead of giving him back his room or settling the 1865 debt, Uncle declared a "War on the Living Room" (The War on Drugs).
 
-The Policing of the Couch: The Dad hired more "Bodyguards" to sit in the living room and watch Little Brother’s every move. If Little Brother even looked at Big Brother’s room the wrong way, he was thrown in the basement.
+The Policing of the Couch: Uncle hired more "Bodyguards" to sit in the living room and watch Little Brother’s every move. If Little Brother even looked at Big Brother’s room the wrong way, he was thrown in the basement.
 
 The Industrial Exit: While the Little Brother was being watched, Uncle and Big Brother started moving the "family tools" (manufacturing) out of the house and across the ocean because they found people who would work for even less than Little Brother, even though Uncle set the minimum amount Little Brother could work for but wasn't allowed to dispute and expected him to pay rent for rooms that were far beyond the amount he could afford.  And Uncle kept raising the rent of the living room, too.
 
 ### The "backyard" and the "Robots" (The Present Crisis)
 
-Now, the Dad is broke. He’s so deep in debt from his "Pettiness" that he’s planning to replace both sons with Robots (AI) because he thinks they’re cheaper to "feed." He’s ready to kick everyone out.
+Now, Uncle is broke. He’s so deep in debt from his "Pettiness" that he’s planning to replace both sons with Robots (AI) because he thinks they’re cheaper to "feed." He’s ready to kick everyone out.
 
 But Little Brother and Joe (from the guest house) have been talking.
 
-They look at the massive backyard (BLM land) that the Dad hasn't touched in years, except for storage for natural art that nobody really goes to see but everyone enjoys, also for like the dogs and outdoor pets to play and eat,  But the space is mostly empty. Like most of it is empty, But it does have a lot of sentimental value, like it's really important to Joe, and I mean we all kind of still use it, sometimes. Sometimes. But not really that often.  But there's a corner that is just kind of meh (10% of BLM land) I mean there's an extension cord running through it so it would actually be pretty nice for like like a solar generator or like maybe a computer shed or a place to store things to distribute around the property like a storage shed?
+They look at the massive backyard (BLM land) that Uncle hasn't touched in years, except for storage for natural art that nobody really goes to see but everyone enjoys, also for like the dogs and outdoor pets to play and eat,  But the space is mostly empty. Like most of it is empty, But it does have a lot of sentimental value, like it's really important to Joe, and I mean we all kind of still use it, sometimes. Sometimes. But not really that often.  But there's a corner that is just kind of meh (10% of BLM land) I mean there's an extension cord running through it so it would actually be pretty nice for like like a solar generator or like maybe a computer shed or a place to store things to distribute around the property like a storage shed?
 
 ### The NUPA Settlement (The Checkmate)
 
