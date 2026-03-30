@@ -7,12 +7,48 @@
 
 ## README Quick Links
 
-- [Is There a Way to Fix the Nigerian Economy?](#is-there-a-way-to-fix-the-nigerian-economy)
-- [What is NUPA-NG?](#what-is-nupa-ng)
-- [Core Architecture](#core-architecture)
-- [Latest Monte Carlo Simulations](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/edit/NUPA-NG/README.md#latest-monte-carlo-simulations-march-2026)
-- [Repository Structure](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/edit/NUPA-NG/README.md#repository-structure-nupa-ng)
-- [Contact the Architect](#contact-the-architect)
+- [**Foreword**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/edit/NUPA-NG/README.md#foreword)
+- [**Is There a Way to Fix the Nigerian Economy?**](#is-there-a-way-to-fix-the-nigerian-economy)
+- [**What is NUPA-NG?**](#what-is-nupa-ng)
+- [**Core Architecture**](#core-architecture)
+- [**Latest Monte Carlo Simulations**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/edit/NUPA-NG/README.md#latest-monte-carlo-simulations-march-2026)
+- [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/edit/NUPA-NG/README.md#repository-structure-nupa-ng)
+- [**Contact the Architect**](#contact-the-architect)
+
+## Foreword
+
+The National Unity and Prosperity Act is not simply a "Hard-Coded Application" it's a polymorphic economic protocol.
+I've gone back over my original framework and I think I've managed to find a way for NUPA to be adapted to Nigerian economics.
+
+The 40/40/20 split is just the US-specific "Patch" for a 160-year-old liability. NUPA isn't an American export—it’s a Global Governance Tool. In Nigeria, where the trust deficit between the people and the federal government is the single biggest barrier to growth, the 80/20 Sovereign Adaptive Waterfall is what I've come up with. 
+
+The "Nigerian Adaptive" Model (The 80/20 Pivot):
+
+| Component | Allocation | Function |
+|---|---|---|
+| The Trust (80%) | Direct Community Yield | This goes straight to the local Sovereign/Community adjacent to the specific land that is identified for use. It bypasses the "Federal Leakage" that usually swallows oil and mineral wealth. |
+| The Hub (20%) | Recursive Infrastructure | Hard-coded reinvestment. No waiting for a budget from Abuja. The hub builds its own roads, power, and schools from its own rent. |
+| The Gov (Tax) | Secondary Surge | The government gets the Transaction/VAT/Corporate Tax from the economic activity inside the hub. They don't need the rent; they need the volume. |
+
+Why this addresses the "Zero-Sum" Fear:
+
+ * The "Cake" Grows Itself: I assume you are likely used to the government and the community fighting over the same money. In NUPA, I've separated the Rent (80% to the people) from the Tax (100% of new revenue to the state). They aren't eating from the same plate anymore.
+
+ * Modular Liability Solving: In the US, I use 40% to fix 1865 historical liabilities and 40% to payback 400 years of broken treaties to Native American Tribes. In Nigeria, you can use that whole 80% to fund a National Healthcare Trust, an Education Endowment, or simply a Direct Sovereign Dividend to every citizen in the host community. 
+
+ * The "Incentive Alignment": The 20% recursive reinvestment is the Security Layer. It ensures the "Hardware" (the hub) never degrades. This makes the 99-year lease an Appreciating Asset, not a depreciating one.  This 80/20 split, combined with the 70% land discount, ensures that human labor in these hubs is always more profitable than automation, creating a permanent middle-class firewall against the AI transition.
+
+At 4000 hectare sized hubs out of just a small percentage of 50M hectares, you can tell the government "This is how we fix the economy without relying on oil or minerals, forever. Also, if this is implemented before the US, Nigeria is poised to become number one in economic stability, tech, and modern industrial infrastructure almost overnight.  With the most valuable and stable real estate in the world."
+
+I am a realist. I know that 'Federal Leakage' and local corruption are concerns. But NUPA-NG is designed so that the People Win even if the Leaders are Greedy. Because the 70% land discount is tied to human employment, the 'Jobs' are a physical byproduct of the lease. They can steal the rent, but they can't steal the warehouses/distribution centres, the power grid, or the paychecks hitting local families. NUPA-NG turns the 'Greed' of the landlord into the 'Security' of the worker.
+
+In the NUPA GitHub repository, it details how to bootstrap the funding for the system without raising taxes, the same method can be applied exactly the same way to bootstrap the system in Nigeria, to ensure the program pays for itself.
+
+As an American, this may make me seem like I don't want my own country to succeed, that is not the case. I am a Patriot, I love my country, but I don't have much faith or love for my government. If they are slow to the draw, so be it, my main priority is to the people, wherever they reside, and if this system can help the people of Nigeria, I am more than happy to help adapt the framework to serve them best.
+
+This is NUPA-NG, it is specifically designed to address the Nigerian economic system. It is dedicated to the Sovereign People of Nigeria. While I am an American Patriot, the failure of legacy institutions to address the 2026 debt wall necessitates a global deployment of the NUPA OS. 
+
+Prosperity has no nationality.
 
 ## Is There a Way to Fix the Nigerian Economy?
 
