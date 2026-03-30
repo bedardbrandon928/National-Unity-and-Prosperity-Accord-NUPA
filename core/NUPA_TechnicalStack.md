@@ -16,100 +16,113 @@
 - [PHASE 2 DISBURSEMENT INSTRUCTION](#phase-2-disbursement-instruction)
 
 # THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD
-National Unity and Prosperity Act
 
-TO: The Sovereign Nations/Original Stewards of the Land and the Descendants of the 1860s Debt.
-FROM: The Office of the Architect.
-SUBJECT: The Restoration of Stewardship and Economic Autonomy
+**National Unity and Prosperity Act – Nigeria**
 
-For over four centuries, the Original Stewards of this land have endured profound challenges to their sovereignty, autonomy, and rightful place as guardians of these territories. Independence is not a privilege granted by any government—it is an inherent right to be fully exercised by a Sovereign People.
+​TO: The Sovereign People, the Traditional Custodians of the Land, and the Communities of the Federal Republic of Nigeria.  
+FROM: The Office of the Architect.  
+SUBJECT: The Restoration of Local Autonomy and the End of Federal Leakage.  
 
-For more than 160 years, the descendants of this nation's complex and often harrowing, tumultuous, and at times, horrific and regrettable, history have carried the weight of unfulfilled promises and systemic barriers to prosperity.
+​For decades, the communities of Nigeria—the true heart of the nation—have watched as the immense wealth of their soil has been managed by a centralized system that often feels distant, opaque, and disconnected from the daily reality of the people. True sovereignty is not a decree from Abuja; it is the inherent right of a community to thrive from its own resources, protected from the "leakage" that has historically swallowed the nation’s potential.  
 
-The True Net-Zero Framework presented here is neither a government program nor a charitable initiative. It is a respectful Restoration Protocol—a carefully designed mechanism to settle historic obligations through the private sector's pursuit of long-term stability. This approach facilitates a meaningful wealth transfer that costs the taxpayer nothing while affirming Tribal Nations with absolute authority over ancestral-adjacent lands.
+​With a national debt nearing ₦180 trillion and the rising tide of AI threatening the livelihoods of our youth, the "Social Contract" is under unprecedented strain. The current system asks for sacrifice while delivering bureaucratic inertia.  
 
-This Framework is built upon three enduring pillars:
+​The NUPA-NG Framework presented here is not a government program, a new tax, or a charitable handout. It is a Sovereign Restoration Protocol—a private-sector architectural mechanism designed to bypass systemic bottlenecks and deliver prosperity directly to the gates of the Host Community.  
 
-Sovereign Seniority: Tribal Nations serve as the primary stewards and gatekeepers. Before any commercial option may be offered or lease executed, a Sovereign Opt-In must be formally granted, placing Tribes in their rightful position as architects of the emerging economy.
+​This Framework is built upon three enduring pillars:  
 
-Economic Restitution: Through the Justice Engine, political promises are replaced with rigorous forensic verification and a permanent 40% Beneficiary Dividend for Descendants.
+​1. Sovereign Seniority (The 80/20 Pivot): The Host Community is the primary stakeholder. Through the 80% Community Yield, commercial ground rents bypass the federal center and flow directly into local Sovereign Trusts. The community—not a distant ministry—serves as the gatekeeper and the primary beneficiary of the land’s value.  
 
-Decentralized Empowerment: By funding essential knowledge infrastructure at no cost to Tribal Nations, we ensure the workforce is elevated as a celebrated asset rather than a managed liability.
+​2. Recursive Autonomy (The Infrastructure Loop): By hard-coding 20% of all revenue back into the Hub’s own hardware, we ensure that power, roads, and schools are built in real-time. We replace the "waiting for a budget" cycle with a self-funding engine of modern industrial growth.  
 
-We are not creating another layer of bureaucracy. We are forging a bridge to a future of genuine self-determination—one in which centralized administration gracefully dissolves, leaving behind resilient, independent governance structures.
-If we uphold the American ideal of liberty, we must champion systems that empower both the individual and the Sovereign Nation to thrive, protected by laws impervious to fleeting political currents.
+​3. The Human Firewall (AI Protection): Through Fixed Cost Arbitrage, we turn the 70% land discount into a shield for the Nigerian worker. By making human labor mathematically more profitable than automation, we ensure that the "NUPA Hub" is a permanent engine of middle-class employment for the next 99 years.  
 
-This is the architecture of lasting peace. This is the foundation of renewed sovereignty.
+​We are not creating a new layer of government. We are forging a bridge to a future where the people win even if the leaders are greedy. Because the "Jobs" and the "Infrastructure" are physical byproducts of the lease, they cannot be embezzled, diverted, or ignored.  
 
-Let us begin together.
+​This is the architecture of a Non-Oil Future. This is the foundation of a Nigeria that leads the world in economic stability and modern industrial dignity.  
 
-# STATEMENT OF NATIONAL FINALITY
+​Let us begin together.  
 
-TO: The Congress of the United States
-FROM: Brandon Anthony Bedard (Policy Architect)
-SUBJECT: The Permanent Discharge of Structural Liabilities and National Debt Finality
+# STATEMENT OF NIGERIAN FINALITY (NUPA-NG)
 
-### I. The Declaration of Settlement
+​TO: The Federal Government and the Sovereign People of Nigeria  
+FROM: Brandon Anthony Bedard (Policy Architect)  
+SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereignty Finality  
 
-This instrument provides formal notice that enactment of the National Unity and Prosperity Act constitutes the complete and final settlement of all historical structural economic obligations of the United States.
+**​I. The Declaration of Settlement**
 
-Through the sovereign licensing of underutilized federal assets (BLM acreage) into the Perpetual Sovereignty Licensing Protocol (FASL), the government fulfills its debtor role by equipping Creditor Trusts with self-sustaining, high-yield wealth-generation capacity. This transformation converts a longstanding liability into a privately managed infrastructure asset class of exceptional value.
+​This instrument provides formal notice that the implementation of the National Unity and Prosperity Act – Nigeria (NUPA-NG) constitutes the complete and final settlement of all historical structural economic obligations and the systemic "Trust Deficit" within the Federal Republic.
 
-### II. Evidence of Historical Superiority
+​Through the voluntary licensing of underutilized state-managed land (via the Land Use Act of 1978) into the Perpetual Sovereignty Licensing Protocol (FASL), the government fulfills its role as a facilitator of prosperity by equipping Local Community Trusts with self-sustaining, high-yield wealth-generation capacity. This transformation converts "dead capital" and idle land into a privately managed infrastructure asset class that bypasses federal leakage.
 
-Unlike prior initiatives reliant on ongoing deficit spending and taxpayer resources, NUPA is capitalized at a $0.00 cost basis through the strategic redeployment of dormant land—delivering structural resolution with fiscal responsibility and enduring national benefit.
+**​II. Evidence of Historical Superiority**
 
-Fiscal Precedent: Unlike the New Deal or the Great Society, which relied on perpetual deficit spending and taxpayer extraction, NUPA is capitalized at a $0.00 cost basis via the licensing of dormant land.  
+​Unlike prior national initiatives reliant on volatile oil revenues, external debt (IMF/World Bank), or overstretched federal budgets, NUPA-NG is capitalized at a ₦0.00 taxpayer cost basis. It delivers structural resolution through the strategic redeployment of dormant land—placing real economic power in the hands of the people.  
 
-Debt Discharge: While traditional bills add to the national debt, NUPA is the only legislation in American history that discharges a multi-trillion dollar liability without an appropriation.  
+ * ​Fiscal Precedent: Unlike legacy "Intervention Programs" that rely on Abuja-led disbursements, NUPA-NG is self-funding via the licensing of dormant land. It requires no new taxes and no federal appropriations.
 
-Labor Protection: NUPA provides the only market-based defense against Artificial Intelligence (AI) displacement, utilizing Fixed Cost Arbitrage to make human labor more competitive than automation.  
+ * ​Debt Discharge: While traditional policies deepen the national debt (now exceeding ₦153 Trillion), NUPA-NG is the only framework in Nigerian history that discharges massive public liabilities through the creation of new, non-oil economic volume.
 
-Institutional Grace: Every other large-scale social program created a permanent bureaucracy; NUPA mandates the sunset and dissolution of its facilitator agency, The National Unity and Prosperity Act Land Trust Authority (NUPALTA), once all governance is seated.  
+ * ​The 80/20 Anti-Leakage Shield: NUPA-NG solves the "Zero-Sum" conflict. By hard-coding 80% of ground rents directly to the Host Community and 20% to Hub Infrastructure, the framework ensures that local wealth stays local.
 
-### III. The Legal and Economic Lock
+ * ​Labor Protection (The AI Firewall): NUPA-NG provides the only market-based defense against the coming AI displacement of the Nigerian youth. It utilizes Fixed Cost Arbitrage to make human labor 70% more competitive than automation within the hubs.
 
-Fifth Amendment Shield: Once the irrevocable licensed interest vests in the CLT, it is protected as a compensable property interest under the Fifth Amendment. Any arbitrary revocation triggers just compensation for the lost value of the perpetually vested economic rights.
+ * ​Institutional Grace: Every other large-scale Nigerian program created a permanent, bloated bureaucracy; NUPA-NG mandates the sunset and dissolution of its facilitator agency (NUPALTA-NG) once all local boards are seated.
 
-Irrevocable Finality: Any future attempt to reverse this settlement triggers a "State-Induced Market Failure," making the offending party's office, within its capacity as a functionary of the federal government liable for "Just Compensation" for the interruption of the perpetually vested licensed economic rights/interest. 
+**​III. The Legal and Economic Lock**
 
-The Exponential Tax Surge: The Treasury reaps a massive, predictable influx of Income, Payroll, Corporate, etc., taxes from assets that previously generated $0.00 in revenue.
+ * ​Land Use Act Shield: Once the irrevocable licensed interest vests in the Community Land Trust (CLT), it is protected as a vested property interest under Nigerian law. Any arbitrary revocation by a state or federal entity triggers a liability for the lost value of the perpetually vested economic rights.
 
-# STATEMENT OF OWNERSHIP AND INTENT: THE NUPA FRAMEWORK
+ * ​Irrevocable Finality: Any future attempt to reverse this settlement or "recapture" the 80% community yield triggers a "State-Induced Market Failure." This makes the offending administrative body liable for the full "Just Compensation" of the interrupted economic interests.
+
+ * ​The Volume-Tax Surge: The Federal and State Treasuries reap a massive, predictable influx of VAT, Corporate Tax, and Payroll Tax from industrial hubs that previously generated zero revenue. The government gets the Volume, while the people keep the Rent.
+
+**​NUPA-NG: The End of Scarcity. The Beginning of Sovereignty.**
+
+# STATEMENT OF OWNERSHIP AND INTENT: THE NUPA-NG FRAMEWORK
 
 ### I. Declaration of Authorship
 
-This document serves as a formal declaration that the National Unity and Prosperity Act (NUPA) framework (formerly "Cooperative Land Assets Model" or "CLAM"), including the 40/40/20 Recursive Reinvestment Model, the Fixed Cost Arbitrage logic, and the Verification Assistance Program (VAP), was authored solely by Brandon Anthony Bedard. This "Technical Stack" was engineered between November 18, 2025 and December 22, 2025, evolving from the CLAM framework, to the NPLTA, then finally to the NUPA framework, solving a series of 400-year and 160-year economic and jurisdictional puzzles that remained unaddressed by traditional governmental and academic institutions, while also adding a mechanism to protect the American workforce from potential automation employment displacement.
+This document declares that the National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG), including the 80/20 Recursive Reinvestment Model, Fixed Cost Arbitrage logic, and Community Trust mechanisms, was authored solely by Brandon Anthony Bedard. The technical stack was engineered between November 18, 2025 and December 22, 2025, evolving from the original CLAM model into a polymorphic OS tailored for Nigeria—solving debt leakage, job displacement from AI, and underutilised land under the Land Use Act of 1978.
 
 ### II. Record of Formal Service and Public Disclosure
 
-Since November 18, 2025, the Architect has established a comprehensive record of disclosure. While internal review status for most recipients remains unascertained, the framework has been formally served to the following entities to establish Prior Art and Public Domain Awareness:
-
- * Sovereign & Legal Service: The Hualapai Tribal Council, CRIT, NCAI, NARF, ILTF, Galanda Broadman, and Brownstein Hyatt Farber Schreck.
- * Institutional Delivery: Executive Director Julio Galindo (MCC) via physical copy and digital "Arsenal," and Jeffrey Wilson (ASU).
- * Public & Media Saturation: Tucker Carlson, Chris Cuomo, HasanAbi, Tim Pool, Ali Bradley, Ian Crossland, Michael Moore, Matt Walsh, NPR, ABC, NBC, Politico, and the Associated Press.
- * Active Technical Review: A formal economic evaluation is currently being conducted by the economic think tank Zero Equilibrium.
+Since February 2026, the framework has been disclosed publicly via [open-source GitHub](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA), establishing prior art. No formal service list is maintained—disclosure is continuous and verifiable through commit history.
 
 ### III. The 1% Framework Usage Fee
 
-As the Architect of this system, a perpetual 1% Framework Usage Fee is established as a performance-contingent royalty. This fee is not a retainer or a taxpayer-funded grant; it is triggered exclusively by the successful execution of private corporate ground leases within a NUPA-chartered hub. This fee is hard-coded in every lease agreement and is explicitly non-negotiable.
+A perpetual 1% Framework Usage Fee is established as a performance-based royalty. It triggers only on successful execution of private corporate ground leases in NUPA-NG hubs—hard-coded in every agreement, non-negotiable.
 
- * Contingency of Success: The Architect receives no compensation unless the framework successfully generates new wealth for the Sovereign Nations and the designated beneficiaries.
- * Perpetual Alignment: This fee is perpetual to mirror the perpetual growth ensured by the 20% Recursive Reinvestment engine, ensuring the Architect’s interests remain permanently aligned with the continued prosperity and stability of the system.
- * NUPALTA and VAP Funding: Aside from paying the Architect himself, this fee specifically goes to pay for the continued operations for NUPALTA until the agency sunsets, after which time the fee goes to pay for the Legacy Administrator. This fee also pays for the express maintenance and privacy of the Verification Assistance Program's (VAP) Forensic Genealogical Survey and the legal representation of the Architect and the framework in all litigious matters.
- * Architect’s Limited Veto Provision: The Architect retains a narrow, non-delegable veto power exercisable solely in two circumstances: (1) any corporation that has directly caused personal harm to the Architect through misclassification, algorithmic lockouts, or predatory labor practices (including DoorDash and all other supporters or beneficiaries of California Proposition 22), and (2) major institutional investors that have publicly advocated for or implemented policies designed to create or maintain a permanent dependency class (specifically BlackRock, Vanguard, and State Street). In all other cases, participation decisions for ground leases and hub operations rest exclusively with the local VQPV boards and the Sovereign Tribe/CLT, consistent with the decentralized, non-bureaucratic design of the NUPA framework.
+- **Contingency of Success**: No payment unless wealth is generated for communities and the hub.  
+- **Perpetual Alignment**: Mirrors the 20% reinvestment engine for ongoing stability.  
+- **Funding**: Covers legacy admin (post-sunsetting agency), escrow maintenance, and legal defense of the framework.  
+- **Architect’s Limited Veto**: Narrow, non-delegable—only for corporations causing direct harm to the Architect (e.g., misclassification, predatory gig platforms) or major investors promoting dependency (e.g., BlackRock, Vanguard, State Street). All other decisions rest with local Community Trusts.
 
 ### IV. Economic and Social Justification
 
-The 1% fee represents a fractional exchange for the following universal benefits:
-
- * The Exponential Tax Surge: A massive, perpetual new revenue stream for the Federal Government without tax increases.
- * Fixed Cost Arbitrage: Preservation of American jobs by lowering the fixed costs of domestic production.
- * Historical Resolution: Settling the 1860s national debt and restoring tribal sovereignty via private capital.
+The 1% fee exchanges for:  
+- Massive non-oil revenue surge via corporate taxes, VAT, payroll from new hubs.  
+- Fixed Cost Arbitrage firewall preserving human jobs against automation.  
+- Direct 80% rent flow to communities—bypassing federal intermediaries.
 
 ### V. Finality of Intellectual Property
 
-The NUPA framework is a complete, plug-and-play economic engine. The Architect’s 1% fee is the recognition of the unique intellectual labor required to bridge the gap between historical debt and future prosperity. 
+NUPA-NG is a plug-and-play economic engine for Nigeria. The 1% fee recognises the intellectual bridge from idle land to self-funding prosperity.
+
+# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT – NIGERIAN ADAPTIVE FRAMEWORK (NUPA-NG)
+
+TO:  
+- State Governors (Land Use Act custodians)  
+- Federal Ministry of Finance  
+- National Economic Council  
+- Community Land Trusts and Host Communities  
+
+FROM: Brandon Anthony Bedard (Policy Architect)  
+ORIGINAL DRAFT: CLAM Framework  
+ORIGINAL DRAFT DATE: November 18, 2025  
+REVISED DRAFT: NUPA-NG Framework  
+REVISION DATE: March 30, 2026  
+SUBJECT: STATE LAND OPTIMISATION – A Private Solution to Debt Leakage, AI Displacement, and Underutilised Resources.
 
 # POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT (NUPA)
 
