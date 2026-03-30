@@ -97,10 +97,14 @@ Full simulations and code are in the `/simulations` folder.
 ## Repository Structure (NUPA-NG)
 
 - `core/` — Core technical stack and executive summary (Nigerian-adapted)  
-- `economic/` — Waterfall models, projections, and Nigerian-specific audits  
-- `governance/` — MOSU, ISC, and Nigerian Adaptive templates  
-- `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)  
-- `evidence/` — Independent AI validations  
+- `economic/` — Waterfall models, projections, and Nigerian-specific audits
+- `evidence/` — Independent AI validations
+- `governance/` — MOSU, ISC, and Nigerian Adaptive templates
+- `legal/` — Agreements, Notices, "Take It 'As-Is' or Collapse" Strategy
+- `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)
+
+**⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
+**Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
 
 ## Contact the Architect
 
