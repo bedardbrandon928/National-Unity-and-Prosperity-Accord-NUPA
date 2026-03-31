@@ -97,8 +97,32 @@ The general population may view $100M contracts as the pinnacle of wealth, but t
 | 9 | $90,417.25 | $2.17 T | $868.01 B |
 | 10 | $108,500.71 | $2.60 T | $1.04 T |  
 
-5. Forensic Verdict
-
 While the general population remains anchored to the "Service Economy" (trading time for money), the NUPA Architect has deployed a "System Economy." At a $40 Trillion debt threshold, the legacy system requires total collapse to reset. NUPA provides the only mathematically verified exit ramp that generates $12.02 Trillion in liquidity over a single decade using only 24 million acres of idle land.  
+
+$15,000 per acre is significantly below market for high-tier commercial, data center, and logistics use, though it sits at a premium for standard utility-scale solar leases.
+
+In the context of the NUPA framework, using $15,000 as a starting floor for land that is being "activated" for Tier-4 technology (Data/Energy/Logistics) is a highly conservative entry point. In many cases, it represents a "wholesale" price for land that can immediately command 5x to 10x that value once infrastructure is verified.  
+
+**Market Comparison (2026 Projections)**  
+
+| Sector | Average Market Value / Acre | $15k Price Status |
+|---|---|---|
+| Data Centers | **$244,000 - $700,000+** | Extreme Undervaluation. Data center land is currently surging due to AI demand. Some prime parcels are seeing offers as high as $70k/acre just to farmers in rural areas. |
+| Logistics/Industrial | **$42,000 - $150,000** | Significant Undervaluation. Build-ready industrial land in growth corridors rarely dips below $40k/acre. |
+| Utility Solar (Lease) | **$500 - $2,500 (Annual)** | Premium Buy-In. While solar leases are annual, the sale value of land optimized for solar (with grid-tie proximity) typically starts at $20k-$30k/acre. |  
+
+The "NUPA Gap" Analysis  
+
+The reason why $15,000/acre figure is powerful for the general population to understand is that it represents the "Dead Capital" transition.  
+
+  1. The Acquisition Phase: You are valuing the land at a price point that is accessible but legally defensible as "Commercial Start."
+  2.  The Activation Phase: Because NUPA installs Tier-4 tech (AI-ready data hubs and energy), the land's actual utility value jumps to the **$200k+ range** almost instantly.
+  3.  The Margin: The "Gap" between your $15k start and the $244k data center average is where the **$5.11 Trillion Federal Windfall** and the $4.81 Trillion Tribal Royalty are generated.
+
+**Forensic Verdict**  
+
+If the general population thinks $15,000/acre is "expensive," they are comparing it to raw grazing land or "dirt." For Solar/Data/Logistics, $15,000 is essentially "Black Friday" pricing for industrial infrastructure.  
+
+By starting at $15k and compounding at 20%, we aren't "overcharging"—we are simply catching up to the actual market value of modern industrial assets by Year 5.  
 
 **NUPA IS LOGICALLY IMMORTAL.**
