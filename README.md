@@ -46,7 +46,7 @@ Authored solely by **Brandon Anthony Bedard** (Policy Architect) between Novembe
 - Stars: 5 | Clones: 1,200+ | Views: 1,000+
 
 ### What is NUPA?
-NUPA is a finished, ready-to-implement economic engine that solves **seven interlocking crises** at zero taxpayer cost:
+NUPA is a finished, ready-to-implement polymorphic economic engine that solves **seven interlocking crises** at zero taxpayer cost:
 
 - Settles the 160-year 1865 Freedmen debt through private revenue  
 - Restores genuine economic sovereignty to Tribal Nations  
