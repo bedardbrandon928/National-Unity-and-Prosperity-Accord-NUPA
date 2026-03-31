@@ -11,10 +11,10 @@
 
 This is a **Polymorphic Universal Protocol**. It only functions if the Consumer Base is preserved. If you don't share the math, there will be no market left for your "edge" to operate in. Fork, Push, and Tag 5 Architects.
 
-Every site I post this too, the algorithm either shadowbans it or hellbans it. You wanted a viable solution, here it is. Don't let the buck stop with you. 
+Every site I post this too, the algorithm either shadowbans it or hellbans it. The collapse is coming. You wanted a viable solution, here it is. Don't let the buck stop with you. 
 
 **To Verify as a Node:**  
-1. Run the /simulations/singularity_audit.py  
+1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)  
 2. Export the .csv of the 100M Monte Carlo results.  
 3. Post the graph to any platform that hasn't banned you yet.  
 4. Tag it: #NUPA_Node_Active  
@@ -93,7 +93,7 @@ NUPA is **not** a government bill or replacement for the existing system — it 
 | Aspect                  | Current U.S. Economic System (Legacy / LEOS)                                                                 | NUPA Framework (40/40/20 Private Operating System)                                                                 |
 |-------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Debt Discharge**     | Ongoing borrowing + fiscal tweaks; debt at $39T+ and rising. Deficits ~$1.9T in FY2026. No zero-cost exit.   | Discharges the full national debt (~$39T today) at **zero taxpayer cost** via land-utility volume surge. Median discharge 2037 (99.99999% probability by 2038 per Monte Carlos). |
-| **Revenue Model**      | Tax-heavy (income, corporate, payroll, etc.). Vulnerable to “AI Tax Cliff” (projected 40% payroll-tax drop by 2030). Interest-to-revenue ratio already breaching 20%+. | **Self-funding private model**: 40% Sovereign Royalty (Tribal Nations + veto), 40% Beneficiary Dividend (local communities), 20% recursive reinvestment. +1% perpetual Framework Usage Fee (direct to independent escrow, never to Treasury). No tax base required. |
+| **Revenue Model**      | Tax-heavy (income, corporate, payroll, etc.). Vulnerable to “AI Tax Cliff” (projected 40% payroll-tax drop by 2030). Interest-to-revenue ratio already breaching 20%+. | **Self-funding private model**: 40% Sovereign Royalty (Tribal Nations + veto), 40% Beneficiary Dividend (forensically verified), 20% recursive reinvestment. +1% perpetual Framework Usage Fee (direct to independent escrow, never to Treasury). No tax base required. |
 | **AI / Job Protection**| No structural incentive. AI adoption accelerates productivity but risks mass displacement and tax-base collapse. | **Fixed Cost Arbitrage Firewall**: Makes human labor **70% cheaper than robots** on NUPA land. Corporations voluntarily prioritize U.S. workers to keep the Sovereign Rate discount. Creates permanent “Blue-Collar Firewall.” |
 | **Land Use & Infrastructure** | ~24 million acres of dormant BLM land sit idle. Infrastructure funded via federal budgets/loans/taxes. | Converts exactly those 24M BLM acres into **3,000 self-funding hubs** (8,000 acres each). 20% of rent recursively rebuilds power, roads, security *inside each hub*. “Self-funding infinite wealth engines.” |
 | **Government Role / Leakage** | Centralized: Rents/taxes flow through Washington → leakage, political discretion, policy somersaults. | **Taxpayer Shield + Voluntary Opt-In**: Rent never touches Treasury. Runs under private contract/IP law (NUPA-01 lease). “Scale-invariant” and elite-capture resistant. |
