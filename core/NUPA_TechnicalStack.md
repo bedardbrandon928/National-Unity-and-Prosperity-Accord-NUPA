@@ -109,7 +109,7 @@ The 1% fee exchanges for:
 
 NUPA-NG is a plug-and-play economic engine for Nigeria. The 1% fee recognises the intellectual bridge from idle land to self-funding prosperity.
 
-# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT – NIGERIAN ADAPTIVE FRAMEWORK (NUPA-NG)
+# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT - NIGERIA (NUPA-NG)
 
 TO:  
 - State Governors (Land Use Act custodians)  
@@ -124,239 +124,207 @@ REVISED DRAFT: NUPA-NG Framework
 REVISION DATE: March 30, 2026  
 SUBJECT: STATE LAND OPTIMISATION – A Private Solution to Debt Leakage, AI Displacement, and Underutilised Resources.
 
-# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT (NUPA)
+### EXECUTIVE SUMMARY: A Net-Zero Cost Solution to Structural Liability
 
-TO:
- * The House Committee on Natural Resources (Federal Lands Subcommittee)
- * The House Committee on Education and the Workforce
- * The Congressional Western Caucus
- * The House Ways and Means Committee
+This proposal presents the only fiscally responsible mechanism for addressing Nigeria's ₦153.29 trillion+ debt, AI job displacement, and idle land under the Land Use Act—without new taxes or federal spending.  
+- **Net-Zero Fiscal Cost**: NUPA-NG runs on private leases—no taxpayer money.  
+- **Anti-Automation Firewall**: Below-market land leases make human labour cheaper than robots.  
+- **Irrevocable Finality**: Perpetual community trusts lock in benefits, bypassing leakage.
 
-FROM: Brandon Anthony Bedard (Policy Architect)
-ORIGINAL DRAFT: CLAM (Cooperative Land Assets Model) Framework
-ORIGINAL DRAFT DATE: November 18, 2025
-REVISED DRAFT: National Unity and Prosperity Act (NUPA) Framework
-REVISION DATE: December 21, 2025
-FINAL REVISION DATE: February 22, 2026
-SUBJECT: FEDERAL ASSET OPTIMIZATION: A Structural Solution to Automation, Unfunded Liabilities, and Workforce Instability.
+**I. THE ECONOMIC GUARANTEE: State Land Licensing Protocol**
 
-## EXECUTIVE SUMMARY: A Net-Zero Cost Solution to Structural Liability
+NUPA-NG functions as a generative, closed-loop engine that compounds wealth in perpetuity, boosting non-oil revenue without tax hikes. The primary mechanism licenses idle state-managed land into Community Land Trusts (CLTs) to discharge debt and create jobs.
 
-This proposal presents the only fiscally responsible and politically viable mechanism for settling the nation's largest structural economic liabilities while securing the American workforce against the threat of Artificial Intelligence (AI) displacement.
- * Net-Zero Fiscal Cost: NUPA requires zero new taxpayer dollars for its operation. It capitalizes the solution by optimizing underutilized Federal Land (BLM acreage), converting dormant assets into revenue-generating engines.
- * The Anti-Automation Firewall: The policy incentivizes corporations to prioritize human labor over automation by lowering fixed land costs for compliant firms. This creates a market-based "Blue Collar Firewall" without government regulation.
- * Irrevocable Finality: The 'Perpetual Sovereignty Licensing Protocol' (FASL irrevocability clause) ensures the permanent discharge of historical national debt liabilities, protected by the Fifth Amendment.
+**A. The Automation Offset Mandate (Labour Protection)**
 
-### I. THE ECONOMIC GUARANTEE: Federal Asset Sovereignty Licensing (FASL)
-
-NUPA functions as a generative, closed-loop economic engine that compounds wealth in perpetuity, strengthening the tax base without raising tax rates.  FASL is the primary mechanism of the NUPA framework. It is a structural protocol that reclassifies underutilized Federal (BLM) land as a Sovereign Asset. This asset is then licensed to Community Land Trusts (CLTs) to satisfy outstanding national liabilities and discharge structural debts without an appropriation of taxpayer funds.
-
-**A. The Automation Offset Mandate (Labor Protection)**
-
-The framework provides a Fixed Cost Arbitrage. By utilizing sovereign ground leases significantly below commercial market rates, corporations recapture the capital traditionally lost to real estate overhead. This 'recovered capital' is then redirected to stabilize the variable costs of human labor, making the hiring of humans fiscally superior to the high CapEx and maintenance cycles of automated systems.
- * Fixed Cost Reduction: Corporations contracting with the Community Land Trusts (CLTs) benefit from long-term, stable commercial leasing, dramatically reducing their fixed capital overhead.
- * Labor Prioritization: The resulting reduction in fixed overhead creates a greater operational tolerance for the variable costs associated with human labor.
- * Job Protection: This restructuring allows corporations to competitively choose human labor over automation, structurally incentivizing job creation and wage growth.
- * Exponential Tax Revenue Surge: The engine creates a massive, perpetual economic stimulus that directly benefits the Treasury through increased Income Tax (on dividends), Payroll Tax (from new jobs), and Corporate Tax, and more.
+The framework provides Fixed Cost Arbitrage. Corporations get 99-year leases at 70% below-market rates, freeing capital to hire humans over bots.  
+- Fixed Cost Reduction: Stable, cheap land cuts overhead.  
+- Labour Prioritisation: Lower fixed costs tolerate human wages.  
+- Job Protection: Companies choose people for profit—not law.  
+- Revenue Surge: New taxes/VAT/payroll from hubs.
 
 **B. The Compounding Wealth Engine**
 
-The framework mandates reinvestment to guarantee exponential economic growth without relying on the U.S. Treasury.
- * Zero-Cost Capitalization: The Trust acquires irrevocable licensing rights at a $0.00 cost basis via federal licensing under FASL of dormant BLM land (long-term ROW interests).
- * Leverage & Development: The licensed interest's value/equity is used to secure private Development Bonds to build high-yield commercial infrastructure (Solar Energy Farms, Data Centers, Logistics Hubs, etc.).
+Reinvestment guarantees growth without Abuja budgets.  
+- Zero-Cost Capitalisation: Idle land licensed at ₦0.00 via governors.  
+- Leverage & Development: Lease equity secures private bonds for solar, data, logistics.
 
-**Program Phases and Scaling**
+Program Phases and Scaling
 
-NUPA operates in two distinct phases to ensure efficient bootstrap, verifiable justice, and perpetual self-sustainability.
+**Phase 1: Ignition and Stabilisation**  
+Funded by corporate option fees into neutral escrow. Community Trusts form, prove revenue, start 80% direct payouts.
 
-**Phase 1: Ignition and Stabilization (Seed Beneficiaries)**
+**Phase 2: Private Sector Funding**  
+Anonymous sponsorships scale hubs. Funds escrow, admin, verification—no federal draw.
 
-Funded exclusively by refundable corporate option fees deposited into neutral escrow upon issuance of the Notice of Opportunity.
-
-NUPALTA uses these private funds to establish operations, build the digital submission portal, hire initial staff/surveyors, and onboard verified seed volunteers (early participants with pre-vetted or fast-track eligible proof).
-Initial CLTs form with priority acreage, demonstrating proof-of-concept revenue loops and beneficiary dividends.
-
-**Phase 2: Private Sector Secured Funding - Anonymous Sponsorship**
-
-Funds both the Justice and Growth Engines. The Justice Engine funds the VAP Phase 2 (Forensic verification for the millions of other descendants). The Growth Engine continues the funds to the NUPALTA Operations. This pays the law firm, surveyors, and scouts so the agency never bills the Treasury.
-
-### II. GOVERNANCE INTEGRITY AND UNASSAILABILITY
+**II. GOVERNANCE INTEGRITY AND UNASSAILABILITY**
 
 The system is built with structural and legal locks to prevent gridlock, corruption, and political reversal.
 
-**A. The Governance Shield (VQPV)**
+**A. The Governance Shield (Community Trust Board)**
 
 1. The Fiduciary Expert Mandate
 
-The Fiduciary serves as the bonded, third-party administrator of the Trust's internal assets.  
- * Internal Audit: They are responsible for the quarterly 40/40/20 disbursement of corporate ground rents.  
- * Dividend Integrity: The Fiduciary shall audit the "Mastery Unlock" to confirm that beneficiaries have achieved competency in Sovereign Real Estate, Renewable Infrastructure, and Recursive Entrepreneurship before releasing the full 100% payout. 
- * Adaptive Dividend Payout Structure:  They are mandated to execute the tiered distribution protocol—Legacy, Empowerment, and Growth—ensuring that the Mastery Bonus (the additional 40% dividend) is only triggered upon the verified completion of the Three Pillars of Knowledge. 
- * Privacy Firewall: They maintain the forensic data from the Verification Assistance Program (VAP), ensuring absolute separation between private ancestry records and government oversight.  
+The Fiduciary serves as the bonded, third-party administrator of the Community Trust's assets.  
+- Internal Audit: Quarterly 80/20 disbursement of ground rents.  
+- Dividend Integrity: Audits "Mastery Unlock" for competency in local real estate, renewable infrastructure, and recursive entrepreneurship before full 100% payout.  
+- Adaptive Payout Structure: Tiered distribution (Legacy, Empowerment, Growth) — Mastery Bonus (extra 20%) only on verified Three Pillars completion.  
+- Privacy Firewall: Maintains private verification data, fully separated from government access.
 
-2. The Local Official Mandate
+**2. The Local Official Mandate**
 
-The Local Government Official is nominated by the local governing body and confirmed by majority VQPV vote to serve as a practical regulatory liaison. This role may be filled by any active member of the government. (e.g., BLM officer, State Representative, County Sheriff, City Council Member, City Mayor, etc.)
- * Compliance Facilitation: They coordinate permitting, infrastructure integration, and adherence to federal, state, and local regulations (including environmental, labor, and safety standards).
- * Risk Detection: They provide an early-warning mechanism for potential risks such as lessee non-compliance, security concerns, or fraudulent activity.
- * Agency Channeling: They maintain direct channels to relevant agencies (e.g., OSHA, EPA, SEC, FBI, IRS, etc.) for consultation or reporting.
- * Veto Limitation: They hold no veto power and may not unilaterally block board decisions, ensuring municipal interests do not override Trust autonomy.
+The Local Government Official (nominated by community, confirmed by board majority) acts as regulatory liaison.  
+- Compliance Facilitation: Coordinates permits, infrastructure, and adherence to state/federal regs (environment, labour, safety).  
+- Risk Detection: Early warning for lessee non-compliance, fraud, or security issues.  
+- Agency Channeling: Direct links to relevant bodies (e.g., EFCC, NEMA, NESREA).  
+- Veto Limitation: No unilateral block—ensures local interests don't override Trust autonomy.
 
-3. The Community Land Trust Mandate
+**3. The Community Land Trust Mandate**
 
-​The licensed land is managed by local/digital CLTs governed by the proprietary Variable Quad-Partite Vetting (VQPV) System, serving as the central fiduciary engine and the primary legal fortress for the asset. 
- * Shared Title Aggregation: The CLT represents the Sovereign Tribe and the verified Beneficiaries as shared beneficial interest holders under the license. This structure is established in name alone to facilitate streamlined execution of 99-year commercial ground leases, removing the administrative gridlock of individual stakeholder signatures.
- * Trust Capacity Limits (Saturation Guardrail): Each digital CLT is optimized for an 8,000-acre "Hub" to ensure high-yield dividend density. To maintain the 40% Beneficiary Dividend as a high-velocity wealth engine, each CLT is capped at a maximum capacity of 5,000 verified beneficiaries that do not need to relocate from their currently established homes.
- * Modular Scaling: Once a specific CLT reaches its 5,000-beneficiary capacity, new verified descendants are assigned to the next sequential CLT hub. This ensures that the 40/40/20 disbursement remains a life-altering "Birthright Dividend" rather than a diluted social payment.  
- * Perpetual Sovereignty Licensing Protocol: The irrevocable licensing of underutilized BLM acreage under FASL operates as a permanent vesting of sovereignty licensing rights into the CLT. Once licensed, the licensed interest is protected by the Fifth Amendment against arbitrary federal revocation or impairment without just compensation.
- * Acreage-to-Beneficiary Ratio: To ensure governance integrity and prevent administrative stagnation, each CLT is restricted to a specific allocation of acreage (8,000) and a manageable cohort of situated beneficiaries (5,000). This "Modular Trust" model ensures that localized VQPV boards can effectively manage the 40/40/20 disbursement without the dilution of oversight.
- * Sovereign Recognition: The CLT utilizes the Sovereign status of the participating Tribe to shield the licensed land from traditional municipal property taxes, ensuring the asset operates as a high-margin, tax-exempt economic engine.
- * Development Bond Capacity: The CLT is empowered to leverage its irrevocable licensing interest/sovereign license as collateral to secure private Development Bonds. This allows for the construction of Tier-1 infrastructure (Solar Energy, Data Centers/Logistics Hubs) at a $0.00 taxpayer cost basis.
+Licensed land managed by digital/local CLTs under Variable Quad-Partite Vetting (VQPV) system.  
+- Shared Interest Aggregation: CLT holds beneficial interests for community—streamlines 99-year leases without individual signatures.  
+- Saturation Guardrail: 4,000-hectare "Hub" cap for high-yield density; max 5,000 verified beneficiaries per CLT (no relocation required).  
+- Modular Scaling: New beneficiaries roll to next hub—keeps dividends life-changing, not diluted.  
+- Perpetual Licensing Protocol: Irrevocable under Land Use Act—protected against arbitrary revocation.  
+- Acreage-to-Beneficiary Ratio: 4,000 hectares / 5,000 people—keeps oversight effective.  
+- Development Bond Capacity: Leverage lease for private bonds (solar, data, logistics) at ₦0.00 cost.
 
-4. The Sovereign Tribe Mandate (The Sovereign Key)
+**4. The Community Sovereignty Mandate (The Community Key)**
 
-The Tribe participates as the high-level governing authority and the primary holder of the Sovereign Key, ensuring the licensed land's status as a tax-exempt economic engine.
- * The Strategic Veto: The Tribe holds the final authority to approve or deny all corporate ground leases, acting as the ultimate safeguard against predatory or high-automation developments.  
- * Sovereign Recognition: The Tribe provides the necessary legal standing for the Perpetual Sovereignty Licensing Protocol, shielding the CLT from traditional municipal property taxes.  
- * Legacy Oversight: The Tribe ensures that the CLT's commercial activities align with the 99-year longevity required by the Recursive Economic Loop.  
- * Zero Administrative Burden: As the primary Sovereign partner, the Tribe is exempt from daily administrative duties and mandatory educational gateways, focusing exclusively on high-level governance and the receipt of the 40% Sovereign Royalty to be utilized in any capacity the relevant Tribal governance sees fit.
+Local community acts as high-level authority and holder of the "Community Key".  
+- Strategic Veto: Final say on corporate leases—blocks predatory or high-automation deals.  
+- Legacy Oversight: Ensures alignment with 99-year loop.  
+- Zero Burden: No daily admin—focus on governance and 80% direct rent flow.
 
-5. The Symmetry of Power (The "No" vs. "Yes" Protocol)
+**5. The Symmetry of Power ("No" vs. "Yes" Protocol)**
 
- * The Definite "No" (The Sovereign Exit): The Sovereign Tribe maintains an absolute right to disengage from the Cooperative Alliance should they document bad-faith federal overreach or a violation of Tribal interests. This "Right to Walk Away" triggers the Indivisibility Mandate, protecting the Tribe from being "forced" into a stagnant or predatory partnership.  
- * The Conditional "Yes" (The Consensus Guardrail): While the Tribe holds a Strategic Veto over corporate leases, they do not hold an absolute yes over the board. A "Yes" vote for any commercial development requires the concurrence of the Fiduciary and the Local Official.  
- * Conflict Resolution: If the Tribe wishes to proceed but the Fiduciary or Local Official raises documented red flags (e.g., environmental risk, financial instability, or automation non-compliance), the project enters a mandatory 10-day mediation window.  
- * The Neutral Tiebreaker: If gridlock persists, the NUPALTA Legacy Administrator may cast a tie-breaking vote, but only if the proposed action aligns with the core mandate of human labor protection and fiduciary safety.  
+- Definite "No" (Community Exit): Absolute right to disengage on bad-faith overreach—triggers protective dissolution.  
+- Conditional "Yes" (Consensus Guardrail): "Yes" for development needs Fiduciary + Local Official concurrence.  
+- Conflict Resolution: Red flags trigger 10-day mediation.  
+- Neutral Tiebreaker: Legacy Admin votes only if action aligns with human labour protection and fiduciary safety.
 
 **B. Agency Charter and Dissolution**
 
- * Pre-Ignition: NUPALTA is officially represented solely by the Policy Architect until PHASE 1 Funding is initiated or the 10% licensing under FASL is initiated before funding can be established moving directly into Disbursement PHASES 1 and 2, at which point representation and management of NUPALTA moves to the designated Tier-1 law firm for structuring and operation.
- * Sunset Provision: Upon the successful seating of all VQPV Boards across 24 million acres (approx. 3000 VQPV Boards), the federal facilitator agency (NUPALTA) shall formally dissolve, relinquishing oversight to each local governance board. This ensures no permanent federal bureaucracy is created.  One "Legacy Administrator"shall remain after dissolution in order to act as a VQPV tie-breaking vote should it ever be necessary.
+- Pre-Ignition: NUPALTA-NG represented by Architect until Phase 1 funding or licensing starts—then shifts to Tier-1 law firm.  
+- Sunset Provision: Dissolves after all Community Trust boards seated—oversight to locals. One Legacy Admin stays for tie-breaks.
 
 **C. Gridlock Elimination Mandate**
 
-The structure prevents institutional stagnation that would impede revenue generation:
- * The NUPALTA Tiebreaker Mechanism is restricted to mission-critical items (Asset Management, Fiduciary Compliance, Governance Integrity).
- * The NUPALTA is empowered to impose mandatory mediation upon any voting outcome that results in a stagnation of commercial development or a delay in the recursive reinvestment schedule.
+Prevents stagnation:  
+- Tiebreaker limited to asset management, compliance, integrity.  
+- Mandatory mediation on any delay in development or reinvestment.
 
 **D. THE INDIVISIBILITY MANDATE (SYSTEMIC FAIL-SAFE)**
 
- * Indivisible Governance: The VQPV is a fused governance model. Any administrative action that attempts to marginalize Tribal authority or bypass the VQPV board or attempts the removal, marginalization, or bad-faith obstruction of any quadrant—specifically Tribal Sovereignty or Beneficiary Equity— triggers a Mandatory 10-Day Resolution Window. This period allows the Sovereign Nation to formally identify the overreach and provides the offending government office time to retract the action or resolve the breach. If the breach remains unresolved at the conclusion of Day 10, it triggers an Automatic Protective Dissolution of the CLT charter.
- * Federal Liability for Stagnation: Any dissolution of a local CLT Charter resulting from documented federal administrative overreach or "Institutional Bullying" shall be legally categorized as a "State-Induced Market Failure."
- * Liability Cascade: Upon dissolution, the offending party's office, within its capacity as a functionary of the U.S. Government, shall be held solely liable for all resulting third-party commercial damages, corporate breach claims, and Constitutional "Just Compensation" for the interruption of perpetually licensed sovereign economic rights/interest.
- * Audit-Exemption: This framework utilizes Point-of-Origin Verification. Since distributions are fixed and visible to VQPV, traditional audits are redundant. Direct interference with Architect Fees or Sovereign Royalties are unnecessary and is expressly prohibited.
+* Indivisible Governance: The Community Trust Board is fused. Any action marginalising community authority, bypassing the board, or obstructing quadrants (especially Community Sovereignty or Direct Rent Flow) triggers a Mandatory 10-Day Resolution Window. This lets the community identify overreach and gives the offending office time to retract or fix. If unresolved by Day 10, Automatic Protective Dissolution of the Trust charter follows.
+* State Liability for Stagnation: Dissolution from documented governor/admin overreach or "Institutional Bullying" categorised as "State-Induced Market Failure."
+* Liability Cascade: Offending office held liable for third-party damages, breach claims, and compensation for interrupted perpetual lease rights.
+* Audit-Exemption: Point-of-Origin Verification—distributions fixed/visible to board. No audits needed; interference with 1% fee or 80% community rent prohibited.
 
-### III.  CRISIS CLAUSE 
+**III. CRISIS CLAUSE**
 
-**A. Sovereign Contingency**
+A. Sovereign Contingency  
+Government may petition board for temporary use in war/crisis. Land stays Trust-owned as "Priority Temporary Sub-Lessee." Reversion automatic 30 days post-crisis.
 
-Government may petition VQPV for temporary usage during declared war or global crisis. Land remains CLT-owned as "Priority Temporary Sub-Lessee." Reversion is automatic 30 days post-crisis.  
+B. Aggressor Liability  
+Damage from external threats categorised as Sovereign Debt. Treaties must include Reparations Escrow for hub restoration.
 
-**B. Aggressor Liability**
+C. Tactical Indigestibility  
+Hub exports (solar/data) low-value for seizure. Occupation triggers "Aggressor Liability" debt—makes it fiscal loss.
 
-Restoration costs for any damage caused by external combatants are categorized as Sovereign Debt. Peace treaties must include a Reparations Escrow to restore Hubs to pre-crisis operational capacity.
+**IV. THE LEGAL IMPERATIVE**
 
-**C. Tactical Indigestibility**
+* Cost of Inaction: Nigeria pays trillions in lost GDP/social costs yearly from stagnation. Refusing this is fiscally negligent.
+* Dual Resolution: Licenses idle state land into self-governing trusts—final settlement of underutilisation claims.
 
-Hub exports (Solar/Data) lack traditional spoils-of-war value. Strategic occupation triggers immediate "Aggressor Liability" debt generation, making physical seizure a net-fiscal loss for any occupier.
+**V. THE MECHANISM: Structural Integrity and Asset Optimisation**
 
-### IV.  THE LEGAL IMPERATIVE
+A. Asset Source and Management (The 10% Preservation Limit)  
+* Statutory Cap: Governors authorise licensing of idle parcels; total not exceed 10% of state-managed land.  
+* 90% Preservation Guarantee: 90% stays for public/agriculture/conservation—unaffected by hubs.  
+* Tier-1 Criteria: Select for revenue (solar, data, logistics)—priority "dead capital" near utilities, max 4,000 hectares.  
+* Community Veto Seniority: No parcel licensed without written community consent.
 
- * The Cost of Inaction: The nation implicitly pays trillions in lost GDP and social costs every year by maintaining structural economic stagnation. Refusing this structural solution is fiscally negligent.
- * Dual Resolution: The legal architecture licenses underutilized federal assets into new, self-governing economic entities, providing a comprehensive and final settlement of historical claims.
+**B. Verification Assurance (Privately Funded)**  
 
-### V. THE MECHANISM: Structural Integrity and Asset Optimization
+Preliminary Thresholds for Phase 1 Beneficiaries  
+* Fast-Track: Recent records or community verification for immediate 80% rent unlock.  
+* Expert Proofs: Certified docs routed to full review.  
+* No Cost: Private fee/endowment funds all—zero taxpayer draw.
 
-**A. Asset Source and Management (The 10% Preservation Limit)**
+**VI. FINAL SETTLEMENT AND SHARED SOVEREIGNTY**
 
- * Statutory Acreage Cap: Congress shall authorize the designation and licensing of strategically located, underutilized BLM assets. However, the total aggregate land licensed via FASL through the NUPALTA shall not exceed Ten Percent (10.0%) of the total acreage managed by the Bureau of Land Management (BLM) as of the date of enactment.
- * The 90% Public Preservation Guarantee: To ensure the preservation of traditional land use, ninety percent (90.0%) of existing BLM holdings shall remain under current federal management for public recreation, hunting, grazing, and conservation, unaffected by NUPA commercial development.
- * Tier-1 Selection Criteria: Land within the authorized 10% shall be selected exclusively for Maximum Revenue Viability (e.g., Solar Energy, Data Centers, Logistics). Priority will be given to "Dead Capital" acreage—parcels that currently generate $0.00 in federal revenue and sit adjacent to existing high-capacity utility or fiber corridors, no less than, but not to exceed 8,000 acres.
- * Local Veto Seniority: Even within the authorized 10%, no specific parcel may be licensed without the formal, written Sovereign Opt-In of the relevant Tribal governing body.
+**A. Community Opt-In (Local Control)**
 
-**B. Verification Assurance (Privately Funded)**
+Alliance only on formal written consent of community—upholds local authority.
 
-Preliminary Verification Thresholds for Phase 1 Seed Beneficiaries
- * Fast-Track Eligible Proofs: Recent DNA results from accredited laboratories (e.g., AncestryDNA, 23andMe) or court-certified genealogical records may qualify for immediate onboarding and base dividend unlock, subject to NUPALTA spot-check tracing verified ancestry to the enslaved during the era of chattel slavery in the United States.
- * Expert-Required Proofs: Historical documents (e.g., family Bibles, census records, oral histories) must have prior expert certification (e.g., from genealogists, historians, or legal proceedings) to qualify for fast-track; otherwise, routed to full VAP forensic review.
- * No Taxpayer Cost: All verification costs shall be guaranteed and underwritten by a dedicated private donor endowment/fee structure, ensuring the Verification Assistance Program (VAP) operates without reliance on taxpayer funds.
+**B. Individual Opt-In (Non-Coercive)**  
 
-### VI. FINAL SETTLEMENT AND SHARED SOVEREIGNTY
+Participation voluntary—shields from overreach claims.
 
-**A. Sovereign Opt-In (Local Control)**
+**VII. CALL TO ACTION: A NATIONAL UNITY WIN**
 
- * The mandated Cooperative Alliance shall only take effect upon the formal, written consent of the relevant Tribal governing body. This upholds the principles of local sovereignty and government-to-government relations.
+NUPA-NG aligns governors, communities, youth, and anti-corruption voices.  
 
-**B. Individual Opt-In (Non-Coercive)**
+* For Governors: Unlocks idle land without liability.  
+* For Communities: Direct 80% rent, veto power.  
+* For Economy: Debt relief, jobs firewall, no taxes.
 
- * Participation in NUPA is strictly voluntary (Opt-In/Opt-Out), shielding the legislation from concerns regarding government overreach.
+Urge immediate review—private engine for real change. National Unity and Prosperity Act – Nigerian Adaptive Framework  
 
-### VII. CALL TO ACTION: A BIPARTISAN VICTORY
+**Authored and Copyrighted by Brandon Anthony Bedard, March 2026  
+© 2026. All rights reserved. Submission requires author credit.**  
 
-The National Unity and Prosperity Act offers a rare "Unity Ticket" victory that aligns the interests of Labor, Fiscal Conservatives, and Land Rights advocates.
- * For the Natural Resources Committee: This legislation unlocks the value of dormant federal land, converting liability into an asset without privatization.
- * For the Education & Workforce Committee: This is the only legislative vehicle that provides a market-based defense for American jobs against Artificial Intelligence.
- * For the Budget Hawks: It discharges a multi-trillion dollar national liability for $0.00.
-We urge the Committees to immediately initiate a joint legislative review process for the National Unity and Prosperity Act.
+# THE TRUE NET ZERO/ZERO TAX FRAMEWORK – NUPA-NG
 
-**[COPYRIGHT NOTICE]**
+### I. THE COMMUNITY KEY (The Vital Step)
 
-National Unity and Prosperity Act/Land Trust Authority
-Authored and Copyrighted by Brandon Anthony Bedard, December 2025
-© 2025. All rights reserved. Submission requires author credit in any resulting legislative language.
-
-# THE TRUE NET ZERO/ZERO TAX FRAMEWORK
-
-### I. THE SOVEREIGN KEY (The Vital Step)
-
-Requirement: Before any lease is signed or options sold, a Sovereign Tribe must execute a "Sovereign Opt-In".
-The Power: Tribes hold absolute veto power over specific acreage.
-The Benefit: Tribes receive a "Sovereign Royalty" from commercial success and a permanent seat on the governing Board.
+Requirement: Before any lease or option, a local Community must execute a "Community Opt-In".  
+The Power: Communities hold absolute veto power over specific parcels.  
+The Benefit: Communities receive 80% direct rent flow and a permanent seat on the governing board.
 
 ### II. THE SPARK (Phase 1: Zero Taxpayer Cost)
 
-Funding Source: Corporate Option Fees (Reservation Deposits).
-Mechanism: A designated Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow.
-Priority: Determined by a digital timestamp (First-Come, First-Served).
-Legal Protection: 100% Refundable if the Act is not passed within 24 months of deposit.
-Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the "Seed Beneficiaries" (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and  posting the Notice of Opportunity).
+Funding Source: Corporate Option Fees (Reservation Deposits).  
+Mechanism: Tier-1 Law Firm issues public Notice of Opportunity. Corporations wire standardised deposit into Neutral Escrow.  
+Priority: First-Come, First-Served via digital timestamp.  
+Legal Protection: 100% Refundable if framework not authorised within 24 months.  
+Operational Result: Private funds cover initial admin, Digital Submission Portal, and seed community onboarding—managed by law firm (escrow setup, lease drafts, notices).
 
-### III. THE GOVERNANCE (The VQPV Board)
+### III. THE GOVERNANCE (Community Trust Board)
 
-Structure: Once the Tribe agrees, a 4-person VQPV Board is assembled to govern the land.
+Structure: On community agreement, 4-person board assembles.  
+The Seats:  
+1. Community Representative.  
+2. Seed Beneficiary (Phase 1 Volunteer).  
+3. Local Government Official.  
+4. Fiduciary Expert (Professional).  
 
-The Seats: 
-1.  Tribal Representative.
-2.  Seed Beneficiary (Phase 1 Volunteer).
-3.  Local Government Official.
-4.  Fiduciary Expert (Professional).
+Post-Authorisation by Governor.
 
-Post-Enactment of the NUPA Legislative Framework
+### IV. ASSET ECONOMIC STRUCTURE (Phase 2: Recursive Reinvestment Model)
 
-### IV. ASSET ECONOMIC STRUCTURE (Phase 2: The Recursive Reinvestment Model)
-
-This revenue is derived from the 99-year Ground Leases and Annual Ground Rent paid by the commercial lessees.  
- * 20% Reinvestment Fund: Automatically dedicated to the professional Fiduciary Expert, the Local Official, and the maintenance of the land asset. Crucially, this fund provides the capital for all materials, technology, and curriculum necessary for the "Knowledge" mastery modules, ensuring the educational infrastructure for beneficiaries is self-sustaining and costs the Tribe $0.
- * 40% Sovereign Royalty: A direct payment to the Tribal government for their role as the primary steward and authority.  
- * 40% Beneficiary Dividend: Dedicated payments to the situated beneficiaries assigned to that specific acreage hub.  
+Revenue from 99-year ground leases + annual rent.  
+- **20% Reinvestment Fund**: Auto-dedicated to Fiduciary, Local Official, and hub maintenance—covers materials, tech, curriculum for "Knowledge" modules (solar, logistics, entrepreneurship). Self-sustaining, ₦0 cost to community.  
+- **80% Community Trust**: Direct flow to local community/land trust—real money in hands, bypassing intermediaries.
 
 ### V. THE REVENUE LOOP (Phase 2: Private Sector Secured Funding - Anonymous Sponsorship)
 
- * Justice Engine: Funds the VAP Phase 2 (Forensic verification for the millions of other descendants). 
- * Growth Engine: Funds the NUPALTA Operations. This pays the law firm, surveyors, and scouts so the agency never bills the Treasury.
+- **Justice Engine**: Funds verification for new beneficiaries.  
+- **Growth Engine**: Covers admin, law firm, surveyors—agency never draws from state budgets.
 
-### VI. THE SUNSET (The Decentralization)
+### VI. THE SUNSET (Decentralisation)
 
- * Dissolution Trigger: Once all of the VQPVs are seated and self-governing across the entire 10% of licensed BLM land, NUPALTA (the agency) is no longer required.
- * The Exit: The agency dissolves, relinquishing all administrative power directly to the independent VQPV Boards.
- * The Fail-Safe: A single Legacy Administrator remains as a restricted tiebreaker for board gridlock, funded by a small remnant of the 40% Growth Engine.
+- Dissolution Trigger: Once all Community Trust boards seated across licensed parcels, NUPALTA-NG dissolves.  
+- The Exit: Oversight to independent boards.  
+- Fail-Safe: One Legacy Admin stays for tie-breaks, funded by remnant 20% fund.
 
 **SUMMARY OF THE "ZERO" STATUS**
 
-Taxpayer Cost to Start: $0 (Corporate Funded).
-Taxpayer Cost to Operate: $0 (Royalty Funded).
-Taxpayer Cost to Scale: $0 (Self-Funding Agency).
-Net Treasury Impact: Positive Trillions (New Income, Payroll, Corporate, Sales, Construction, etc. tax revenue).
+Taxpayer Cost to Start: ₦0 (Corporate Funded).  
+Taxpayer Cost to Operate: ₦0 (Rent Funded).  
+Taxpayer Cost to Scale: ₦0 (Self-Funding).  
+Net Revenue Impact: Positive Billions (New corporate taxes, VAT, payroll from hubs).  
 
 # THE CONGRESSIONAL MEMORANDUM: THE NUPA ECONOMIC STABILIZATION FRAMEWORK
 
