@@ -4,7 +4,7 @@
 
 **Author: Brandon Anthony Bedard, Policy Architect**
 
-The United States faces an unprecedented 2026 Trilemma: a $34+ trillion national debt, accelerating AI displacement of the workforce, and fractured sovereignty demands. Traditional government solutions — new taxes, expanded bureaucracy, or deficit spending — only deepen the problem.
+The United States faces an unprecedented 2026 Trilemma: a $40+ trillion national debt, accelerating AI displacement of the workforce, and fractured sovereignty demands. Traditional government solutions — new taxes, expanded bureaucracy, or deficit spending — only deepen the problem.
 
 NUPA is not another federal program. It is a finished private-sector architectural operating system governed entirely by contract and intellectual property law. Congressional involvement is limited to a single, one-time licensing authorization of underutilized BLM land. Once authorized, the framework operates through private Community Land Trusts (CLTs) with no ongoing federal control or taxpayer funding.
 
