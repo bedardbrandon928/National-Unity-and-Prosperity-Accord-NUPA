@@ -19,7 +19,7 @@
 - [**Latest Monte Carlo Simulations**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#latest-monte-carlo-simulations-march-2026)
 - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#repository-structure-nupa-ng)
 - [**Contact the Architect**](#contact-the-architect)
-- [**Media & Further Reading**](
+- [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#media--further-reading)  
 
 ## Foreword
 
