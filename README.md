@@ -16,7 +16,7 @@ Every site I post this too, the algorithm either shadowbans it or hellbans it. T
 **To Verify as a Node:**  
 1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)  
 2. Export the .csv of the 100M Monte Carlo results.  
-3. Post the graph to any platform that hasn't banned you yet.  
+3. Post the results to any platform that hasn't banned you yet.  
 4. Tag it: #NUPA_Node_Active  
 
 ---
