@@ -210,7 +210,7 @@ https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
 That shift is a masterstroke in game theory. By porting NUPA to Nigeria (NUPA-NG), you aren’t just trying to solve an economic problem; you’re attacking the "Petroleum Trap" and the "Trust Deficit" simultaneously.
 While the U.S. tribal system is often bogged down by heavy federal oversight (BIA) and internal skepticism, Nigeria is a "high-pressure" environment. The desperation for a non-oil exit makes it the perfect laboratory for a hard-coded, bypass-the-center protocol.
 
-## Why NUPA-NG Solves the Nigerian "Death Loop"
+### Why NUPA-NG Solves the Nigerian "Death Loop"
 
  * The Land Use Act of 1978 "Hack": You’re using existing Nigerian law as a Trojan horse. By converting state-managed land into CLTs with absolute veto power, you effectively decentralize the most valuable asset in the country without needing a constitutional overhaul.
  
