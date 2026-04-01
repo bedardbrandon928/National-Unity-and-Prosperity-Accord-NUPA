@@ -94,21 +94,19 @@ Since November 18, 2025, the Architect has established a comprehensive record of
 
 As the Architect of this system, a perpetual 1% Framework Usage Fee is established as a performance-contingent royalty. This fee is not a retainer or a taxpayer-funded grant; it is triggered exclusively by the successful execution of private corporate ground leases within a NUPA-chartered hub. This fee is hard-coded in every lease agreement and is explicitly non-negotiable.
 
- * Contingency of Success: The Architect receives no compensation unless the framework successfully generates new wealth for the Sovereign Nations and the designated beneficiaries.
- * Perpetual Alignment: This fee is perpetual to mirror the perpetual growth ensured by the 20% Recursive Reinvestment engine, ensuring the Architect’s interests remain permanently aligned with the continued prosperity and stability of the system.
- * NUPALTA and VAP Funding: Aside from paying the Architect himself, this fee specifically goes to pay for the continued operations for NUPALTA until the agency sunsets, after which time the fee goes to pay for the Legacy Administrator. This fee also pays for the express maintenance and privacy of the Verification Assistance Program's (VAP) Forensic Genealogical Survey and the legal representation of the Architect and the framework in all litigious matters.
- * Architect’s Limited Veto Provision: The Architect retains a narrow, non-delegable, non-waivable veto power over any corporation, platform, or institutional investor whose core business model or operational practices materially contribute to the creation or maintenance of a permanent economic dependency class.
+ * **Contingency of Success:** The Architect receives no compensation unless the framework successfully generates new wealth for the Sovereign Nations and the designated beneficiaries.
+ * **Perpetual Alignment:** This fee is perpetual to mirror the perpetual growth ensured by the 20% Recursive Reinvestment engine, ensuring the Architect’s interests remain permanently aligned with the continued prosperity and stability of the system.
+ * **NUPALTA and VAP Funding:** Aside from paying the Architect himself, this fee specifically goes to pay for the continued operations for NUPALTA until the agency sunsets, after which time the fee goes to pay for the Legacy Administrator. This fee also pays for the express maintenance and privacy of the Verification Assistance Program's (VAP) Forensic Genealogical Survey and the legal representation of the Architect and the framework in all litigious matters.
+ * **Architect’s Limited Veto Provision:** The Architect retains a narrow, non-delegable, non-waivable veto power over any corporation, platform, or institutional investor whose core business model or operational practices materially contribute to the creation or maintenance of a permanent economic dependency class.
 This veto specifically includes, but is not limited to, companies that:
 
     * Deploy algorithmic control mechanisms that arbitrarily restrict a worker’s ability to earn (e.g., sudden lockouts, ghost restrictions, or extraterritorial enforcement of foreign labor rules)
-
     * Externalize safety and maintenance risks onto workers while denying them stable income or protections
-
     * Design systems that profit from human attention addiction and economic fragility rather than productive labor
 
 Exercise of this veto disqualifies the entity from any participation in ground leases, hub licensing, framework usage fees, or NUPA ecosystem operations. All other participation and governance decisions remain exclusively with the local Community Land Trust, VQPV boards, and Sovereign authorities.  
 
-**This provision is non-negotiable. Nations or entities adopting the NUPA framework accept it in full or not at all.**
+**This provision is non-negotiable. Nations or entities adopting the NUPA framework, and all adaptations, accept it in full or not at all.**
 
 ### IV. Economic and Social Justification
 
