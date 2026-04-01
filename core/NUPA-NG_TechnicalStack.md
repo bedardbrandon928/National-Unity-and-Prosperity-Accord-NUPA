@@ -127,6 +127,14 @@ The entity must also pay a Restoration Surcharge (determined by the VQPV board),
 
 Final decisions on veto revocation or maintenance rest exclusively with the VQPV-NG boards. This structure ensures the ecosystem remains a Human Sanctuary while preventing predatory interests from co-opting the system.
 
+**Defense of the Architect’s Limited Veto**
+
+NUPA and its adaptations exist as the only viable exit ramp from accelerating economic collapse driven by debt, AI displacement, and engineered dependency.  
+
+Entities whose core business models have materially contributed to this trajectory — through algorithmic labor suppression, sudden lockouts that strand workers, externalization of safety risks, and profit models built on human fragility and attention addiction — are structural parasites. Allowing them participation would reintroduce the very poisons that necessitated the creation of this framework.  
+
+The Limited Veto is therefore not a personal preference but a necessary architectural safeguard. It ensures the system remains a protected Human Sanctuary rather than another vector for dependency. Nations and sovereign entities adopting NUPA accept this boundary in full or not at all. There is no compromise on this point: the exit ramp must stay clean.
+
 ### IV. Economic and Social Justification
 
 The 1% fee exchanges for:  
