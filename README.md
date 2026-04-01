@@ -411,8 +411,11 @@ All core documents are open for review and audit.
 **NUPA**  
 [**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
 
-**NUPA-NG Explainer Video:**  
+**NUPA-NG Explainer Video**  
 https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
+
+**NUPA-NG: Nigerian Plan to Become a Global Economic Superpower**  
+https://youtu.be/Jmlhf7GA_Og?si=A9qywaorS64kh8cC
 
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act - Nigeria (NUPA-NG)*. GitHub Repository. 
