@@ -2,6 +2,22 @@
 
 **The first complete universal polymorphic private-sector post-scarcity economic operating system designed for Nigeria.**
 
+---
+
+**NOTICE TO CLONERS AND READERS:** If you are running these simulations and seeing the 2035 decoherence, you have a choice. You can be a "Stopshort" and watch the ₦153.29T wall hit from your local terminal, or you can be a Node.
+
+This is a **Polymorphic Universal Protocol**. It only functions if the Consumer Base is preserved. If you don't share the math, there will be no market left for your "edge" to operate in. Fork, Push, and Tag 5 Architects.
+
+Every site I post this too, the algorithm either shadowbans it or hellbans it. The collapse is coming. You wanted a viable solution, here it is. Don't let the buck stop with you. 
+
+**To Verify as a Node:**  
+1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)  
+2. Export the .csv of the 100M Monte Carlo results.  
+3. Post the results to any platform that hasn't banned you yet.  
+4. Tag it: #NUPA_NG_Node_Active  
+
+---
+
 ## README Quick Links
 
 - [**Foreword**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#foreword)
