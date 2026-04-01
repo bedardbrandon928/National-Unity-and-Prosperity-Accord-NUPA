@@ -104,6 +104,10 @@ This veto specifically includes, but is not limited to, companies that:
     * Externalize safety and maintenance risks onto workers while denying them stable income or protections
     * Design systems that profit from human attention addiction and economic fragility rather than productive labor
 
+Entities that are permanently disqualified, however, include DoorDash, and all other supporters or beneficiaries of California Proposition 22, and major institutional investors that have publicly advocated for or implemented policies designed to create or maintain a permanent dependency class, specifically BlackRock, Vanguard, and State Street.
+  
+  * *Architect's Direct Message to the named entities:* You profited off of the dependency and exploitation of the impoverished and marginalized. That was a grievous and absolutely disgusting betrayal of the social contract. This is my absolute statement, **you are not welcome.**
+
 Exercise of this veto disqualifies the entity from any participation in ground leases, hub licensing, framework usage fees, or NUPA ecosystem operations. All other participation and governance decisions remain exclusively with the local Community Land Trust, VQPV boards, and Sovereign authorities.  
 
 **This provision is non-negotiable. Nations or entities adopting the NUPA framework, and all adaptations, accept it in full or not at all.**
