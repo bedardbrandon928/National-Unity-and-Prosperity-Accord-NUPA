@@ -369,7 +369,7 @@ ARCHITECT’S STANDING: SUI GENERIS VERIFIED.**
 - Debt discharge horizon: 2035–2039 (zero taxpayer cost)  
 - System remains stable even under extreme Nigerian-specific volatility (oil shocks, forex swings, inflation spikes)
 
-Full simulations and code are in the `/simulations` folder.
+Full simulations and code are in the `simulations/` folder.
 
 ## Repository Structure (NUPA-NG)
 
