@@ -67,6 +67,8 @@ This is NUPA-NG, it is specifically designed to address the Nigerian economic sy
 
 Prosperity has no nationality.
 
+[**NUPA-NG Executive Summary Political Interest Alignment**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/core/NUPA-NG%20Executive%20Summary.md)
+
 ## Is There a Way to Fix the Nigerian Economy?
 
 **Yes.**
