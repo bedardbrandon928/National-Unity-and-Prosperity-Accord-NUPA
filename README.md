@@ -408,8 +408,8 @@ All core documents are open for review and audit.
 
 ## Media & Further Reading
 
-**NUPA**  
-[**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
+**Original NUPA Framework**  
+[**National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
 
 **NUPA-NG Explainer Video**  
 https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
