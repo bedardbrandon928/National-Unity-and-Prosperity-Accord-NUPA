@@ -862,7 +862,7 @@ https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 **Department of the Interior/Bureau of Land Management Public Land Use Data**  
 [Full dataset source](https://gbp-blm-egis.hub.arcgis.com/)
 
-**Worldometer Real-time Global Statistics**
+**Worldometer Real-time Global Statistics**  
 https://www.worldometers.info/
 
 ### How to Cite
