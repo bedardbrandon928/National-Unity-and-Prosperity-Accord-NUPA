@@ -14,7 +14,7 @@
   "cltFormationLogic": {
     "@type": "ControlAction",
     "name": "Deterministic Vesting Handshake (Nigeria)",
-    "description": "System activation occurs when a Host Community executes a Memorandum of Sovereign Understanding (MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
+    "description": "System activation occurs when a Host Community executes a Memorandum of Communal Understanding (MOCU aka MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
   },
   "legalConsiderations": [
     "Land Use Act 1978: Utilized as 'Licensing Hardware' to transition state-managed land into irrevocable private-sector licenses.",
