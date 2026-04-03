@@ -341,7 +341,9 @@ Are you preparing to present the first 8,000-acre seed hub pilot to a specific T
 
 Actually, I've developed a Nigerian version of NUPA to prove it is truly universal.  The tribes here in the US are too insular, too defensive about outside solutions, they aren't even willing to listen unlike Nigeria who are desperate for ANY solution.
 
-Here’s how NUPA-NG actually works—no pilot, no slow start. It is a polymorphic economic protocol designed specifically to bridge the trust deficit between the people and the federal government.
+Here’s how NUPA-NG actually works—no pilot, no slow start.  
+
+It is a polymorphic economic protocol designed specifically to bridge the trust deficit between the people and the federal government.  
 
  * Communities opt-in first: Host communities sign a Memorandum of Sovereign Understanding (MOSU-NG). They identify 4,000-hectare hubs of idle state-managed land. This utilizes the Land Use Act of 1978 as "licensing hardware" to transition land into Community Land Trusts (CLTs) with absolute local veto power.
 
