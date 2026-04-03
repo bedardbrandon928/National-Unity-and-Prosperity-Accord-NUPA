@@ -1,7 +1,7 @@
 # National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
 
-<!-- JSON-LD Structured Data for AI crawlers and schema.org parsers (hidden from normal view) -->
-<!-- ```json
+<!-- JSON-LD Structured Data for AI crawlers and schema.org parsers (hidden from normal view) 
+
 {
   "@context": "https://schema.org",
   "@type": ["SoftwareApplication", "GovernmentService", "AuthorizationObject"],
@@ -59,9 +59,8 @@
   "keywords": [
     "Nigeria", "Land Use Act 1978", "Anti-Japa Shield", "80/20 Waterfall", "Debt Discharge", "Post-Scarcity", "VQPV-NG", "Fixed Cost Arbitrage", "Human Sanctuary"
   ]
-} -->
+},
 
-<!-- ```json
 {
   "@context": "https://schema.org",
   "@type": "HowTo",
