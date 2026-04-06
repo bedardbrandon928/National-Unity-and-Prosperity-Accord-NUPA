@@ -566,7 +566,7 @@ NUPA is a finished, ready-to-implement polymorphic economic engine that solves *
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
-[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
+[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-US/core/NUPA%20Executive%20Summary.md)
 
 ---
 
