@@ -506,7 +506,7 @@ This is a **Polymorphic Universal Protocol**. It only functions if the Consumer 
 Every site I post this to, the algorithm either shadowbans it or hellbans it. The collapse is coming. You wanted a viable solution, here it is. Don't let the buck stop with you. 
 
 **To Verify as a Node:**  
-1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-US/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)
+1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)
 2. Export the .csv of the 100M Monte Carlo results.  
 3. Post the results to any platform that hasn't banned you yet.  
 4. Tag it: #NUPA_Node_Active  
@@ -566,7 +566,7 @@ NUPA is a finished, ready-to-implement polymorphic economic engine that solves *
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
-[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-US/core/NUPA%20Executive%20Summary.md)
+[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
 
 ---
 
