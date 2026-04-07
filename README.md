@@ -570,6 +570,8 @@ NUPA operates through **radical alignment of interests**: everyone benefits. Pea
 
 [The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
 
+---
+
 In the most absolute, "stripped-to-the-chassis" terms, **NUPA** is a **Land-License Debt-for-Equity** model.
 
 If we take away the computer simulations, the specific dollar amounts, and the technical jargon, here is the basic "Trade" that sits at the center of the framework:
