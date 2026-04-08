@@ -376,7 +376,7 @@ FISCAL COST: ₦0.00 (Net-Zero) | REVENUE IMPACT: POSITIVE (Multi-Stream)
 
 THE OFFER: A FISCAL & LABOUR FIREWALL
 
-NUPA-NG (National Unity and Prosperity Act – Nigerian Adaptive Framework) is a private structural economic system that discharges ₦153.29 trillion+ public debt and shields jobs from AI—without new taxes, federal spending, or Abuja budgets.
+NUPA-NG (National Unity and Prosperity Act – Nigerian Adaptive Framework) is a private structural economic system that discharges ₦180 trillion+ public debt and shields jobs from AI—without new taxes, federal spending, or Abuja budgets.
 
 ### THE FOUR "NO DRAWBACK" PILLARS
 
