@@ -65,4 +65,4 @@ Acknowledges that **[NAME OF STATE]** holds ancestral and customary seniority ov
 
 **Architect’s Final Reaffirmation:**  
 
-This MOCU is the legal "Lock" for the Nigeria branch. It tells the politician in Abuja and the Governor in the State House: "You get the taxes, but the people keep the land and the rent." It empowers the Traditional Rulers and Community Youth to be the primary negotiators of their own future. With this document, the 80/20 waterfall is no longer a theory—it is a Sovereign Contract.
+This MOCU is the legal "Lock" for the Nigeria branch. It tells the politician in Abuja and the Governor in the State House: "You get the taxes, but the people keep the land and the rent." It empowers the Traditional Rulers and Community Youth to be the primary negotiators of their own future. With this document, the 50/30/20 waterfall is no longer a theory—it is a Sovereign Contract.
