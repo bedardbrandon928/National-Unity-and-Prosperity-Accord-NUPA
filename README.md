@@ -147,7 +147,8 @@
 }
 -->
 ---
-⚠️ CURRENTLY UNDERGOING REVISIONS ⚠️
+
+⚠️  **CURRENTLY UNDERGOING REVISIONS**  ⚠️
 
 ---
 
@@ -534,6 +535,12 @@ Full simulations and code are in the `simulations/` folder.
 - `governance/` — MOCU, ISC, and Nigerian Adaptive templates
 - `legal/` — Agreements, Notices, "Take It 'As-Is' or Collapse" Strategy
 - `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)
+
+---
+
+⚠️  **CURRENTLY UNDERGOING REVISIONS**  ⚠️
+
+---
 
 ## Notice of Incomplete Documentation  
 
