@@ -10,7 +10,7 @@
 
 **2. The National Economy (Currency & Debt Protection)**
 
- * The Goal: To stabilize the Naira and discharge the ₦153T+ national debt.  
+ * The Goal: To stabilize the Naira and discharge the ₦180T+ national debt.  
 
  * The Benefit: NUPA-NG creates massive non-oil export volume and attracts Foreign Direct Investment (FDI) that stays in-country. By generating internal revenue to settle debts, it stops "Debt-Driven Inflation."  
 
