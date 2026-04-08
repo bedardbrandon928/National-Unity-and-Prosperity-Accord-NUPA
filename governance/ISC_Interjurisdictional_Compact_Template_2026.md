@@ -2,12 +2,14 @@
 
 **THIS IS A NUPA-NG TEMPLATE ONLY For illustrative and planning purposes for State Governors, Traditional Rulers, and Community Land Trusts.**  
 
-**INSTRUMENT:** Community Equity & Cross-Border Stewardship Agreement
+**INSTRUMENT:** State Equity & Cross-Border Stewardship Agreement
 **VERSION:** 2026.MAR.NG.EQUITY  
 
-**PARTIES:** THE HOST COMMUNITY: [NAME/STATE] (A Community with qualifying underutilized land licensed under the Land Use Act).  
+**PARTIES:**  
 
-**THE PARTICIPATING COMMUNITY:** [NAME/STATE] (A land-constrained Community exercising their NUPA-NG allotment).  
+**THE HOST STATE**: [NAME/STATE] (A State with qualifying underutilized land licensed under the Land Use Act).  
+
+**THE PARTICIPATING STATE:** [NAME/STATE] (A land-constrained Community exercising their NUPA-NG allotment).  
 
 **NUPALTA-NG:** National Unity and Prosperity Land Trust Agency – Nigeria (The “Independent Facilitator”).  
 
@@ -17,19 +19,19 @@ The Parties acknowledge that the ₦153 Trillion+ national debt and the AI-drive
 
 **II. JURISDICTIONAL SEPARATION (THE “SOVEREIGN ENCLAVE”)**  
 
-**2.1 Autonomous Governance:** While the physical land resides within the ancestral or administrative footprint of the Host Community, the Sovereign Seat for the specific 20,000-hectare allotment is held exclusively by the Participating Community’s Trust.
+**2.1 Autonomous Governance:** While the physical land resides within the ancestral or administrative footprint of the Host State, the Sovereign Seat for the specific 20,000-hectare allotment is held exclusively by the Participating State’s Trust.
 
-**2.2 Revenue Integrity:** 100% of the 80% Community Yield generated from these five hubs shall flow directly to the Participating Community’s Sovereign Trust. The Host Community waives all claims to the rent of these specific sponsored hubs, recognizing that the Host Community benefits from the 20% Infrastructure Loop and the secondary economic surge (VAT/Jobs) created in their region.
+**2.2 Revenue Integrity:** 100% of the 80% State and Community Yields generated from these five hubs shall flow directly to the Participating State’s Sovereign Trust. The Host State waives all claims to the rent of these specific sponsored hubs, recognizing that the Host State benefits from the 20% Infrastructure Loop and the secondary economic surge (VAT/Jobs) created in their region.
 
 **III. THE TREASURY “SEPTUPLE-STREAM” GUARANTEE**
 
-The Host and Participating Communities collectively notify the Federal Ministry of Finance and the FIRS that this arrangement does not alter the ₦147 Trillion Tax Projection. The Federal Government shall receive its full “Septuple-Stream” revenue (VAT, CIT, PIT, etc.) from these hubs, regardless of which Community holds the Licensing Seat.  
+The Host and Participating States collectively notify the Federal Ministry of Finance and the FIRS that this arrangement does not alter the ₦147 Trillion Tax Projection. The Federal Government shall receive its full “Septuple-Stream” revenue (VAT, CIT, PIT, etc.) from these hubs, regardless of which State holds the Licensing Seat.  
 
 **IV. THE “SHIELD OF THE ALLIANCE”**
 
 **4.1 Unified Defense:** Any administrative attempt by a State or Federal agency to block a Land-Locked Community from exercising its right to manage hubs on Host territory shall be treated as a Double Breach of Sovereign Trust.  
 
-**4.2 Collective Liability:** The Breach of Trust protocol shall be triggered by both Communities simultaneously. This doubles the legal pressure on the individual bonds of the interfering officials, ensuring that "Policy Somersaults" are fiscally suicidal for the administrators involved.
+**4.2 Collective Liability:** The Breach of Trust protocol shall be triggered by both States simultaneously. This doubles the legal pressure on the individual bonds of the interfering officials, ensuring that "Policy Somersaults" are fiscally suicidal for the administrators involved.
 
 **V. FIDUCIARY INDEPENDENCE & OPERATIONAL SCALING**
 
