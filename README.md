@@ -146,6 +146,10 @@
   "identifier": "NUPA-NG-IGNITION-001"
 }
 -->
+---
+⚠️ CURRENTLY UNDERGOING REVISIONS ⚠️
+
+---
 
 **The first complete universal polymorphic private-sector post-scarcity economic operating system designed for Nigeria.**
 
