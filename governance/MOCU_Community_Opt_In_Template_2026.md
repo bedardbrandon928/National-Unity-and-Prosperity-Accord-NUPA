@@ -21,11 +21,13 @@ We are not here to dictate how you should manage your ancestral soil. We are her
 
 **PARTIES:**  
 
-**THE COMMUNITY:** **[NAME OF HOST COMMUNITY/TRADITIONAL COUNCIL] (The “Sovereign Landlord”)**  
+**THE HOST STATE**: The [Name] (The “Sovereign Landlord”).
 
-**NUPALTA-NG: National Unity and Prosperity Land Trust Agency – Nigeria (The “Independent Facilitator”)**  
+**NUPALTA-NG**: National Unity and Prosperity Land Trust Agency – Nigeria (The “Independent Facilitator”)
 
-**I. THE PETITION FOR STEWARDSHIP NUPALTA-NG** acknowledges that **[NAME OF COMMUNITY]** holds ancestral and customary seniority over its territories. NUPALTA-NG petitions for the Community’s Sovereign Opt-In to activate up to five (5) individual Infrastructure Hubs, each capped at 4,000 hectares, utilizing underutilized land licensed via the State Government under the Land Use Act of 1978. This is a request to pull these specific parcels out of "idle status" and into the Community’s direct jurisdictional oversight for the purpose of industrializing the local economy.  
+**I. THE PETITION FOR STEWARDSHIP NUPALTA-NG**
+
+Acknowledges that **[NAME OF STATE]** holds ancestral and customary seniority over its territories. NUPALTA-NG petitions for the State’s Sovereign Opt-In to activate up to five (5) individual Infrastructure Hubs, each capped at 4,000 hectares, utilizing underutilized land licensed via the State Government under the Land Use Act of 1978. This is a request to pull these specific parcels out of "idle status" and into the Community’s direct jurisdictional oversight for the purpose of industrializing the local economy.  
 
 **II. PROTECTION OF ANCESTRAL ASSETS**  
 
@@ -33,15 +35,11 @@ We are not here to dictate how you should manage your ancestral soil. We are her
 
 **2.2 Boundary Sanctity:** This alliance is strictly limited to the "Licensed Industrial Zone." The Community’s current assets, homes, and shrines remain unencumbered, customary, and legally invisible to NUPA-NG corporate participants.
 
-**III. THE 80/20 ECONOMIC ENGINE**  
+**III. THE 50/30/20 ECONOMIC ENGINE**  
 
 **3.1 High-Density Yield:** Within each 4,000-hectare Hub, the Community authorizes 100% surface utility for Tier-1 Infrastructure (Solar Grids, Data Centers, Agri-Processing).  
 
-**3.2 The Anti-Leakage Waterfall:** Revenue generated from the 99-year Ground Leases shall be distributed directly via the 80/20 Nigerian Adaptive Model:
-
- * 80% Community Yield: Direct, unrestricted payment into the Community’s Sovereign Trust for local development, education, and household dividends.
-
- * 20% Recursive Reinvestment: Hard-coded funding for the Hub’s own power, security, and "Knowledge Mastery" vocational modules.
+**3.2: The Anti-Leakage Waterfall**: Revenue shall be distributed directly via the 50/30/20 Nigerian Adaptive Model, ensuring the Host State receives a combined 80% non-federal yield (50% Royalty + 30% Dividend).
 
 **IV. THE TREASURY “VOLUME-TAX” PIVOT** 
 
@@ -51,7 +49,7 @@ We are not here to dictate how you should manage your ancestral soil. We are her
 
 **V. THE SOVEREIGN VETO & SECURITY SHIELD**  
 
-**5.1 The Community Veto:** The Community holds absolute power to veto any corporate tenant that fails the NUPA-NG Triple-Standard (95% Human-Labor Priority, Infrastructure Contribution, Environmental Integrity). This includes the right to terminate any commercial contract with, or without, reason.  
+**5.1 The Sovereign Veto**: The Host State holds absolute power to veto any corporate tenant that fails the NUPA-NG Triple-Standard (Human-Labor Priority, Infrastructure Contribution, Environmental Integrity).
 
 **5.2 The Breach of Sovereign Trust:** Any attempt by a State or Federal agency to divert the 80% Community Yield or bypass the VQPV-NG Board triggers the Sovereign Shield. All resulting commercial damages—including lost ground rents—shall be shifted to the individual professional bonding and assets of the interfering officials.  
 
