@@ -6,7 +6,7 @@
 
  **I. EXECUTIVE SUMMARY**  
  
-The Office of the Policy Architect is formally opening the "Phase 1 Reservation Period" for the commercial utilization of sovereign-licensed land under the National Unity and Prosperity Act – Nigeria (NUPA-NG).  
+The Office of NUPALTA-NG is formally opening the "Phase 1 Reservation Period" for the commercial utilization of sovereign-licensed land under the National Unity and Prosperity Act – Nigeria (NUPA-NG).  
 
 This instrument allows qualified Tier-1 Corporations (Energy, Telecommunications, Manufacturing, Logistics) to secure a Priority Timestamp for the leasing of prime industrial hectares prior to the full public rollout of the Sovereign Hub system.
 
