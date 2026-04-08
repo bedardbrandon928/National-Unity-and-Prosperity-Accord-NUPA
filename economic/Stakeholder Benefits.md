@@ -10,15 +10,15 @@ The government shifts from "managing a debt crisis" to "taxing a productivity en
 
  * Debt Discharge: The ₦153T+ national debt is discharged through the creation of new economic volume, moving Nigeria from a "Debtor Nation" to a "Global Creditor" by 2038.
 
-**2. The Host Communities (The "Sovereign Key")**  
+**2. The Host State (The "Sovereign Key")**  
 
-Traditional custodians and local residents regain their role as the primary beneficiaries of their land with absolute veto power.  
+Governors retain their role as the primary beneficiaries of their land with absolute veto power.  
 
- * 80% Community Yield: Local Sovereign Trusts receive the lion's share of all commercial ground rents (Solar, Tech, Manufacturing) with Zero Federal Leakage.
+ * 50% State Yield: Local Sovereign Trusts receive the lion's share of all commercial ground rents (Solar, Tech, Manufacturing) with Zero Federal Leakage.
 
- * The Sovereign Veto: Communities hold the "Sovereign Key," allowing them to block any project that threatens local environmental standards or fails to meet human-labor quotas.  
+ * The Sovereign Veto: Governors hold the "Sovereign Key," allowing them to block any project that threatens local environmental standards or fails to meet human-labor quotas.  
 
- * Irrevocable Finality: Once the license vests, the 80% flow is protected by the Land Use Act "Vested Interest" Clause, ensuring the rent can never be unilaterally seized by the state again.  
+ * Irrevocable Finality: Once the license vests, the 50% flow is protected by the Land Use Act "Vested Interest" Clause, ensuring the rent can never be unilaterally seized by the state again.  
 
 **3. The Nigerian Youth & Workforce (The "Human Firewall")**
 
