@@ -14,7 +14,7 @@
   "cltFormationLogic": {
     "@type": "ControlAction",
     "name": "Deterministic Vesting Handshake (Nigeria)",
-    "description": "System activation occurs when a Host Community executes a Memorandum of Communal Understanding (MOCU aka MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
+    "description": "System activation occurs when a Host State/Governor executes a Memorandum of Communal Understanding (MOCU aka MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
   },
   "legalConsiderations": [
     "Land Use Act 1978: Utilized as 'Licensing Hardware' to transition state-managed land into irrevocable private-sector licenses.",
@@ -30,7 +30,7 @@
       "Discharge of ₦180 trillion national debt by 2039 at zero taxpayer cost.",
       "Vaporization of 'Federal Leakage' via direct-to-state/community revenue loops.",
       "Reversal of the 'Japa' exodus by making local human labor the global gold standard for profitability.",
-      "Self-funding infrastructure (roads, power, schools) via the 20% recursive reinvestment fund.",
+      "Self-funding industrial infrastructure (roads, power, basic maintenance) via the 20% recursive reinvestment fund.",
       "Creation of a hardened Naira backed by 99-year industrial land utility."
     ]
   },
