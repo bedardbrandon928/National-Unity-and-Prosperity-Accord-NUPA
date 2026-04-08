@@ -59,7 +59,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereig
 
  * ​Fiscal Precedent: Unlike legacy "Intervention Programs" that rely on Abuja-led disbursements, NUPA-NG is self-funding via the licensing of dormant land. It requires no new taxes and no federal appropriations.
 
- * ​Debt Discharge: While traditional policies deepen the national debt (now exceeding ₦153 Trillion), NUPA-NG is the only framework in Nigerian history that discharges massive public liabilities through the creation of new, non-oil economic volume.
+ * ​Debt Discharge: While traditional policies deepen the national debt (now nearing ₦180 Trillion and rising), NUPA-NG is the only framework in Nigerian history that discharges massive public liabilities through the creation of new, non-oil economic volume.
 
  * ​The 50/30/20 Anti-Leakage Shield: NUPA-NG solves the "Zero-Sum" conflict. By hard-coding 50% back to governors for state licensing, 30% of ground rents directly to the Host Community and 20% to Hub Infrastructure, the framework ensures that local wealth stays local.
 
