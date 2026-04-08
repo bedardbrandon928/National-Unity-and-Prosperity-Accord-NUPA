@@ -38,4 +38,4 @@ Corporations depositing during this Pre-Authorization Phase receive "Founding Pa
 
  **V. NEXT STEPS**  
  
-Once the first Communal Opt-In (MOCU) is secured from a Host Community, a designated Tier-1 law firm will issue the official, executed **Notice of Opportunity** with full escrow instructions and the Option Reservation Agreement.
+Once the first State Opt-In (MOCU) is secured from a Host State, a designated Tier-1 law firm will issue the official, executed **Notice of Opportunity** with full escrow instructions and the Option Reservation Agreement.
