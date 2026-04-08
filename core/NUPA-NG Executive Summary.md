@@ -11,7 +11,7 @@ Revised: **April 7, 2026**
 
 ## Executive Summary
 
-Nigeria faces an unprecedented 2026 Trilemma: a ₦153.29 trillion+ public debt, accelerating AI displacement of the workforce, and deep structural issues of federal leakage, corruption, and zero-sum politics between the centre and the states/communities. Traditional government solutions — new taxes, expanded bureaucracy, or oil-funded spending — only deepen the problem.
+Nigeria faces an unprecedented 2026 Trilemma: a ₦180 trillion+ public debt, accelerating AI displacement of the workforce, and deep structural issues of federal leakage, corruption, and zero-sum politics between the centre and the states/communities. Traditional government solutions — new taxes, expanded bureaucracy, or oil-funded spending — only deepen the problem.
 
 NUPA-NG is **not** another federal program or policy. It is a finished private-sector architectural operating system governed entirely by contract and intellectual property law. No new legislation is required beyond voluntary licensing of idle state-managed land under the Land Use Act of 1978. Once authorised, the framework operates through private Community Land Trusts with no ongoing federal control or taxpayer funding.
 
@@ -21,9 +21,9 @@ Underutilised state-managed land—vast idle parcels currently producing zero ec
 
 Revenue flows through a transparent, modular **50/30/20 Sovereign Adaptive Waterfall** designed to align greed with stability:  
 
-* **50% Sovereign Royalty (State Government)**: Paid directly to the State treasury as a licensing fee. This turns the State Governor into a Vested Protector of the hub, ensuring security and political stability to protect their primary non-oil revenue stream.
+* **50% Sovereign Royalty (State Government Fund)**: Paid directly to the State treasury as a licensing fee. This turns the State Governor into a Vested Protector of the hub, ensuring security and political stability to protect their primary non-oil revenue stream.
 
-* **30% Community Trust (Host Community)**: Direct allocation to the local CLT. This provides infinite growth compared to the current $0.00 baseline, funding schools, healthcare, and local scholarships to maintain the "social license to operate."
+* **30% Community Trust (Local Infrastructure and Stability Fund)**: Direct allocation to the local CLT. This provides infinite growth compared to the current $0.00 baseline, funding schools, healthcare, and local scholarships to maintain the "social license to operate."
 
 * **20% Recursive Reinvestment (The Hardware Fund)**: Non-negotiable. These funds are hard-coded for on-site infrastructure maintenance (Tier-4 power, roads, fiber optics). This serves as the "SLA" that protects the Tier-1 corporate tenants’ CapEx.
 
