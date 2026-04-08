@@ -25,7 +25,7 @@ SUBJECT: The Restoration of Local Autonomy and the End of Federal Leakage.
 
 ​With a national debt nearing ₦180 trillion and the rising tide of AI threatening the livelihoods of our youth, the "Social Contract" is under unprecedented strain. The current system asks for sacrifice while delivering bureaucratic inertia.  
 
-​The NUPA-NG Framework presented here is not a government program, a new tax, or a charitable handout. It is a Sovereign Restoration Protocol—a private-sector architectural mechanism designed to bypass systemic bottlenecks and deliver prosperity directly to the gates of the Host Community.  
+​The NUPA-NG Framework presented here is not a government program, a new tax, or a charitable handout. It is a Sovereign Restoration Protocol—a private-sector architectural mechanism designed to bypass systemic bottlenecks and deliver prosperity directly to the gates of the Host State and Local Communities.  
 
 ​This Framework is built upon three enduring pillars:  
 
@@ -71,7 +71,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereig
 
  * ​Land Use Act Shield: Once the irrevocable licensed interest vests in the Community Land Trust (CLT), it is protected as a vested property interest under Nigerian law. Any arbitrary revocation by a state or federal entity triggers a liability for the lost value of the perpetually vested economic rights.
 
- * ​Irrevocable Finality: Any future attempt to reverse this settlement or "recapture" the 80% community yield triggers a "State-Induced Market Failure." This makes the offending administrative body liable for the full "Just Compensation" of the interrupted economic interests.
+ * ​Irrevocable Finality: Any future attempt to reverse this settlement or "recapture" the 80% non-federal yield triggers a "State-Induced Market Failure." This makes the offending administrative body liable for the full "Just Compensation" of the interrupted economic interests.
 
  * ​The Volume-Tax Surge: The Federal and State Treasuries reap a massive, predictable influx of VAT, Corporate Tax, and Payroll Tax from industrial hubs that previously generated zero revenue. The government gets the Volume, while the people keep the Rent.
 
@@ -192,10 +192,10 @@ Reinvestment guarantees growth without Abuja budgets.
 - Zero-Cost Capitalisation: Idle land licensed at ₦0.00 via governors.  
 - Leverage & Development: Lease equity secures private bonds for solar, data, logistics.
 
-Program Phases and Scaling
+**C. Program Phases and Scaling**
 
 **Phase 1: Ignition and Stabilisation**  
-Funded by corporate option fees into neutral escrow. Community Trusts form, prove revenue, start 80% direct payouts.
+Funded by corporate option fees into neutral escrow. Community Trusts form, prove revenue, start 80% (50% State Royalty + 30% Host State/Community Trust) direct payouts.
 
 **Phase 2: Private Sector Funding**  
 Anonymous sponsorships scale hubs. Funds escrow, admin, verification—no federal draw.
