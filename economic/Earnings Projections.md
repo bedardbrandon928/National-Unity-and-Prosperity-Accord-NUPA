@@ -38,6 +38,7 @@
 - If scaled to 50M hectares? Gross \~₦4.8 quadrillion—communities get ₦3.84 quad. But 10M keeps it realistic.  
 - All private: Corporate options bootstrap, no Abuja draw.  
 
+---
 
 **Updated 10-Year Revenue Projections (10M Hectare Base)**  
 
