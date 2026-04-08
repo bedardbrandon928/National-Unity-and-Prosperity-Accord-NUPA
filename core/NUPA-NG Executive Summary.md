@@ -56,7 +56,7 @@ NUPA-NG does not rely on political goodwill; it relies on an interlocking matrix
 
 **Anti-Corruption & Reform Alignment: Built-in Leakage Protection**  
 - Money flows through neutral escrow and private contracts, not political allocation.  
-- Community veto + transparent 80/20 waterfall drastically reduces opportunities for elite capture.  
+- Community veto + transparent 50/30/20 waterfall drastically reduces opportunities for elite capture.  
 - “They can steal the rent, but they cannot steal the warehouses, power plants, or paychecks.”
 
 **National Unity Alignment: Non-Oil Economic Diversification**  
@@ -66,7 +66,7 @@ NUPA-NG does not rely on political goodwill; it relies on an interlocking matrix
 
 NUPA-NG replaces political promises with enforceable private contracts, turns idle land into productive wealth, and aligns every major interest so that peace, jobs, and prosperity become the most profitable outcome for all parties.
 
-The complete framework, including the adapted 80/20 waterfall, governance templates, and full technical stack, is publicly available at:
+The complete framework, including the adapted 50/30/20 waterfall, governance templates, and full technical stack, is publicly available at:
 
 **https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG**
 
