@@ -43,8 +43,8 @@ Sign the Memorandum of Understanding (repo link below). First license triggers e
 
 [Memorandum of Communal Understanding](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/governance/MOCU_Community_Opt_In_Template_2026.md)
 
-Contact: Brandon Anthony Bedard
-Signal: +1 928 419 4189
-email: bedard.brandon928@gmail.com
+Contact: Brandon Anthony Bedard  
+Signal: +1 928 419 4189  
+email: bedard.brandon928@gmail.com  
 
 No middlemen. No excuses.  
