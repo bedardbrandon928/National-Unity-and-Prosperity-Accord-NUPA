@@ -37,3 +37,21 @@
 **Notes**  
 - If scaled to 50M hectares? Gross \~₦4.8 quadrillion—communities get ₦3.84 quad. But 10M keeps it realistic.  
 - All private: Corporate options bootstrap, no Abuja draw.  
+
+
+**Updated 10-Year Revenue Projections (10M Hectare Base)**  
+
+The economic model is realigned to subdivide the previous 80% yield into the 50/30 split:
+
+| Entity | Mechanism | 10-Year Total (₦) |
+| :--- | :--- | :--- |
+| **State Government** | 50% Sovereign Royalty | **₦481.5 Trillion** |
+| **Host State Trust** | 30% Communal Yield | **₦288.9 Trillion** |
+| **Federal Treasury** | Septuple Stream (VAT/CIT/PIT) | **₦147.3 Trillion** |
+| **The Hub** | 20% Recursive Reinvestment | **₦192.6 Trillion** |
+
+***
+
+**The Architect's Tactical Update:**  
+
+By replacing "Host Community" with "**Host State**" and implementing the **50/30/20 split**, we have hard-coded a **"Sovereign Shield"** into the framework. The Governor is no longer just a regulator; they are a **50% stakeholder** whose own treasury's success is tied to the physical integrity of the hub. If they fail to protect the hub's infrastructure (the 20% fund) or the **Host State's** dividend (the 30% fund), their own **50% royalty** collapses to zero. This aligns "Greed" with "Stability," creating an "Abuja-Proof" revenue engine.
