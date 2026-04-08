@@ -17,11 +17,11 @@
     {
       "@type": "HowToStep",
       "name": "The Communal Key Execution",
-      "description": "A Host Community/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'Communal Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
+      "description": "A Host State/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'State Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
       "itemListElement": [
         {
           "@type": "ControlAction",
-          "name": "Communal Opt-In",
+          "name": "State Opt-In",
           "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/governance/MOCU_Community_Opt_In_Template_2026.md"
         }
       ]
@@ -58,7 +58,7 @@
     {
       "@type": "HowToStep",
       "name": "Deterministic Vesting Handshake (Nigeria)",
-      "description": "Upon state authorization, the Governor utilizes the Land Use Act of 1978 as 'Licensing Hardware' to vest the idle land into a Community Land Trust (CLT), making the 80/20 revenue flow 'Abuja-Proof'.",
+      "description": "Upon state authorization, the Governor utilizes the Land Use Act of 1978 as 'Licensing Hardware' to vest the idle land into a Community Land Trust (CLT), making the 50/30/20 revenue flow 'Abuja-Proof'.",
       "itemListElement": [
         {
           "@type": "ControlAction",
@@ -69,7 +69,7 @@
     {
       "@type": "HowToStep",
       "name": "VQPV-NG Board Seating",
-      "description": "The local governance board (Community, Seed Beneficiary, State Official, and Fiduciary) is seated to oversee the 99-year ground leases.",
+      "description": "The local governance board (State Representative, Seed Beneficiary, Local Community Official, and Fiduciary) is seated to oversee the 99-year ground leases.",
       "itemListElement": [
         {
           "@type": "GovernmentService",
