@@ -42,9 +42,9 @@ This agreement is an invitation to treat and does not constitute a transfer of l
 
 **V. ESCROW REFUND TRIGGER**
 
-The Neutral Administration Escrow Agent shall release and return 100% of the Optionee’s Reservation Deposit on written demand of the Optionee upon the earliest of:
- (a) The date that is twenty-four (24) months after the Escrow Receipt Date if, by such date, no Authorizing Licensing (defined below) has been enacted; or
- (b) The date the Optionee delivers written notice declining to execute a 99-year Ground Lease within ninety (90) days following delivery of the lease form; or
+The Neutral Administration Escrow Agent shall release and return 100% of the Optionee’s Reservation Deposit on written demand of the Optionee upon the earliest of:  
+ (a) The date that is twenty-four (24) months after the Escrow Receipt Date if, by such date, no Authorizing Licensing (defined below) has been enacted; or  
+ (b) The date the Optionee delivers written notice declining to execute a 99-year Ground Lease within ninety (90) days following delivery of the lease form; or  
  (c) The date that the Escrow Agent receives an objectively documented failure to formalize the Sovereign Site-Activation within twelve (12) months following the Escrow Receipt Date.  
  
 “Authorizing Licensing” means the formal execution of the MOCU and the recordation of the applicable long-term commercial license or possessory interest in favor of the Community Land Trust (CLT) as described in the LOI.  
