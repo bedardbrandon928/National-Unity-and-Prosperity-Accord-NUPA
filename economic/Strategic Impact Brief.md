@@ -20,7 +20,7 @@
 
  * The Goal: To solve the root causes of regional instability and the "Trust Deficit."  
 
- * The Benefit: By providing an irrevocable 80% Community Yield directly to local trusts, the primary driver of economic desperation and "Federal Friction" is removed.  
+ * The Benefit: By providing an irrevocable 80% Non-Federal Yield (50% State Royalty + 30% Host State/Community Trust), the primary driver of economic desperation and "Federal Friction" is removed.  
 
  * The Result: A dramatic drop in local crime and unrest as communities become the primary owners and protectors of their own industrial hubs.  
 
