@@ -146,11 +146,6 @@
   "identifier": "NUPA-NG-IGNITION-001"
 }
 -->
----
-
-⚠️  **CURRENTLY UNDERGOING REVISIONS**  ⚠️
-
----
 
 **The first complete universal polymorphic private-sector post-scarcity economic operating system designed for the Host States and Sovereign People of the Federal Republic of Nigeria**
 
@@ -600,10 +595,6 @@ Full simulations and code are in the `simulations/` folder.
 - `governance/` — MOCU, ISC, and Nigerian Adaptive templates
 - `legal/` — Agreements, Notices, "Take It 'As-Is' or Collapse" Strategy
 - `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)
-
----
-
-⚠️  **CURRENTLY UNDERGOING REVISIONS**  ⚠️
 
 ---
 
