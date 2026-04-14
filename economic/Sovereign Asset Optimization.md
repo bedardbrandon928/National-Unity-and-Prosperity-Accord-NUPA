@@ -17,7 +17,7 @@ To manage high demand for prime 4,000-hectare hub inventory (proximity to existi
  * The Spark Deposit: A ₦40,000,000.00 (approx. $25k USD equivalent) refundable deposit per 100-hectare block reservation.
 Priority Status: Securing a timestamp today guarantees "Founding Partner" status, providing the first right of refusal on land inventory before the general market is opened.
 
- * Zero-Risk Capitalization: Deposits are held in Neutral Escrow and are 100% refundable if the Sovereign Opt-In (MOSU) is not executed or the corporation opts out.
+ * Zero-Risk Capitalization: Deposits are held in Neutral Escrow and are 100% refundable if the Sovereign Opt-In (MOCU) is not executed or the corporation opts out.
 
 **3. THE HUMAN LABOR FIREWALL (FIXED COST ARBITRAGE)**
 
@@ -37,7 +37,7 @@ Unlike traditional state permits or "Right of Occupancy" (RoC) which can be subj
 
 **5 THE NIGERIAN RENAISSANCE: RECURSIVE GROWTH**
 
-By participating, your firm is not just leasing land—you are fueling a massive, localized "Economic Blast." The 80% Community Yield and the 20% Infrastructure Loop will trigger:
+By participating, your firm is not just leasing land—you are fueling a massive, localized "Economic Blast." The 80% State/Community Yield and the 20% Infrastructure Loop will trigger:
 
  * Reliable Power & Connectivity: The 20% reinvestment hard-codes the construction of the hub's own solar grids and fiber backbones.
 
