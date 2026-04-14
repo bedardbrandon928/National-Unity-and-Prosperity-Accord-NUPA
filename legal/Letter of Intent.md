@@ -39,7 +39,7 @@ By utilizing the Community's chosen Legal Counsel as the Escrow Agent, the frame
 
 **5. Escrow Refund Trigger**  
 
-The Neutral Administration Escrow Agent shall return 100% of the Optionee's Reservation Deposit if:
+The Neutral Administration Escrow Agent shall return 100% of the Optionee's Reservation Deposit if:  
 (a) **24 months** pass without "Authorizing Licensing" (formal execution of the MOCU and recordation of the license in favor of the CLT);  
 (b) The Optionee declines to execute a lease within **90 days** of delivery; or  
 (c) Sovereign Site-Activation fails within **12 months**.  
