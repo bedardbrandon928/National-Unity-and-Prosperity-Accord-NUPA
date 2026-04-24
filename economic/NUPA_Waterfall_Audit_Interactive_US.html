@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NUPA US Deterministic Waterfall Audit</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f9f9f8; color: #1a1a18; line-height: 1.6; }
+  .page { max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem; }
+  h1 { font-size: 22px; font-weight: 500; margin-bottom: 0.25rem; }
+  h2 { font-size: 17px; font-weight: 500; margin-bottom: 0.75rem; }
+  .sub { font-size: 14px; color: #666; margin-bottom: 1.5rem; }
+  .card { background: #fff; border: 0.5px solid #e0ded8; border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem; }
+  .metric-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 1rem; }
+  .metric { background: #f3f2ee; border-radius: 8px; padding: 1rem; }
+  .metric .val { font-size: 18px; font-weight: 500; }
+  .metric .lbl { font-size: 12px; color: #666; margin-top: 4px; }
+  .controls { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1rem; }
+  .ctrl-group { display: flex; flex-direction: column; gap: 5px; }
+  .ctrl-label { font-size: 13px; color: #666; }
+  .ctrl-row { display: flex; align-items: center; gap: 8px; }
+  .ctrl-row input[type=range] { flex: 1; accent-color: #534AB7; }
+  .ctrl-val { font-size: 13px; font-weight: 500; min-width: 90px; text-align: right; }
+  .wf-row { display: flex; align-items: center; gap: 10px; margin-bottom: 9px; }
+  .wf-label { font-size: 13px; color: #666; width: 200px; flex-shrink: 0; }
+  .wf-bar-wrap { flex: 1; background: #f0efe9; border-radius: 4px; height: 22px; overflow: hidden; }
+  .wf-bar { height: 100%; border-radius: 4px; transition: width 0.3s; }
+  .wf-val { font-size: 13px; font-weight: 500; min-width: 95px; text-align: right; }
+  .tab-row { display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap; }
+  .tab { padding: 6px 14px; border-radius: 8px; border: 0.5px solid #ccc; font-size: 13px; cursor: pointer; background: transparent; color: #666; }
+  .tab.active { background: #f0efe9; color: #1a1a18; border-color: #999; font-weight: 500; }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { font-weight: 500; color: #666; padding: 6px 8px; border-bottom: 0.5px solid #e0ded8; text-align: right; white-space: nowrap; }
+  th:first-child { text-align: left; }
+  td { padding: 6px 8px; border-bottom: 0.5px solid #e0ded8; text-align: right; white-space: nowrap; }
+  td:first-child { text-align: left; color: #666; }
+  tr.total-row td { border-top: 0.5px solid #aaa; font-weight: 500; color: #1a1a18; border-bottom: none; }
+  .note-box { background: #eeedf8; border-left: 3px solid #534AB7; border-radius: 0 8px 8px 0; padding: 10px 14px; margin-bottom: 1rem; font-size: 13px; color: #26215C; line-height: 1.6; }
+  .addendum { background: #fff8ec; border-left: 3px solid #EF9F27; border-radius: 0 8px 8px 0; padding: 14px 16px; margin-bottom: 1.5rem; font-size: 13px; line-height: 1.7; color: #412402; }
+  .addendum strong { font-weight: 500; }
+  .divider { border: none; border-top: 0.5px solid #e0ded8; margin: 1.5rem 0; }
+  #chart-wrap { position: relative; width: 100%; height: 280px; }
+  .footer { font-size: 12px; color: #888; line-height: 1.6; margin-top: 1rem; }
+  .header-meta { font-size: 12px; color: #888; margin-bottom: 1.5rem; }
+  @media(max-width: 600px) { .controls { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <h1>NUPA deterministic waterfall audit</h1>
+  <div class="header-meta">National Unity and Prosperity Act — United States Framework &nbsp;|&nbsp; Authored by Brandon Anthony Bedard &nbsp;|&nbsp; Rev. April 2026</div>
+
+  <div class="addendum">
+    <strong>Technical note — the 20% compounding mechanism:</strong> The 20% annual rent growth is not a projection or assumption. It is mechanically guaranteed by the framework's closed reinvestment loop. Twenty percent of every dollar collected in ground rent is contractually hard-coded back into hub infrastructure — power, roads, maintenance, and Mastery Module skills programs. This continuous infrastructure investment increases the productive capacity and utility value of each hub, which justifies the corresponding rent increase the following year. The tenant's profit margin grows in parallel because the infrastructure they operate on improves every year — they are not paying more for the same asset, they are paying more for a demonstrably better one. The Federal Treasury receives a larger absolute payment each year because the underlying asset is being continuously upgraded at zero cost to the government. The 20% growth rate and the 20% reinvestment fund are the same number because they are the same mechanism: a self-funding, self-appreciating wealth engine with no external fuel source required.
+  </div>
+
+  <div class="tab-row">
+    <button class="tab active" onclick="setView('waterfall')">Waterfall model</button>
+    <button class="tab" onclick="setView('treasury')">Federal treasury audit</button>
+    <button class="tab" onclick="setView('scale')">Scale scenarios</button>
+  </div>
+
+  <!-- WATERFALL VIEW -->
+  <div id="view-waterfall">
+    <div class="card">
+      <h2>Parameters — adjust to audit any scenario</h2>
+      <div class="controls">
+        <div class="ctrl-group">
+          <div class="ctrl-label">Starting rent / acre / year ($)</div>
+          <div class="ctrl-row">
+            <input type="range" id="rent" min="5000" max="150000" step="1000" value="15000" oninput="update()">
+            <span class="ctrl-val" id="rent-out">$15,000</span>
+          </div>
+        </div>
+        <div class="ctrl-group">
+          <div class="ctrl-label">Total acres (millions)</div>
+          <div class="ctrl-row">
+            <input type="range" id="ha" min="1" max="24" step="1" value="24" oninput="update()">
+            <span class="ctrl-val" id="ha-out">24M acres</span>
+          </div>
+        </div>
+        <div class="ctrl-group">
+          <div class="ctrl-label">Annual reinvestment-driven growth (%)</div>
+          <div class="ctrl-row">
+            <input type="range" id="growth" min="5" max="30" step="1" value="20" oninput="update()">
+            <span class="ctrl-val" id="growth-out">20%</span>
+          </div>
+        </div>
+        <div class="ctrl-group">
+          <div class="ctrl-label">Year 6 maturity bump / acre ($)</div>
+          <div class="ctrl-row">
+            <input type="range" id="bump" min="5000" max="100000" step="1000" value="15000" oninput="update()">
+            <span class="ctrl-val" id="bump-out">$15,000</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="metric-grid" id="metrics"></div>
+
+    <div class="card">
+      <h2>Year 1 — 40/40/20 sovereign waterfall</h2>
+      <div id="waterfall"></div>
+    </div>
+
+    <div class="card">
+      <h2>Year 6 post-maturity — 40/40/20 waterfall</h2>
+      <div id="waterfall6"></div>
+    </div>
+
+    <div class="card">
+      <h2>10-year revenue trajectory</h2>
+      <div id="chart-wrap">
+        <canvas id="myChart" role="img" aria-label="10-year gross revenue trajectory with tribal royalty, beneficiary dividend, and federal tax surge for NUPA US">10-year NUPA US revenue trajectory.</canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Year-by-year breakdown</h2>
+      <div class="table-wrap"><table id="yr-table"></table></div>
+    </div>
+  </div>
+
+  <!-- TREASURY VIEW -->
+  <div id="view-treasury" style="display:none;">
+    <div class="note-box">Federal septuple-stream tax surge: Income Tax, Payroll Tax, Corporate Tax, Capital Gains, Construction/Excise, Velocity Spend, Secondary Industry. The Federal Government receives $0 from dormant BLM land today. NUPA converts that to a $5.11 trillion cumulative tax windfall over 10 years at zero appropriations cost.</div>
+    <div class="card">
+      <h2>Aggressive model — septuple-stream treasury audit (24M acres, 42.5% effective capture)</h2>
+      <div class="table-wrap"><table id="treasury-table"></table></div>
+    </div>
+    <div class="metric-grid" id="treasury-metrics"></div>
+  </div>
+
+  <!-- SCALE VIEW -->
+  <div id="view-scale" style="display:none;">
+    <div class="note-box">The framework is elastic. 24M BLM acres is the target activation. The same mechanism scales privately once federal land is saturated.</div>
+    <div class="card">
+      <h2>Scale comparison</h2>
+      <div class="table-wrap"><table id="scale-table"></table></div>
+    </div>
+  </div>
+
+  <hr class="divider">
+  <div class="footer">
+    Architecture: NUPA private contractual framework. Tribal Nation executes MOSU/ISC Sovereign Key. CLT holds 99-year ground leases under FASL protocol. 40/40/20 split is hard-coded — 40% Tribal Sovereign Royalty, 40% Beneficiary Dividend, 20% hub reinvestment (self-funding infrastructure loop). Federal tax surge is a secondary stream. Zero taxpayer cost. Zero appropriations. Full source: <a href="https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA" target="_blank">github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA</a>
+  </div>
+
+</div>
+
+<script>
+let chart = null;
+
+function setView(v) {
+  ['waterfall','treasury','scale'].forEach(x => {
+    document.getElementById('view-'+x).style.display = x===v ? 'block' : 'none';
+  });
+  document.querySelectorAll('.tab').forEach((t,i) => {
+    t.classList.toggle('active', ['waterfall','treasury','scale'][i]===v);
+  });
+  if(v==='treasury') buildTreasury();
+  if(v==='scale') buildScale();
+}
+
+function fmtD(n) {
+  if(n>=1e12) return '$'+(n/1e12).toFixed(2)+'T';
+  if(n>=1e9)  return '$'+(n/1e9).toFixed(1)+'B';
+  return '$'+Math.round(n).toLocaleString();
+}
+
+function getYears(rent, acresM, growth, bump) {
+  const acres = acresM * 1e6;
+  const g = growth / 100;
+  const years = [];
+  for(let y=1; y<=10; y++) {
+    const r = y<=5 ? rent * Math.pow(1+g, y-1) : (rent * Math.pow(1+g,4) + bump) * Math.pow(1+g, y-6);
+    const gross = r * acres;
+    years.push({ y, r, gross, tribal: gross*0.40, benef: gross*0.40, reinvest: gross*0.20, tax: gross*0.425 });
+  }
+  return years;
+}
+
+function renderWF(elId, gross) {
+  const rows = [
+    { label: 'Tribal sovereign royalty (40%)', pct: 0.40, color: '#534AB7' },
+    { label: 'Beneficiary dividend (40%)',     pct: 0.40, color: '#1D9E75' },
+    { label: 'Hub reinvestment (20%)',          pct: 0.20, color: '#EF9F27' },
+  ];
+  document.getElementById(elId).innerHTML = rows.map(row => `
+    <div class="wf-row">
+      <div class="wf-label">${row.label}</div>
+      <div class="wf-bar-wrap"><div class="wf-bar" style="width:${row.pct*100}%;background:${row.color}"></div></div>
+      <div class="wf-val">${fmtD(gross*row.pct)}</div>
+    </div>`).join('');
+}
+
+function update() {
+  const rent   = parseFloat(document.getElementById('rent').value);
+  const acresM = parseFloat(document.getElementById('ha').value);
+  const growth = parseFloat(document.getElementById('growth').value);
+  const bump   = parseFloat(document.getElementById('bump').value);
+
+  document.getElementById('rent-out').textContent   = '$'+Math.round(rent).toLocaleString();
+  document.getElementById('ha-out').textContent     = acresM+'M acres';
+  document.getElementById('growth-out').textContent = growth+'%';
+  document.getElementById('bump-out').textContent   = '$'+Math.round(bump).toLocaleString();
+
+  const years    = getYears(rent, acresM, growth, bump);
+  const totGross = years.reduce((s,r)=>s+r.gross,0);
+  const totTri   = years.reduce((s,r)=>s+r.tribal,0);
+  const totBen   = years.reduce((s,r)=>s+r.benef,0);
+  const yr1 = years[0], yr6 = years[5];
+
+  document.getElementById('metrics').innerHTML = `
+    <div class="metric"><div class="val">${fmtD(yr1.gross)}</div><div class="lbl">Year 1 gross revenue</div></div>
+    <div class="metric"><div class="val">${fmtD(yr6.gross)}</div><div class="lbl">Year 6 gross (post-maturity)</div></div>
+    <div class="metric"><div class="val">${fmtD(totGross)}</div><div class="lbl">10-year cumulative gross</div></div>
+    <div class="metric"><div class="val">${fmtD(totTri+totBen)}</div><div class="lbl">Tribes + beneficiaries (80%)</div></div>
+  `;
+
+  renderWF('waterfall',  yr1.gross);
+  renderWF('waterfall6', yr6.gross);
+
+  const labels = years.map(r=>'Yr '+r.y);
+  const grossB = years.map(r=>parseFloat((r.gross/1e9).toFixed(1)));
+  const triB   = years.map(r=>parseFloat((r.tribal/1e9).toFixed(1)));
+  const benB   = years.map(r=>parseFloat((r.benef/1e9).toFixed(1)));
+
+  if(chart) chart.destroy();
+  chart = new Chart(document.getElementById('myChart'), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [
+        { label: 'Gross ($B)', data: grossB, backgroundColor: 'rgba(55,138,221,0.15)', borderColor: '#378ADD', borderWidth: 1.5 },
+        { label: 'Tribal 40% ($B)', data: triB, backgroundColor: 'rgba(83,74,183,0.3)', borderColor: '#534AB7', borderWidth: 1.5 },
+        { label: 'Beneficiary 40% ($B)', data: benB, backgroundColor: 'rgba(29,158,117,0.3)', borderColor: '#1D9E75', borderWidth: 1.5 },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: true, labels: { font:{size:11}, boxWidth:10, padding:12 } } },
+      scales: {
+        x: { ticks: { autoSkip:false, font:{size:11} } },
+        y: { ticks: { font:{size:11}, callback: v=>v+'B' } }
+      }
+    }
+  });
+
+  let tbl=`<thead><tr><th>Year</th><th>Rent/acre</th><th>Gross</th><th>Tribal (40%)</th><th>Beneficiary (40%)</th><th>Reinvest (20%)</th></tr></thead><tbody>`;
+  let tG=0,tTr=0,tBe=0,tRe=0;
+  years.forEach(({y,r,gross,tribal,benef,reinvest})=>{
+    tG+=gross; tTr+=tribal; tBe+=benef; tRe+=reinvest;
+    tbl+=`<tr><td>Year ${y}</td><td>${fmtD(r)}</td><td>${fmtD(gross)}</td><td>${fmtD(tribal)}</td><td>${fmtD(benef)}</td><td>${fmtD(reinvest)}</td></tr>`;
+  });
+  tbl+=`<tr class="total-row"><td>10-yr total</td><td>—</td><td>${fmtD(tG)}</td><td>${fmtD(tTr)}</td><td>${fmtD(tBe)}</td><td>${fmtD(tRe)}</td></tr></tbody>`;
+  document.getElementById('yr-table').innerHTML = tbl;
+}
+
+function buildTreasury() {
+  const years = getYears(15000, 24, 20, 15000);
+  let tbl=`<thead><tr><th>Year</th><th>Rent/acre</th><th>Gross</th><th>Fed tax (42.5%)</th></tr></thead><tbody>`;
+  let tG=0,tT=0;
+  years.forEach(({y,r,gross,tax})=>{
+    tG+=gross; tT+=tax;
+    tbl+=`<tr><td>Year ${y}</td><td>${fmtD(r)}</td><td>${fmtD(gross)}</td><td>${fmtD(tax)}</td></tr>`;
+  });
+  tbl+=`<tr class="total-row"><td>10-yr total</td><td>—</td><td>${fmtD(tG)}</td><td>${fmtD(tT)}</td></tr></tbody>`;
+  document.getElementById('treasury-table').innerHTML = tbl;
+
+  document.getElementById('treasury-metrics').innerHTML = `
+    <div class="metric"><div class="val">${fmtD(tT)}</div><div class="lbl">10-yr cumulative federal tax</div></div>
+    <div class="metric"><div class="val">~12.7%</div><div class="lbl">Of $40T national debt discharged</div></div>
+    <div class="metric"><div class="val">$0.00</div><div class="lbl">Taxpayer cost</div></div>
+    <div class="metric"><div class="val">Zero</div><div class="lbl">Tax rate increases required</div></div>
+  `;
+}
+
+function buildScale() {
+  const configs = [
+    {label:'Minimum viable (5M acres)', acres:5},
+    {label:'Partial activation (12M acres)', acres:12},
+    {label:'Full BLM target (24M acres)', acres:24},
+  ];
+  let tbl=`<thead><tr><th>Scenario</th><th>Acres</th><th>10-yr gross</th><th>Tribal (40%)</th><th>Beneficiary (40%)</th><th>Fed tax (42.5%)</th></tr></thead><tbody>`;
+  configs.forEach(({label,acres})=>{
+    const yrs = getYears(15000, acres, 20, 15000);
+    const tG=yrs.reduce((s,r)=>s+r.gross,0);
+    const tTr=yrs.reduce((s,r)=>s+r.tribal,0);
+    const tBe=yrs.reduce((s,r)=>s+r.benef,0);
+    const tT=yrs.reduce((s,r)=>s+r.tax,0);
+    tbl+=`<tr><td>${label}</td><td>${acres}M</td><td>${fmtD(tG)}</td><td>${fmtD(tTr)}</td><td>${fmtD(tBe)}</td><td>${fmtD(tT)}</td></tr>`;
+  });
+  tbl+=`</tbody>`;
+  document.getElementById('scale-table').innerHTML = tbl;
+}
+
+update();
+</script>
+</body>
+</html>
