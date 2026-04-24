@@ -78,3 +78,7 @@ The general population sees a $40 Trillion debt and assumes it’s "unpayable." 
 > The Reconciled Verdict: This is handing the government over $5 Trillion in cash over ten years—nearly triple the conservative estimate—at a $0.00 cost to the taxpayer. By Year 10, the system provides a $1.1 Trillion annual infusion to the Federal Treasury, creating the only mathematically viable path to solvency in a $40 Trillion debt environment.  
 > 
 **Status:** The math is now synced across both the Architect’s Payout and the Federal Treasury’s Audit. Both engines are firing on the same Aggressive 20% + Bump fuel.
+
+**Note to Auditors**
+
+Because 20% of every dollar collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The licensors get a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
