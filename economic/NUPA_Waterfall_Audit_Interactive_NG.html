@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NUPA-NG Deterministic Waterfall Audit</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f9f9f8; color: #1a1a18; line-height: 1.6; }
+  .page { max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem; }
+  h1 { font-size: 22px; font-weight: 500; margin-bottom: 0.25rem; }
+  h2 { font-size: 17px; font-weight: 500; margin-bottom: 0.75rem; }
+  .sub { font-size: 14px; color: #666; margin-bottom: 1.5rem; }
+  .card { background: #fff; border: 0.5px solid #e0ded8; border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem; }
+  .metric-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 1rem; }
+  .metric { background: #f3f2ee; border-radius: 8px; padding: 1rem; }
+  .metric .val { font-size: 18px; font-weight: 500; }
+  .metric .lbl { font-size: 12px; color: #666; margin-top: 4px; }
+  .controls { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1rem; }
+  .ctrl-group { display: flex; flex-direction: column; gap: 5px; }
+  .ctrl-label { font-size: 13px; color: #666; }
+  .ctrl-row { display: flex; align-items: center; gap: 8px; }
+  .ctrl-row input[type=range] { flex: 1; accent-color: #1D9E75; }
+  .ctrl-val { font-size: 13px; font-weight: 500; min-width: 90px; text-align: right; }
+  .wf-row { display: flex; align-items: center; gap: 10px; margin-bottom: 9px; }
+  .wf-label { font-size: 13px; color: #666; width: 190px; flex-shrink: 0; }
+  .wf-bar-wrap { flex: 1; background: #f0efe9; border-radius: 4px; height: 22px; overflow: hidden; }
+  .wf-bar { height: 100%; border-radius: 4px; transition: width 0.3s; }
+  .wf-val { font-size: 13px; font-weight: 500; min-width: 95px; text-align: right; }
+  .tab-row { display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap; }
+  .tab { padding: 6px 14px; border-radius: 8px; border: 0.5px solid #ccc; font-size: 13px; cursor: pointer; background: transparent; color: #666; }
+  .tab.active { background: #f0efe9; color: #1a1a18; border-color: #999; font-weight: 500; }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { font-weight: 500; color: #666; padding: 6px 8px; border-bottom: 0.5px solid #e0ded8; text-align: right; white-space: nowrap; }
+  th:first-child { text-align: left; }
+  td { padding: 6px 8px; border-bottom: 0.5px solid #e0ded8; text-align: right; white-space: nowrap; }
+  td:first-child { text-align: left; color: #666; }
+  tr.total-row td { border-top: 0.5px solid #aaa; font-weight: 500; color: #1a1a18; border-bottom: none; }
+  .note-box { background: #e8f4f0; border-left: 3px solid #1D9E75; border-radius: 0 8px 8px 0; padding: 10px 14px; margin-bottom: 1rem; font-size: 13px; color: #0F6E56; line-height: 1.6; }
+  .addendum { background: #fff8ec; border-left: 3px solid #EF9F27; border-radius: 0 8px 8px 0; padding: 14px 16px; margin-bottom: 1.5rem; font-size: 13px; line-height: 1.7; color: #412402; }
+  .addendum strong { font-weight: 500; }
+  .divider { border: none; border-top: 0.5px solid #e0ded8; margin: 1.5rem 0; }
+  #chart-wrap { position: relative; width: 100%; height: 280px; }
+  .footer { font-size: 12px; color: #888; line-height: 1.6; margin-top: 1rem; }
+  .header-meta { font-size: 12px; color: #888; margin-bottom: 1.5rem; }
+  @media(max-width: 600px) { .controls { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <h1>NUPA-NG deterministic waterfall audit</h1>
+  <div class="header-meta">National Unity and Prosperity Act — Nigerian Adaptive Framework &nbsp;|&nbsp; Authored by Brandon Anthony Bedard &nbsp;|&nbsp; Rev. April 2026</div>
+
+  <div class="addendum">
+    <strong>Technical note — the 20% compounding mechanism:</strong> The 20% annual rent growth is not a projection or assumption. It is mechanically guaranteed by the framework's closed reinvestment loop. Twenty percent of every naira collected in ground rent is contractually hard-coded back into hub infrastructure — power, roads, maintenance, and skills modules. This continuous infrastructure investment increases the productive capacity and utility value of each hub, which justifies the corresponding rent increase the following year. The tenant's profit margin grows in parallel because the infrastructure they operate on improves every year, meaning they are not paying more for the same asset — they are paying more for a demonstrably better one. The governor's state treasury receives a larger absolute payment each year because the underlying asset is being continuously upgraded at zero cost to the government, the state, or the community. The 20% growth rate and the 20% reinvestment fund are the same number because they are the same mechanism: a self-funding, self-appreciating wealth engine with no external fuel source required.
+  </div>
+
+  <div class="tab-row">
+    <button class="tab active" onclick="setView('waterfall')">Waterfall model</button>
+    <button class="tab" onclick="setView('treasury')">Federal treasury audit</button>
+    <button class="tab" onclick="setView('scale')">Scale scenarios</button>
+  </div>
+
+  <!-- WATERFALL VIEW -->
+  <div id="view-waterfall">
+    <div class="card">
+      <h2>Parameters — adjust to audit any scenario</h2>
+      <div class="controls">
+        <div class="ctrl-group">
+          <div class="ctrl-label">Starting rent / hectare / year (₦)</div>
+          <div class="ctrl-row">
+            <input type="range" id="rent" min="100000" max="2000000" step="50000" value="500000" oninput="update()">
+            <span class="ctrl-val" id="rent-out">₦500,000</span>
+          </div>
+        </div>
+        <div class="ctrl-group">
+          <div class="ctrl-label">Hectares under license (millions)</div>
+          <div class="ctrl-row">
+            <input type="range" id="ha" min="1" max="50" step="1" value="10" oninput="update()">
+            <span class="ctrl-val" id="ha-out">10M ha</span>
+          </div>
+        </div>
+        <div class="ctrl-group">
+          <div class="ctrl-label">Annual reinvestment-driven growth Yrs 1–5 (%)</div>
+          <div class="ctrl-row">
+            <input type="range" id="growth" min="5" max="30" step="1" value="20" oninput="update()">
+            <span class="ctrl-val" id="growth-out">20%</span>
+          </div>
+        </div>
+        <div class="ctrl-group">
+          <div class="ctrl-label">Year 6 hub maturity rent / ha (₦)</div>
+          <div class="ctrl-row">
+            <input type="range" id="bump" min="1000000" max="10000000" step="250000" value="5000000" oninput="update()">
+            <span class="ctrl-val" id="bump-out">₦5,000,000</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="metric-grid" id="metrics"></div>
+
+    <div class="card">
+      <h2>Year 1 — 50/30/20 sovereign waterfall</h2>
+      <div id="waterfall"></div>
+    </div>
+
+    <div class="card">
+      <h2>Year 6 post-maturity — 50/30/20 waterfall</h2>
+      <div id="waterfall6"></div>
+    </div>
+
+    <div class="card">
+      <h2>10-year revenue trajectory</h2>
+      <div id="chart-wrap">
+        <canvas id="myChart" role="img" aria-label="10-year gross revenue trajectory with state, community and federal tax shares for NUPA-NG">10-year NUPA-NG revenue trajectory showing gross revenue, state 50% share, and community 30% share.</canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Year-by-year breakdown</h2>
+      <div class="table-wrap"><table id="yr-table"></table></div>
+    </div>
+  </div>
+
+  <!-- TREASURY VIEW -->
+  <div id="view-treasury" style="display:none;">
+    <div class="note-box">Federal tax surge via 7 streams — VAT, CIT, PIT, CGT, Development Levy, Stamp Duties, Secondary Industry. The Federal Government receives <strong>₦0</strong> from idle land today. NUPA-NG converts dormant land into a ₦147 trillion cumulative tax windfall over 10 years at zero appropriations cost.</div>
+    <div class="card">
+      <h2>Septuple-stream federal treasury audit — 10M hectare base</h2>
+      <div class="table-wrap"><table id="treasury-table"></table></div>
+    </div>
+    <div class="metric-grid" id="treasury-metrics"></div>
+    <div class="card">
+      <h2>Context: what ₦147 trillion covers</h2>
+      <div id="debt-context"></div>
+    </div>
+    <div class="card">
+      <h2>The 7 tax streams</h2>
+      <div style="font-size:13px;color:#444;line-height:1.8;">
+        <div><strong>1. VAT (7.5%)</strong> — on all commercial activity within hubs. Digital invoicing makes this the most reliable stream.</div>
+        <div><strong>2. Corporate Income Tax (30%)</strong> — on profits of Tier-1 data centres, solar farms, and manufacturing plants.</div>
+        <div><strong>3. Payroll Tax / PIT (25%)</strong> — on high-value human wages protected by the AI Firewall.</div>
+        <div><strong>4. Capital Gains Tax (30%)</strong> — on appreciation of industrial assets and shared transfers within hubs.</div>
+        <div><strong>5. Development Levy (4%)</strong> — of assessable profits from all hub participants, for secondary regional infrastructure.</div>
+        <div><strong>6. Stamp Duties</strong> — collected on 99-year bankable ground leases and high-volume commercial contracts.</div>
+        <div><strong>7. Secondary Industry Growth</strong> — taxes on security, logistics, and catering firms that emerge to service the hubs.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SCALE VIEW -->
+  <div id="view-scale" style="display:none;">
+    <div class="note-box">The framework is elastic. 10M hectares is the conservative 25% of Nigeria's idle land. The table below shows the deterministic outcome at any scale — same waterfall, same mechanism, same compounding rate.</div>
+    <div class="card">
+      <h2>Scale comparison — same model, different activation levels</h2>
+      <div class="table-wrap"><table id="scale-table"></table></div>
+    </div>
+  </div>
+
+  <hr class="divider">
+  <div class="footer">
+    Architecture: NUPA-NG private contractual framework. Governor executes MOCU under Land Use Act 1978 S.5. CLT holds 99-year ground leases. 50/30/20 split is hard-coded — 50% state treasury, 30% community trust, 20% hub reinvestment (self-funding infrastructure loop). Federal tax surge is a secondary stream from economic activity within activated hubs. Zero taxpayer cost. Zero appropriations required. Zero federal override. Full source: <a href="https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG" target="_blank">github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA</a>
+  </div>
+
+</div>
+
+<script>
+let chart = null;
+
+function setView(v) {
+  ['waterfall','treasury','scale'].forEach(x => {
+    document.getElementById('view-'+x).style.display = x===v ? 'block' : 'none';
+  });
+  document.querySelectorAll('.tab').forEach((t,i) => {
+    t.classList.toggle('active', ['waterfall','treasury','scale'][i]===v);
+  });
+  if(v==='treasury') buildTreasury();
+  if(v==='scale') buildScale();
+}
+
+function fmtN(n) {
+  if(n>=1e15) return '₦'+(n/1e15).toFixed(2)+' Quad';
+  if(n>=1e12) return '₦'+(n/1e12).toFixed(2)+' T';
+  if(n>=1e9)  return '₦'+(n/1e9).toFixed(1)+' B';
+  return '₦'+Math.round(n).toLocaleString();
+}
+
+function getYears(rent, haM, growth, bump) {
+  const ha = haM * 1e6;
+  const g = growth / 100;
+  const years = [];
+  for(let y=1; y<=10; y++) {
+    const r = y<=5 ? rent * Math.pow(1+g, y-1) : bump * Math.pow(1.1, y-6);
+    const gross = r * ha;
+    years.push({ y, r, gross, state: gross*0.50, comm: gross*0.30, reinvest: gross*0.20, tax: gross*0.43 });
+  }
+  return years;
+}
+
+function renderWF(elId, gross) {
+  const rows = [
+    { label: 'State treasury (50%)', pct: 0.50, color: '#1D9E75' },
+    { label: 'Community trust (30%)', pct: 0.30, color: '#378ADD' },
+    { label: 'Hub reinvestment (20%)', pct: 0.20, color: '#EF9F27' },
+  ];
+  document.getElementById(elId).innerHTML = rows.map(row => `
+    <div class="wf-row">
+      <div class="wf-label">${row.label}</div>
+      <div class="wf-bar-wrap"><div class="wf-bar" style="width:${row.pct*100}%;background:${row.color}"></div></div>
+      <div class="wf-val">${fmtN(gross*row.pct)}</div>
+    </div>`).join('');
+}
+
+function update() {
+  const rent   = parseFloat(document.getElementById('rent').value);
+  const haM    = parseFloat(document.getElementById('ha').value);
+  const growth = parseFloat(document.getElementById('growth').value);
+  const bump   = parseFloat(document.getElementById('bump').value);
+
+  document.getElementById('rent-out').textContent   = '₦'+Math.round(rent).toLocaleString();
+  document.getElementById('ha-out').textContent     = haM+'M ha';
+  document.getElementById('growth-out').textContent = growth+'%';
+  document.getElementById('bump-out').textContent   = '₦'+Math.round(bump).toLocaleString();
+
+  const years    = getYears(rent, haM, growth, bump);
+  const totGross = years.reduce((s,r)=>s+r.gross,0);
+  const totState = years.reduce((s,r)=>s+r.state,0);
+  const totComm  = years.reduce((s,r)=>s+r.comm,0);
+  const yr1 = years[0], yr6 = years[5];
+
+  document.getElementById('metrics').innerHTML = `
+    <div class="metric"><div class="val">${fmtN(yr1.gross)}</div><div class="lbl">Year 1 gross revenue</div></div>
+    <div class="metric"><div class="val">${fmtN(yr6.gross)}</div><div class="lbl">Year 6 gross (post-maturity)</div></div>
+    <div class="metric"><div class="val">${fmtN(totGross)}</div><div class="lbl">10-year cumulative gross</div></div>
+    <div class="metric"><div class="val">${fmtN(totState+totComm)}</div><div class="lbl">States + communities (80%)</div></div>
+  `;
+
+  renderWF('waterfall',  yr1.gross);
+  renderWF('waterfall6', yr6.gross);
+
+  const labels  = years.map(r=>'Yr '+r.y);
+  const grossT  = years.map(r=>parseFloat((r.gross/1e12).toFixed(1)));
+  const stateT  = years.map(r=>parseFloat((r.state/1e12).toFixed(1)));
+  const commT   = years.map(r=>parseFloat((r.comm/1e12).toFixed(1)));
+
+  if(chart) chart.destroy();
+  chart = new Chart(document.getElementById('myChart'), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [
+        { label: 'Gross (₦T)', data: grossT, backgroundColor: 'rgba(55,138,221,0.15)', borderColor: '#378ADD', borderWidth: 1.5 },
+        { label: 'State 50% (₦T)', data: stateT, backgroundColor: 'rgba(29,158,117,0.3)', borderColor: '#1D9E75', borderWidth: 1.5 },
+        { label: 'Community 30% (₦T)', data: commT, backgroundColor: 'rgba(239,159,39,0.3)', borderColor: '#EF9F27', borderWidth: 1.5 },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: true, labels: { font:{size:11}, boxWidth:10, padding:12 } } },
+      scales: {
+        x: { ticks: { autoSkip:false, font:{size:11} } },
+        y: { ticks: { font:{size:11}, callback: v=>v+'T' } }
+      }
+    }
+  });
+
+  let tbl = `<thead><tr><th>Year</th><th>Rent/ha</th><th>Gross</th><th>State (50%)</th><th>Community (30%)</th><th>Reinvest (20%)</th></tr></thead><tbody>`;
+  let tG=0,tS=0,tC=0,tR=0;
+  years.forEach(({y,r,gross,state,comm,reinvest})=>{
+    tG+=gross; tS+=state; tC+=comm; tR+=reinvest;
+    tbl+=`<tr><td>Year ${y}</td><td>${fmtN(r)}</td><td>${fmtN(gross)}</td><td>${fmtN(state)}</td><td>${fmtN(comm)}</td><td>${fmtN(reinvest)}</td></tr>`;
+  });
+  tbl+=`<tr class="total-row"><td>10-yr total</td><td>—</td><td>${fmtN(tG)}</td><td>${fmtN(tS)}</td><td>${fmtN(tC)}</td><td>${fmtN(tR)}</td></tr></tbody>`;
+  document.getElementById('yr-table').innerHTML = tbl;
+}
+
+const TREASURY_DATA = [
+  {y:1, rent:500000,    gross:5e12,    tax:2.15e12},
+  {y:2, rent:600000,    gross:6e12,    tax:2.58e12},
+  {y:3, rent:720000,    gross:7.2e12,  tax:3.10e12},
+  {y:4, rent:864000,    gross:8.64e12, tax:3.72e12},
+  {y:5, rent:1036800,   gross:10.37e12,tax:4.46e12},
+  {y:6, rent:5000000,   gross:50e12,   tax:21.50e12},
+  {y:7, rent:5500000,   gross:55e12,   tax:23.65e12},
+  {y:8, rent:6050000,   gross:60.5e12, tax:26.02e12},
+  {y:9, rent:6655000,   gross:66.55e12,tax:28.62e12},
+  {y:10,rent:7320500,   gross:73.21e12,tax:31.48e12},
+];
+
+function buildTreasury() {
+  let tbl=`<thead><tr><th>Year</th><th>Avg rent/ha</th><th>Gross system revenue</th><th>Fed tax revenue</th><th>Implied rate</th></tr></thead><tbody>`;
+  let tG=0,tT=0;
+  TREASURY_DATA.forEach(({y,rent,gross,tax})=>{
+    tG+=gross; tT+=tax;
+    tbl+=`<tr><td>Year ${y}</td><td>${fmtN(rent)}</td><td>${fmtN(gross)}</td><td>${fmtN(tax)}</td><td>${(tax/gross*100).toFixed(1)}%</td></tr>`;
+  });
+  tbl+=`<tr class="total-row"><td>10-yr total</td><td>—</td><td>${fmtN(tG)}</td><td>${fmtN(tT)}</td><td>—</td></tr></tbody>`;
+  document.getElementById('treasury-table').innerHTML = tbl;
+
+  document.getElementById('treasury-metrics').innerHTML = `
+    <div class="metric"><div class="val">₦147.3T</div><div class="lbl">10-yr cumulative tax surplus</div></div>
+    <div class="metric"><div class="val">~78%</div><div class="lbl">Of current national debt covered</div></div>
+    <div class="metric"><div class="val">₦0.00</div><div class="lbl">Taxpayer cost</div></div>
+    <div class="metric"><div class="val">₦2.15T → ₦31.5T</div><div class="lbl">Annual federal tax (Yr 1 → Yr 10)</div></div>
+  `;
+
+  document.getElementById('debt-context').innerHTML = `
+    <div class="wf-row" style="margin-bottom:10px;">
+      <div class="wf-label" style="width:220px;font-size:13px;color:#666;">National debt coverage (~₦187T)</div>
+      <div class="wf-bar-wrap"><div class="wf-bar" style="width:78%;background:#1D9E75"></div></div>
+      <div class="wf-val">~78%</div>
+    </div>
+    <div class="wf-row" style="margin-bottom:10px;">
+      <div class="wf-label" style="width:220px;font-size:13px;color:#666;">Year 10 annual surplus vs Year 1</div>
+      <div class="wf-bar-wrap"><div class="wf-bar" style="width:68%;background:#378ADD"></div></div>
+      <div class="wf-val">14.6× growth</div>
+    </div>
+    <p style="font-size:12px;color:#888;margin-top:12px;">All figures represent new money generated from previously dormant land. Zero displacement of existing tax revenue. Zero appropriations from federal or state budgets. The government's role is one signature on a document it already has the legal authority to sign.</p>
+  `;
+}
+
+function buildScale() {
+  const scales = [
+    {label:'Conservative (10M ha — 25% of idle land)', ha:10},
+    {label:'Moderate (25M ha)', ha:25},
+    {label:'Full idle land base (40M ha)', ha:40},
+    {label:'Maximum potential (50M ha)', ha:50},
+  ];
+  let tbl=`<thead><tr><th>Scenario</th><th>Hectares</th><th>10-yr gross</th><th>States (50%)</th><th>Communities (30%)</th><th>Fed tax (est.)</th></tr></thead><tbody>`;
+  scales.forEach(({label,ha})=>{
+    const yrs = getYears(500000, ha, 20, 5000000);
+    const tG=yrs.reduce((s,r)=>s+r.gross,0);
+    const tS=yrs.reduce((s,r)=>s+r.state,0);
+    const tC=yrs.reduce((s,r)=>s+r.comm,0);
+    const tT=yrs.reduce((s,r)=>s+r.tax,0);
+    tbl+=`<tr><td>${label}</td><td>${ha}M</td><td>${fmtN(tG)}</td><td>${fmtN(tS)}</td><td>${fmtN(tC)}</td><td>${fmtN(tT)}</td></tr>`;
+  });
+  tbl+=`</tbody>`;
+  document.getElementById('scale-table').innerHTML = tbl;
+}
+
+update();
+</script>
+</body>
+</html>
