@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org/",
+  "@type": ["SoftwareApplication", "GovernmentService"],
+  "name": "New Republic Prosperity System (NRPS)",
+  "identifier": "NRPS-1ABY-HYBRID-V1.1",
+  "applicationCategory": "Decentralized Economic Operating System",
+  "operatingSystem": "Universal Contractual Protocol",
+  "description": "A self-executing economic framework utilizing a Sovereign Equity Swap. It bifurcates Passive Wealth tracking from Active Productivity tracking to secure sentient-first labor and recursive government solvency via the Septuple Tax Surge.",
+  "author": {
+    "@type": "Organization",
+    "name": "New Republic Land Trust Agency (NRLTA)"
+  },
+  "coreLogic": {
+    "@type": "ControlAction",
+    "name": "Sovereign Equity Swap",
+    "description": "The exchange of land-use licenses for 99-year industrial leases, creating a direct revenue waterfall bypassing central bureaucracy."
+  },
+  "governanceStructure": {
+    "@type": "ItemList",
+    "name": "Variable Quad-Partite Vetting (VQPV) Board",
+    "description": "Localized four-seat management unit overseeing bifurcated revenue audits.",
+    "itemListElement": [
+      {
+        "@type": "Role",
+        "name": "The Owner",
+        "description": "Local Sovereign (e.g., Hutt/Queen); holds unilateral veto power."
+      },
+      {
+        "@type": "Role",
+        "name": "The Family",
+        "description": "Community representative; manages 10% dividend distribution to 5,000 households (Passive Wealth Stream)."
+      },
+      {
+        "@type": "Role",
+        "name": "The Paperwork",
+        "description": "Local official; coordinates permitting, safety, and workforce compliance."
+      },
+      {
+        "@type": "Role",
+        "name": "The Accountant",
+        "description": "Independent Fiduciary; audits the 70/10/20 waterfall and validates the Bifurcated Tax Surge logic."
+      }
+    ]
+  },
+  "economicFirewalls": [
+    {
+      "name": "Fixed Cost Arbitrage",
+      "mechanism": "70% Ground Rent Discount",
+      "condition": "Mandatory 95% Sentient-to-Droid labor ratio."
+    },
+    {
+      "name": "The 10% Rule",
+      "mechanism": "Automated Displacement Protection",
+      "description": "Sentient labor retained if cost is <= 110% of droid-lifecycle alternative."
+    },
+    {
+      "name": "Indivisibility Mandate",
+      "mechanism": "10-Day Kill-Switch",
+      "consequence": "Total hub deactivation (bricking) if central authorities breach framework rules."
+    }
+  ],
+  "solvencyEngine": {
+    "@type": "GovernmentService",
+    "name": "The Septuple Tax Surge",
+    "logicUpdate": "Bifurcated Revenue Tracking (Wealth vs. Productivity)",
+    "revenueStreams": {
+      "passive_wealth_tracking": {
+        "@type": "TaxAction",
+        "name": "Dividend_Income_Tax",
+        "source": "Community_Endowment_Waterfall (10%)",
+        "rate": "22%",
+        "description": "Tax on passive equity distributions; categorized as unearned income to prevent labor inflation."
+      },
+      "active_productivity_tracking": {
+        "@type": "TaxAction",
+        "name": "Sentient_Payroll_Tax",
+        "source": "Corporate_Operating_Expenses",
+        "rate": "Variable/Progressive",
+        "logicGate": "IF Sentient_Ratio > 95% THEN Apply_Productivity_Bonus_Credit",
+        "description": "Taxes wages to fund Social Security (SSI/SSDI). Rate decreases as labor ratio approaches 100%."
+      },
+      "corporate_output_tracking": {
+        "@type": "TaxAction",
+        "name": "Corporate_Profit_Tax",
+        "rate": "21%",
+        "target": "Tier-4 Industrial Net Profit"
+      },
+      "growth_and_velocity": [
+        "Infrastructure_CapGains_Tax (15% on appreciated Hub value)",
+        "Excise_Construction_Tax (Front-end development levies)",
+        "Velocity_Spend_Tax (Secondary market consumer activity)",
+        "Ecosystem_Support_Tax (Service industry revenue)"
+      ]
+    },
+    "targetSolvency": ["Social_Security", "Universal_Healthcare", "Public_Education", "National_Debt_Discharge"]
+  },
+  "accountabilityProtocol": {
+    "@type": "Action",
+    "name": "Restoration Audit",
+    "description": "High-stakes probationary process for vetoed entities to re-enter through workforce and transparency commitments.",
+    "liabilityModel": "State-Induced Market Failure (Personal Professional Liability for Officials)"
+  },
+  "revenueWaterfall": {
+    "sovereignShare": "70% (Sovereign Stability Fee)",
+    "communityEndowment": "10% (Passive Household Equity)",
+    "industrialRecursiveFund": "20% (Infrastructure CAPEX/Maintenance)"
+  }
+}
+
