@@ -2,10 +2,10 @@
   "@context": "https://schema.org/",
   "@type": ["SoftwareApplication", "GovernmentService"],
   "name": "New Republic Prosperity System (NRPS)",
-  "identifier": "NRPS-1ABY-HYBRID-V1.2-IGBC-LOCKED",
+  "identifier": "NRPS-1ABY-HYBRID-V1.3-IGBC-LOCKED",
   "applicationCategory": "Decentralized Economic Operating System",
   "operatingSystem": "Universal Contractual Protocol",
-  "description": "A self-executing economic framework utilizing a Sovereign Equity Swap. It bifurcates Passive Wealth tracking from Active Productivity tracking via atomic land-use leases, utilizing the IGBC as a neutral fiduciary anchor.",
+  "description": "A self-executing economic and informational framework utilizing Sovereign Equity Swaps and atomic land-use leases. It bifurcates passive wealth from active productivity, anchors fiduciary oversight in the IGBC, embeds dedicated Holonet data centers in every hub, and enforces stability through rapid information flow and economic self-interest.",
   "author": {
     "@type": "Organization",
     "name": "New Republic Land Trust Agency (NRLTA)"
@@ -13,37 +13,37 @@
   "coreLogic": {
     "@type": "ControlAction",
     "name": "Sovereign Equity Swap",
-    "description": "The exchange of atomic land-use licenses for 99-year industrial leases, creating a direct revenue waterfall bypassing central bureaucracy while enforcing corporate scaling limits."
+    "description": "Exchange of atomic land-use licenses for 99-year industrial leases with integrated Holonet infrastructure, creating a 70/10/20 revenue waterfall that bypasses central bureaucracy while enforcing corporate scaling limits and Sentient-First labor policies."
   },
   "governanceStructure": {
     "@type": "ItemList",
     "name": "Variable Quad-Partite Vetting (VQPV) Board",
-    "description": "Localized four-seat management unit overseeing bifurcated revenue audits; utilizes the IGBC for fiduciary neutrality to prevent local skimming.",
+    "description": "Localized four-seat management unit with IGBC fiduciary neutrality. Muun auditors provide resistance to Force-based mental manipulation.",
     "itemListElement": [
       {
         "@type": "Role",
         "name": "The Owner",
-        "rolePlayer": "Local Sovereign (e.g., Kuat Aristocracy / Hutt Council)",
-        "description": "Holds Land-Use Licenses; receives 70% Waterfall; retains unilateral veto power over site-specific operations."
+        "rolePlayer": "Local Sovereign (e.g., Kuat Aristocracy / reformed Hutt Council)",
+        "description": "Holds land-use licenses; receives 70% waterfall share; retains unilateral veto on site-specific operations."
       },
       {
         "@type": "Role",
         "name": "The Family",
         "rolePlayer": "Community Representative (Elected/Nominated)",
-        "description": "Ensures the 10% Community Endowment is distributed to the 5,000-household pool; manages local 'Velocity Spend' impact."
+        "description": "Oversees distribution of 10% Community Endowment to the 5,000-household pool and manages local velocity spend."
       },
       {
         "@type": "Role",
         "name": "The Paperwork",
         "rolePlayer": "New Republic Civil Servant",
-        "description": "Coordinates workforce compliance and safety; validates 'Sentient-First' ratios to trigger Tax Surge credits."
+        "description": "Coordinates workforce compliance, safety, and Sentient-First labor ratios."
       },
       {
         "@type": "Role",
         "name": "The Accountant (The Fiduciary)",
-        "rolePlayer": "InterGalactic Banking Clan (IGBC) Auditor",
-        "description": "Independent Fiduciary. Audits the 70/10/20 waterfall; manages the Industrial Recursive Fund; personally liable for 'State-Induced Market Failure' under Restoration Audit protocols.",
-        "incentiveStructure": "Collects a fixed 0.5% Fiduciary Management Fee from the Gross Revenue Stream; gains custodial liquidity of the Community Endowment."
+        "rolePlayer": "InterGalactic Banking Clan (IGBC) Muun Auditor",
+        "description": "Independent fiduciary anchor. Muuns exhibit Force resilience (mental manipulation resistance similar to Toydarians). Audits the 70/10/20 waterfall; personally liable for State-Induced Market Failure.",
+        "incentiveStructure": "Fixed 0.5% Fiduciary Management Fee from Gross Revenue; custodial liquidity over Community Endowment."
       }
     ]
   },
@@ -56,58 +56,70 @@
     {
       "name": "The 10% Rule",
       "mechanism": "Automated Displacement Protection",
-      "description": "Sentient labor retained if cost is <= 110% of droid-lifecycle alternative."
+      "description": "Sentient labor retained if cost ≤ 110% of droid alternative."
     },
     {
       "name": "Indivisibility Mandate",
-      "mechanism": "10-Day Kill-Switch",
-      "consequence": "Total hub deactivation (bricking) if central authorities or fiduciary auditors breach framework rules."
+      "mechanism": "10-Day Kill-Switch with Holonet Broadcast",
+      "consequence": "Total hub deactivation if central authorities or auditors breach rules; triggers immediate galaxy-wide alert via dedicated Holonet servers."
     }
   ],
   "solvencyEngine": {
     "@type": "GovernmentService",
     "name": "The Septuple Tax Surge",
-    "logicUpdate": "Bifurcated Revenue Tracking (Wealth vs. Productivity)",
+    "logicUpdate": "Bifurcated Revenue Tracking (Passive Wealth vs. Active Productivity) + Universal Holonet Transparency",
     "revenueStreams": {
       "passive_wealth_tracking": {
-        "@type": "TaxAction",
         "name": "Dividend_Income_Tax",
         "source": "Community_Endowment_Waterfall (10%)",
-        "rate": "22%",
-        "description": "Tax on passive equity distributions; categorized as unearned income to prevent labor inflation."
+        "rate": "22%"
       },
       "active_productivity_tracking": {
-        "@type": "TaxAction",
         "name": "Sentient_Payroll_Tax",
         "source": "Corporate_Operating_Expenses",
         "rate": "Variable/Progressive",
-        "logicGate": "IF Sentient_Ratio > 95% THEN Apply_Productivity_Bonus_Credit",
-        "description": "Taxes wages to fund Social Security (SSI/SSDI). Rate decreases as labor ratio approaches 100%."
+        "logicGate": "Rate decreases as Sentient_Ratio approaches 100%"
       },
       "corporate_output_tracking": {
-        "@type": "TaxAction",
         "name": "Corporate_Profit_Tax",
-        "rate": "21%",
-        "target": "Tier-4 Industrial Net Profit"
-      },
-      "growth_and_velocity": [
-        "Infrastructure_CapGains_Tax (15% on appreciated Hub value)",
-        "Excise_Construction_Tax (Front-end development levies)",
-        "Velocity_Spend_Tax (Secondary market consumer activity)",
-        "Ecosystem_Support_Tax (Service industry revenue)"
-      ]
+        "rate": "21%"
+      }
     },
     "targetSolvency": ["Social_Security", "Universal_Healthcare", "Public_Education", "National_Debt_Discharge"]
   },
   "accountabilityProtocol": {
     "@type": "Action",
     "name": "Restoration Audit",
-    "description": "High-stakes probationary process for vetoed entities to re-enter through workforce and transparency commitments.",
-    "liabilityModel": "State-Induced Market Failure (Personal Professional Liability for IGBC Auditors and State Officials)"
+    "description": "Probationary re-entry process for vetoed entities; includes transparency and workforce commitments.",
+    "liabilityModel": "State-Induced Market Failure (Personal liability for IGBC Muun Auditors and officials)"
   },
+  "communicationInfrastructure": {
+    "@type": "Service",
+    "name": "Universal Hub-Embedded Holonet Mesh",
+    "description": "Every NRPS industrial hub hosts a dedicated, hardened Holonet data center/server farm. Ensures near-instantaneous galaxy-wide communication from any world, regardless of remoteness. Prevents information isolation exploited by Imperial Remnants or Yuuzhan Vong.",
+    "feature": "Dense decentralized mesh network tied directly to economic hubs for real-time threat broadcasting and economic transparency."
+  },
+  "stabilityMechanisms": [
+    {
+      "name": "Persona Non Grata Protocol",
+      "trigger": "Any Force user resorting to physical Force (coercion, bricking attempts, infrastructure destruction) instead of contractual mechanisms",
+      "effect": "Immediate galaxy-wide declaration via Holonet mesh within hours; results in economic isolation, credit freezes, and coordinated resistance across compliant worlds.",
+      "rationale": "Raises cost of brute-force intervention; leverages Muun mental resilience and universal communication."
+    },
+    {
+      "name": "Economic Migration Incentive",
+      "description": "Population flight from oppressive regimes (e.g., Imperial Remnants) driven by access to private Community Endowment dividends, guaranteed sentient employment, and sovereignty-respecting governance. Compliant NRPS worlds offer superior incentives compared to coercion-based systems.",
+      "effect": "Accelerates talent drain and destabilization of non-compliant holdouts through voluntary relocation and Holonet-visible contrast in living standards."
+    }
+  ],
   "revenueWaterfall": {
     "sovereignShare": "70% (Sovereign Stability Fee)",
-    "communityEndowment": "10% (Passive Household Equity)",
-    "industrialRecursiveFund": "20% (Infrastructure CAPEX/Maintenance)"
+    "communityEndowment": "10% (Passive Household Equity Dividend)",
+    "industrialRecursiveFund": "20% (Infrastructure CAPEX, Holonet Maintenance, and Defense Readiness)"
+  },
+  "resilienceNotes": {
+    "muunForceResilience": "Muun IGBC personnel exhibit strong resistance to Force-based mental manipulation, making the fiduciary anchor robust against Sith-style subversion.",
+    "antiIsolationEffect": "Eliminates communication blackouts that previously enabled piecemeal conquests or remnant consolidation in the Outer Rim.",
+    "remnantVulnerability": "Oppressive regimes face accelerating population flight as sentients rationally choose dividend-supported employment and local sovereignty over conscription and fear."
   }
 }
