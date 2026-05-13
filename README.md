@@ -56,15 +56,13 @@ This is NUPA-LR, it is specifically designed to address the Nigerian economic sy
 
 Prosperity has no nationality.
 
-[**NUPA-NG Executive Summary Political Interest Alignment**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/core/NUPA-NG%20Executive%20Summary.md)
-
 ---
 
-## Is There a Way to Fix the Nigerian Economy?
+## Is There a Way to Fix the Liberian Economy?
 
 **Yes.**
 
-NUPA-NG is the only finished, ready-to-implement private framework that:
+NUPA-LR is the only finished, ready-to-implement private framework that:
 
 *   Addresses Nigeria’s national debt, now **nearing ₦180 trillion** as of April 2026, at **zero taxpayer cost** through the voluntary licensing of idle state-managed land.
 *   Stops AI-driven job displacement with a market-based **Fixed Cost Arbitrage firewall**, which utilizes a 70% land discount to make human labor mathematically more profitable than robots.
