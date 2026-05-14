@@ -1,63 +1,38 @@
-# NUPA-NG 10-Year Revenue Projection  
-**Base Scale: 10 Million Hectares** (conservative—\~25% of Nigeria's idle land)  
-
-**Key Assumptions**  
-- Starting ground lease: ₦500,000 per hectare (below-market, Land Use Act).  
-- Annual compounding: 20% (hubs reinvest into solar/data/logistics).  
-- Year 6 bump: ₦5,000,000/ha average (real growth).  
-- Gross cumulative revenue: \~₦963 trillion over 10 years.  
-- State/Communities: 80% direct rent flow (trust + payouts).  
-- Architect: 1% Framework Usage Fee (deferred till first lease, 90% reversion post-sunset).  
-
-### 1. Total Gross Revenue (10 Years)  
-\~₦963 trillion  
-
-### 2. State/Communities (80% Direct Flow)  
-- Year 1: \~₦4 trillion  
-- Year 10: \~₦206 trillion  
-- **Total 10-Year Payout**: ₦770 trillion
-  * Projections have been subdivided in the table below.
-
-**Benefits**  
-- Zero taxpayer cost.  
-- 20% reinvestment covers infrastructure + skills modules.  
-- Community veto on every lease—no federal override.  
-
-### 3. Architect's 1% Framework Usage Fee  
-- Deferred until Phase 2 (first lease signed).  
-- Phase 1: 20% of 1% → modest startup.  
-- Phase 2 (sunset): 90% reversion → perpetual.  
-- **10-Year Total (max, post-sunset)**: ₦8.7 trillion  
-
-**Summary Table**  
-| Entity          | Mechanism                  | 10-Year Total (₦)            |  
-|-----------------|----------------------------|------------------------------|  
-| States/Communities     | 80% Rent Flow              | 770,000,000,000,000          |  
-| Architect       | 90% of 1% (Phase 2)        | 8,700,000,000,000            |  
-
-**Notes**  
-- If scaled to 50M hectares? Gross \~₦4.8 quadrillion—communities get ₦3.84 quad. But 10M keeps it realistic.  
-- All private: Corporate options bootstrap, no Abuja draw.  
-
----
-
-**Updated 10-Year Revenue Projections (10M Hectare Base)**  
-
-The economic model is realigned to subdivide the previous 80% yield into the 50/30 split:
-
-| Entity | Mechanism | 10-Year Total (₦) |
-| :--- | :--- | :--- |
-| **State Government** | 50% Sovereign Royalty | **₦481.5 Trillion** |
-| **Host State Trust** | 30% Communal Yield | **₦288.9 Trillion** |
-| **Federal Treasury** | Septuple Stream (VAT/CIT/PIT) | **₦147.3 Trillion** |
-| **The Hub** | 20% Recursive Reinvestment | **₦192.6 Trillion** |
-
-***
-
-**The Architect's Tactical Update:**  
-
-By replacing "Host Community" with "**Host State**" and implementing the **50/30/20 split**, we have hard-coded a **"Sovereign Shield"** into the framework. The Governor is no longer just a regulator; they are a **50% stakeholder** whose own treasury's success is tied to the physical integrity of the hub. If they fail to protect the hub's infrastructure (the 20% fund) or the **Host State's** dividend (the 30% fund), their own **50% royalty** collapses to zero. This aligns "Greed" with "Stability," creating an "Abuja-Proof" revenue engine.
-
-**Auditor's Note**  
-
-Because 20% of every naira collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The governor's treasury gets a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
+This is the translation of the **NUPA-LR (Liberia Republic)** framework. We are pivoting from the Nigerian 10M hectare base to a **4M hectare base**, representing Liberia’s total arable land potential.
+By applying the **50/30/20 Sovereign Shield**, we align the interests of the County Superintendents, the local CLDMAs (Community Land Development and Management Associations), and the Executive Branch in Monrovia.
+# NUPA-LR 10-Year Revenue Projection (Liberia)
+**Base Scale: 4 Million Hectares** (Total Arable Land Potential)
+**Key Assumptions (Adjusted for Liberian Market & USD Stability)**
+ * **Currency:** Projections in **USD** to reflect Liberia’s dual-currency system and global Tier-1 corporate attraction.
+ * **Starting Ground Lease:** $500 per hectare (Aggressively low to trigger the "70% Discount" incentive).
+ * **Annual Compounding:** 20% (Driven by the 20% Recursive Reinvestment into solar, processing, and port-link logistics).
+ * **Year 6 Milestone:** Value jumps as "Knowledge Mastery" modules mature and infrastructure hits Tier-4 status.
+ * **Community Veto:** Absolute. Under the Land Rights Act of 2018, no hub activates without local CLDMA signing.
+### 1. Total Gross Revenue (10 Years)
+**~$185 Billion USD** (Cumulative)
+### 2. The Sovereign Shield (Waterfall Split)
+The 80% non-federal yield is subdivided to ensure regional protection and communal stability.
+| Entity | Mechanism | 10-Year Total (USD) | Function |
+|---|---|---|---|
+| **County Government** | 50% Sovereign Royalty | **$92.5 Billion** | Funds regional infrastructure and county-level debt clearance. |
+| **CLDMA Trust** | 30% Communal Yield | **$55.5 Billion** | Direct "Black Box" dividends to local families and village clinics. |
+| **Central Government** | Septuple Revenue Stream | **$48.0 Billion*** | VAT, Payroll Tax (95% Human), and Corporate Tax. |
+| **The Hub** | 20% Recursive Fund | **$37.0 Billion** | Hard-coded SLA: Roads, Power, and Knowledge Mastery. |
+**The Septuple Stream is an estimate based on economic velocity; it sits outside the Rent Waterfall.*
+### 3. The Architect’s 1% Framework Usage Fee
+ * **Deferred:** No cost until the first corporate lease is signed.
+ * **Sustainability:** 90% of this fee reverts to the **Architect** to ensure the framework remains stable across all justifications and protects the architect's intellectual property.
+ * **10-Year Total:** ~$1.8 Billion USD.
+### Summary Table: The Liberia Fix
+| Beneficiary | Mechanism | 10-Year Impact |
+|---|---|---|
+| **The People (CLDMA)** | 30% Direct Rent | Eradicates extreme poverty; creates local "Landed Gentry." |
+| **The County (Superintendent)** | 50% Royalty | Converts local government from "Begging" to "Investing." |
+| **The Youth (Workforce)** | 95% Human Mandate | Millions of high-tech/agro jobs protected from automation. |
+| **The Republic (Monrovia)** | Septuple Tax Surge | Pays off 100% of national debt; stabilizes the LRD. |
+### Architect’s Tactical Update for Liberia
+By implementing the **50/30/20 split**, we have hard-coded a **"Monrovia-Proof"** shield. In the Liberian context, the County Superintendent and the local Paramount Chiefs become the **Vested Protectors**.
+If the central government attempts to seize a hub or alter the Land Rights Act of 2018, they don't just fight a corporation—they fight the **County Treasury (50%)** and the **Local Families (30%)**. This creates a political "Third Rail" that no administration would dare touch.
+**Auditor's Note:**
+The 20% Recursive Fund is the "Magic Engine." Because Liberia currently lacks consistent electricity and paved farm-to-market roads, the first 5 years of this fund will essentially build a **Private National Grid** and a **Digital Silk Road** across the 4M hectares. As the infrastructure improves, the land value compounds, making the 30% communal cut more valuable every single quarter.
+**This is the NUPA-LR OS: The end of the "Resource Curse" and the beginning of the "Human-Centric Industrial Era."**
