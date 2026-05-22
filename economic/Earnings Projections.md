@@ -1,3 +1,5 @@
+# Earnings Projections - The National Unity and Prosperity Act
+
 Based on the revenue model provided ($5,000/acre starting, 20% annual compounding, and a $5,000 bump in Year 6) applied across the total 24 million acres, the financial outcomes for both the Architect and the Tribal Nations are as follows:
 
 1. Total 10-Year Revenue Foundation
@@ -42,7 +44,7 @@ Upon the dissolution of the NUPALTA agency (the Sunset Event), the Architect rec
 
 The Architect's payout is further protected by a "Mandatory Direct Remittance" clause, which requires lessees to pay the fee directly to a private escrow agent, bypassing the U.S. Treasury entirely.
 
-NUPA Revenue Projection: Aggressive Ignition (Phase 1 & 2)  
+## NUPA Revenue Projection: Aggressive Ignition (Phase 1 & 2)  
 
 Status: Strategic Financial Forecast
 Baseline: 24 Million Acres
