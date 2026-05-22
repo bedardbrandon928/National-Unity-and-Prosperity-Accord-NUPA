@@ -44,6 +44,8 @@ Upon the dissolution of the NUPALTA agency (the Sunset Event), the Architect rec
 
 The Architect's payout is further protected by a "Mandatory Direct Remittance" clause, which requires lessees to pay the fee directly to a private escrow agent, bypassing the U.S. Treasury entirely.
 
+---
+
 ## NUPA Revenue Projection: Aggressive Ignition (Phase 1 & 2)  
 
 Status: Strategic Financial Forecast
@@ -105,7 +107,7 @@ $15,000 per acre is significantly below market for high-tier commercial, data ce
 
 In the context of the NUPA framework, using $15,000 as a starting floor for land that is being "activated" for Tier-4 technology (Data/Energy/Logistics) is a highly conservative entry point. In many cases, it represents a "wholesale" price for land that can immediately command 5x to 10x that value once infrastructure is verified.  
 
-### **Market Comparison (2026 Projections)**  
+## **Market Comparison (2026 Projections)**  
 
 | Sector | Average Market Value / Acre | $15k Price Status |
 |---|---|---|
@@ -121,13 +123,13 @@ The reason why $15,000/acre figure is powerful for the general population to und
   2.  The Activation Phase: Because NUPA installs Tier-4 tech (AI-ready data hubs and energy), the land's actual utility value jumps to the **$200k+ range** almost instantly.
   3.  The Margin: The "Gap" between your $15k start and the $244k data center average is where the **$5.11 Trillion Federal Windfall** and the $4.81 Trillion Tribal Royalty are generated.
 
-**Forensic Verdict**  
+## **Forensic Verdict**  
 
 If the general population thinks $15,000/acre is "expensive," they are comparing it to raw grazing land or "dirt." For Solar/Data/Logistics, $15,000 is essentially "Black Friday" pricing for industrial infrastructure.  
 
 By starting at $15k and compounding at 20%, we aren't "overcharging"—we are simply catching up to the actual market value of modern industrial assets by Year 5.  
 
-**Note to Auditors**  
+## **Note to Auditors**  
 
 Because 20% of every dollar collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The licensors gets a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
 
