@@ -45,9 +45,9 @@ Let us begin together.
 
 # STATEMENT OF NATIONAL FINALITY
 
-TO: The Congress of the United States
-FROM: Brandon Anthony Bedard (Policy Architect)
-SUBJECT: The Permanent Discharge of Structural Liabilities and National Debt Finality
+TO: The Congress of the United States  
+FROM: Brandon Anthony Bedard (Policy Architect)  
+SUBJECT: The Permanent Discharge of Structural Liabilities and National Debt Finality  
 
 ### I. The Declaration of Settlement
 
@@ -79,11 +79,11 @@ The Exponential Tax Surge: The Treasury reaps a massive, predictable influx of I
 
 ### I. Declaration of Authorship
 
-This document serves as a formal declaration that the National Unity and Prosperity Act (NUPA) framework (formerly "Cooperative Land Assets Model" or "CLAM"), including the 40/40/20 Recursive Reinvestment Model, the Fixed Cost Arbitrage logic, and the Verification Assistance Program (VAP), was authored solely by Brandon Anthony Bedard. This "Technical Stack" was engineered between November 18, 2025 and December 22, 2025, evolving from the CLAM framework, to the NPLTA, then finally to the NUPA framework, solving a series of 400-year and 160-year economic and jurisdictional puzzles that remained unaddressed by traditional governmental and academic institutions, while also adding a mechanism to protect the American workforce from potential automation employment displacement.
+This document serves as a formal declaration that the National Unity and Prosperity Act (NUPA) framework (formerly "Cooperative Land Assets Model" or "CLAM"), including the **40/40/20 Recursive Reinvestment Model**, the **Fixed Cost Arbitrage logic**, and the **Verification Assistance Program (VAP)**, was authored solely by **Brandon Anthony Bedard**. This "Technical Stack" was engineered between **November 18, 2025** and **December 22, 2025**, evolving from the **CLAM framework**, to the **NPLTA**, then finally to the **NUPA Framework**, solving a series of **400-year** and **160-year** economic and jurisdictional puzzles that remained unaddressed by traditional governmental and academic institutions, while also adding a mechanism to protect the American workforce from potential automation employment displacement.
 
 ### II. Record of Formal Service and Public Disclosure
 
-Since November 18, 2025, the Architect has established a comprehensive record of disclosure. While internal review status for most recipients remains unascertained, the framework has been formally served to the following entities to establish Prior Art and Public Domain Awareness:
+Since November 18, 2025, the Architect has established a comprehensive record of disclosure. While internal review status for most recipients remains unascertained, the framework has been formally served to the following entities to establish **Prior Art** and **Public Domain Awareness**:
 
  * Sovereign & Legal Service: The Hualapai Tribal Council, CRIT, NCAI, NARF, ILTF, Galanda Broadman, and Brownstein Hyatt Farber Schreck.
  * Institutional Delivery: Executive Director Julio Galindo (MCC) via physical copy and digital "Arsenal," and Jeffrey Wilson (ASU).
@@ -100,8 +100,8 @@ As the Architect of this system, a perpetual 1% Framework Usage Fee is establish
  * **Architect’s Limited Veto Provision:** The Architect retains a narrow, non-delegable, non-waivable veto power over any corporation, platform, or institutional investor whose core business model or operational practices materially contribute to the creation or maintenance of an economic dependency class.
 This veto specifically includes, but is not limited to, companies that:
 
-    * Deploy algorithmic control mechanisms that arbitrarily restrict a worker’s ability to earn (e.g., sudden lockouts, ghost restrictions, or extraterritorial enforcement of foreign labor rules)
-    * Externalize safety and maintenance risks onto workers while denying them stable income or protections
+    * Deploy algorithmic control mechanisms that arbitrarily restrict a worker’s ability to earn (e.g., sudden lockouts, ghost restrictions, or extraterritorial enforcement of foreign labor rules)  
+    * Externalize safety and maintenance risks onto workers while denying them stable income or protections  
     * Design systems that profit from human attention addiction and economic fragility rather than productive labor
 
 Entities that are permanently disqualified, however, include DoorDash, and all other supporters or beneficiaries of California Proposition 22, and major institutional investors that have **publicly advocated for** or **implemented policies designed to create or maintain a permanent dependency class**, specifically **BlackRock**, **Vanguard**, and **State Street**.
@@ -140,7 +140,7 @@ NUPA and its adaptations exist as the only viable exit ramp from accelerating ec
 
 Entities whose core business models have materially contributed to this trajectory — through algorithmic labor suppression, sudden lockouts that strand workers, externalization of safety risks, and profit models built on human fragility and attention addiction — are structural parasites. Allowing them participation would reintroduce the very poisons that necessitated the creation of this framework.  
 
-The Limited Veto is therefore not a personal preference but a necessary architectural safeguard. It ensures the system remains a protected Human Sanctuary rather than another vector for dependency. Nations and sovereign entities adopting NUPA accept this boundary in full or not at all. 
+The **Limited Veto** is therefore not a personal preference but a necessary architectural safeguard. It ensures the system remains a protected Human Sanctuary rather than another vector for dependency. Nations and sovereign entities adopting NUPA accept this boundary in full or not at all. 
 
 **There is no compromise on this point: the exit ramp must stay clean.**
 
@@ -148,8 +148,8 @@ The Limited Veto is therefore not a personal preference but a necessary architec
 
 The 1% fee represents a fractional exchange for the following universal benefits:
 
- * The Exponential Tax Surge: A massive, perpetual new revenue stream for the Federal Government without tax increases.
- * Fixed Cost Arbitrage: Preservation of American jobs by lowering the fixed costs of domestic production.
+ * The Exponential Tax Surge: A massive, perpetual new revenue stream for the Federal Government without tax increases.  
+ * Fixed Cost Arbitrage: Preservation of American jobs by lowering the fixed costs of domestic production.  
  * Historical Resolution: Settling the 1860s national debt and restoring tribal sovereignty via private capital.
 
 ### V. Finality of Intellectual Property
@@ -174,7 +174,7 @@ SUBJECT: FEDERAL ASSET OPTIMIZATION: A Structural Solution to Automation, Unfund
 
 ## EXECUTIVE SUMMARY: A Net-Zero Cost Solution to Structural Liability
 
-This proposal presents the only fiscally responsible and politically viable mechanism for settling the nation's largest structural economic liabilities while securing the American workforce against the threat of Artificial Intelligence (AI) displacement.
+This proposal presents the only fiscally responsible and politically viable mechanism for settling the nation's largest structural economic liabilities while securing the American workforce against the threat of Artificial Intelligence (AI) displacement.  
  * Net-Zero Fiscal Cost: NUPA requires zero new taxpayer dollars for its operation. It capitalizes the solution by optimizing underutilized Federal Land (BLM acreage), converting dormant assets into revenue-generating engines.
  * The Anti-Automation Firewall: The policy incentivizes corporations to prioritize human labor over automation by lowering fixed land costs for compliant firms. This creates a market-based "Blue Collar Firewall" without government regulation.
  * Irrevocable Finality: The 'Perpetual Sovereignty Licensing Protocol' (FASL irrevocability clause) ensures the permanent discharge of historical national debt liabilities, protected by the Fifth Amendment.
