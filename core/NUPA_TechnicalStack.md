@@ -343,17 +343,17 @@ Authored and Copyrighted by Brandon Anthony Bedard, December 2025
 
 ### I. THE SOVEREIGN KEY (The Vital Step)
 
-Requirement: Before any lease is signed or options sold, a Sovereign Tribe must execute a "Sovereign Opt-In".  
-The Power: Tribes hold absolute veto power over specific acreage.  
-The Benefit: Tribes receive a "Sovereign Royalty" from commercial success and a permanent seat on the governing Board.  
+* Requirement: Before any lease is signed or options sold, a Sovereign Tribe must execute a "Sovereign Opt-In".  
+* The Power: Tribes hold absolute veto power over specific acreage.  
+* The Benefit: Tribes receive a "Sovereign Royalty" from commercial success and a permanent seat on the governing Board.  
 
 ### II. THE SPARK (Phase 1: Zero Taxpayer Cost)
 
-Funding Source: Corporate Option Fees (Reservation Deposits).  
-Mechanism: A designated Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow.  
-Priority: Determined by a digital timestamp (First-Come, First-Served).  
-Legal Protection: 100% Refundable if the Act is not passed within 24 months of deposit.  
-Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the "Seed Beneficiaries" (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and  posting the Notice of Opportunity).  
+* Funding Source: Corporate Option Fees (Reservation Deposits).  
+* Mechanism: A designated Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow.  
+* Priority: Determined by a digital timestamp (First-Come, First-Served).  
+* Legal Protection: 100% Refundable if the Act is not passed within 24 months of deposit.  
+* Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the "Seed Beneficiaries" (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and  posting the Notice of Opportunity).  
 
 ### III. THE GOVERNANCE (The VQPV Board)
 
