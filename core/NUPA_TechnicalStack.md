@@ -164,13 +164,13 @@ TO:
  * The Congressional Western Caucus
  * The House Ways and Means Committee
 
-FROM: Brandon Anthony Bedard (Policy Architect)
-ORIGINAL DRAFT: CLAM (Cooperative Land Assets Model) Framework
-ORIGINAL DRAFT DATE: November 18, 2025
-REVISED DRAFT: National Unity and Prosperity Act (NUPA) Framework
-REVISION DATE: December 21, 2025
-FINAL REVISION DATE: February 22, 2026
-SUBJECT: FEDERAL ASSET OPTIMIZATION: A Structural Solution to Automation, Unfunded Liabilities, and Workforce Instability.
+FROM: Brandon Anthony Bedard (Policy Architect)  
+ORIGINAL DRAFT: CLAM (Cooperative Land Assets Model) Framework  
+ORIGINAL DRAFT DATE: November 18, 2025  
+REVISED DRAFT: National Unity and Prosperity Act (NUPA) Framework  
+REVISION DATE: December 21, 2025  
+FINAL REVISION DATE: February 22, 2026  
+SUBJECT: FEDERAL ASSET OPTIMIZATION: A Structural Solution to Automation, Unfunded Liabilities, and Workforce Instability.  
 
 ## EXECUTIVE SUMMARY: A Net-Zero Cost Solution to Structural Liability
 
@@ -185,17 +185,17 @@ NUPA functions as a generative, closed-loop economic engine that compounds wealt
 
 **A. The Automation Offset Mandate (Labor Protection)**
 
-The framework provides a Fixed Cost Arbitrage. By utilizing sovereign ground leases significantly below commercial market rates, corporations recapture the capital traditionally lost to real estate overhead. This 'recovered capital' is then redirected to stabilize the variable costs of human labor, making the hiring of humans fiscally superior to the high CapEx and maintenance cycles of automated systems.
- * Fixed Cost Reduction: Corporations contracting with the Community Land Trusts (CLTs) benefit from long-term, stable commercial leasing, dramatically reducing their fixed capital overhead.
- * Labor Prioritization: The resulting reduction in fixed overhead creates a greater operational tolerance for the variable costs associated with human labor.
- * Job Protection: This restructuring allows corporations to competitively choose human labor over automation, structurally incentivizing job creation and wage growth.
- * Exponential Tax Revenue Surge: The engine creates a massive, perpetual economic stimulus that directly benefits the Treasury through increased Income Tax (on dividends), Payroll Tax (from new jobs), and Corporate Tax, and more.
+The framework provides a Fixed Cost Arbitrage. By utilizing sovereign ground leases significantly below commercial market rates, corporations recapture the capital traditionally lost to real estate overhead. This 'recovered capital' is then redirected to stabilize the variable costs of human labor, making the hiring of humans fiscally superior to the high CapEx and maintenance cycles of automated systems.  
+ * Fixed Cost Reduction: Corporations contracting with the Community Land Trusts (CLTs) benefit from long-term, stable commercial leasing, dramatically reducing their fixed capital overhead.  
+ * Labor Prioritization: The resulting reduction in fixed overhead creates a greater operational tolerance for the variable costs associated with human labor.  
+ * Job Protection: This restructuring allows corporations to competitively choose human labor over automation, structurally incentivizing job creation and wage growth.  
+ * Exponential Tax Revenue Surge: The engine creates a massive, perpetual economic stimulus that directly benefits the Treasury through increased Income Tax (on dividends), Payroll Tax (from new jobs), and Corporate Tax, and more.  
 
 **B. The Compounding Wealth Engine**
 
 The framework mandates reinvestment to guarantee exponential economic growth without relying on the U.S. Treasury.
- * Zero-Cost Capitalization: The Trust acquires irrevocable licensing rights at a $0.00 cost basis via federal licensing under FASL of dormant BLM land (long-term ROW interests).
- * Leverage & Development: The licensed interest's value/equity is used to secure private Development Bonds to build high-yield commercial infrastructure (Solar Energy Farms, Data Centers, Logistics Hubs, etc.).
+ * Zero-Cost Capitalization: The Trust acquires irrevocable licensing rights at a $0.00 cost basis via federal licensing under FASL of dormant BLM land (long-term ROW interests).  
+ * Leverage & Development: The licensed interest's value/equity is used to secure private Development Bonds to build high-yield commercial infrastructure (Solar Energy Farms, Data Centers, Logistics Hubs, etc.).  
 
 **Program Phases and Scaling**
 
@@ -222,28 +222,28 @@ The system is built with structural and legal locks to prevent gridlock, corrupt
 
 The Fiduciary serves as the bonded, third-party administrator of the Trust's internal assets.  
  * Internal Audit: They are responsible for the quarterly 40/40/20 disbursement of corporate ground rents.  
- * Dividend Integrity: The Fiduciary shall audit the "Mastery Unlock" to confirm that beneficiaries have achieved competency in Sovereign Real Estate, Renewable Infrastructure, and Recursive Entrepreneurship before releasing the full 100% payout. 
- * Adaptive Dividend Payout Structure:  They are mandated to execute the tiered distribution protocol—Legacy, Empowerment, and Growth—ensuring that the Mastery Bonus (the additional 40% dividend) is only triggered upon the verified completion of the Three Pillars of Knowledge. 
+ * Dividend Integrity: The Fiduciary shall audit the "Mastery Unlock" to confirm that beneficiaries have achieved competency in Sovereign Real Estate, Renewable Infrastructure, and Recursive Entrepreneurship before releasing the full 100% payout.  
+ * Adaptive Dividend Payout Structure:  They are mandated to execute the tiered distribution protocol—Legacy, Empowerment, and Growth—ensuring that the Mastery Bonus (the additional 40% dividend) is only triggered upon the verified completion of the Three Pillars of Knowledge.  
  * Privacy Firewall: They maintain the forensic data from the Verification Assistance Program (VAP), ensuring absolute separation between private ancestry records and government oversight.  
 
 2. The Local Official Mandate
 
-The Local Government Official is nominated by the local governing body and confirmed by majority VQPV vote to serve as a practical regulatory liaison. This role may be filled by any active member of the government. (e.g., BLM officer, State Representative, County Sheriff, City Council Member, City Mayor, etc.)
- * Compliance Facilitation: They coordinate permitting, infrastructure integration, and adherence to federal, state, and local regulations (including environmental, labor, and safety standards).
- * Risk Detection: They provide an early-warning mechanism for potential risks such as lessee non-compliance, security concerns, or fraudulent activity.
- * Agency Channeling: They maintain direct channels to relevant agencies (e.g., OSHA, EPA, SEC, FBI, IRS, etc.) for consultation or reporting.
- * Veto Limitation: They hold no veto power and may not unilaterally block board decisions, ensuring municipal interests do not override Trust autonomy.
+The Local Government Official is nominated by the local governing body and confirmed by majority VQPV vote to serve as a practical regulatory liaison. This role may be filled by any active member of the government. (e.g., BLM officer, State Representative, County Sheriff, City Council Member, City Mayor, etc.)  
+ * Compliance Facilitation: They coordinate permitting, infrastructure integration, and adherence to federal, state, and local regulations (including environmental, labor, and safety standards).  
+ * Risk Detection: They provide an early-warning mechanism for potential risks such as lessee non-compliance, security concerns, or fraudulent activity.  
+ * Agency Channeling: They maintain direct channels to relevant agencies (e.g., OSHA, EPA, SEC, FBI, IRS, etc.) for consultation or reporting.  
+ * Veto Limitation: They hold no veto power and may not unilaterally block board decisions, ensuring municipal interests do not override Trust autonomy.  
 
 3. The Community Land Trust Mandate
 
 ​The licensed land is managed by local/digital CLTs governed by the proprietary Variable Quad-Partite Vetting (VQPV) System, serving as the central fiduciary engine and the primary legal fortress for the asset. 
- * Shared Title Aggregation: The CLT represents the Sovereign Tribe and the verified Beneficiaries as shared beneficial interest holders under the license. This structure is established in name alone to facilitate streamlined execution of 99-year commercial ground leases, removing the administrative gridlock of individual stakeholder signatures.
+ * Shared Title Aggregation: The CLT represents the Sovereign Tribe and the verified Beneficiaries as shared beneficial interest holders under the license. This structure is established in name alone to facilitate streamlined execution of 99-year commercial ground leases, removing the administrative gridlock of individual stakeholder signatures.  
  * Trust Capacity Limits (Saturation Guardrail): Each digital CLT is optimized for an 8,000-acre "Hub" to ensure high-yield dividend density. To maintain the 40% Beneficiary Dividend as a high-velocity wealth engine, each CLT is capped at a maximum capacity of 5,000 verified beneficiaries that do not need to relocate from their currently established homes.
  * Modular Scaling: Once a specific CLT reaches its 5,000-beneficiary capacity, new verified descendants are assigned to the next sequential CLT hub. This ensures that the 40/40/20 disbursement remains a life-altering "Birthright Dividend" rather than a diluted social payment.  
- * Perpetual Sovereignty Licensing Protocol: The irrevocable licensing of underutilized BLM acreage under FASL operates as a permanent vesting of sovereignty licensing rights into the CLT. Once licensed, the licensed interest is protected by the Fifth Amendment against arbitrary federal revocation or impairment without just compensation.
- * Acreage-to-Beneficiary Ratio: To ensure governance integrity and prevent administrative stagnation, each CLT is restricted to a specific allocation of acreage (8,000) and a manageable cohort of situated beneficiaries (5,000). This "Modular Trust" model ensures that localized VQPV boards can effectively manage the 40/40/20 disbursement without the dilution of oversight.
- * Sovereign Recognition: The CLT utilizes the Sovereign status of the participating Tribe to shield the licensed land from traditional municipal property taxes, ensuring the asset operates as a high-margin, tax-exempt economic engine.
- * Development Bond Capacity: The CLT is empowered to leverage its irrevocable licensing interest/sovereign license as collateral to secure private Development Bonds. This allows for the construction of Tier-1 infrastructure (Solar Energy, Data Centers/Logistics Hubs) at a $0.00 taxpayer cost basis.
+ * Perpetual Sovereignty Licensing Protocol: The irrevocable licensing of underutilized BLM acreage under FASL operates as a permanent vesting of sovereignty licensing rights into the CLT. Once licensed, the licensed interest is protected by the Fifth Amendment against arbitrary federal revocation or impairment without just compensation.  
+ * Acreage-to-Beneficiary Ratio: To ensure governance integrity and prevent administrative stagnation, each CLT is restricted to a specific allocation of acreage (8,000) and a manageable cohort of situated beneficiaries (5,000). This "Modular Trust" model ensures that localized VQPV boards can effectively manage the 40/40/20 disbursement without the dilution of oversight.  
+ * Sovereign Recognition: The CLT utilizes the Sovereign status of the participating Tribe to shield the licensed land from traditional municipal property taxes, ensuring the asset operates as a high-margin, tax-exempt economic engine.  
+ * Development Bond Capacity: The CLT is empowered to leverage its irrevocable licensing interest/sovereign license as collateral to secure private Development Bonds. This allows for the construction of Tier-1 infrastructure (Solar Energy, Data Centers/Logistics Hubs) at a $0.00 taxpayer cost basis.  
 
 4. The Sovereign Tribe Mandate (The Sovereign Key)
 
@@ -251,7 +251,7 @@ The Tribe participates as the high-level governing authority and the primary hol
  * The Strategic Veto: The Tribe holds the final authority to approve or deny all corporate ground leases, acting as the ultimate safeguard against predatory or high-automation developments.  
  * Sovereign Recognition: The Tribe provides the necessary legal standing for the Perpetual Sovereignty Licensing Protocol, shielding the CLT from traditional municipal property taxes.  
  * Legacy Oversight: The Tribe ensures that the CLT's commercial activities align with the 99-year longevity required by the Recursive Economic Loop.  
- * Zero Administrative Burden: As the primary Sovereign partner, the Tribe is exempt from daily administrative duties and mandatory educational gateways, focusing exclusively on high-level governance and the receipt of the 40% Sovereign Royalty to be utilized in any capacity the relevant Tribal governance sees fit.
+ * Zero Administrative Burden: As the primary Sovereign partner, the Tribe is exempt from daily administrative duties and mandatory educational gateways, focusing exclusively on high-level governance and the receipt of the 40% Sovereign Royalty to be utilized in any capacity the relevant Tribal governance sees fit.  
 
 5. The Symmetry of Power (The "No" vs. "Yes" Protocol)
 
@@ -262,20 +262,20 @@ The Tribe participates as the high-level governing authority and the primary hol
 
 **B. Agency Charter and Dissolution**
 
- * Pre-Ignition: NUPALTA is officially represented solely by the Policy Architect until PHASE 1 Funding is initiated or the 10% licensing under FASL is initiated before funding can be established moving directly into Disbursement PHASES 1 and 2, at which point representation and management of NUPALTA moves to the designated Tier-1 law firm for structuring and operation.
+ * Pre-Ignition: NUPALTA is officially represented solely by the Policy Architect until PHASE 1 Funding is initiated or the 10% licensing under FASL is initiated before funding can be established moving directly into Disbursement PHASES 1 and 2, at which point representation and management of NUPALTA moves to the designated Tier-1 law firm for structuring and operation.  
  * Sunset Provision: Upon the successful seating of all VQPV Boards across 24 million acres (approx. 3000 VQPV Boards), the federal facilitator agency (NUPALTA) shall formally dissolve, relinquishing oversight to each local governance board. This ensures no permanent federal bureaucracy is created.  One "Legacy Administrator"shall remain after dissolution in order to act as a VQPV tie-breaking vote should it ever be necessary.
 
 **C. Gridlock Elimination Mandate**
 
 The structure prevents institutional stagnation that would impede revenue generation:
- * The NUPALTA Tiebreaker Mechanism is restricted to mission-critical items (Asset Management, Fiduciary Compliance, Governance Integrity).
- * The NUPALTA is empowered to impose mandatory mediation upon any voting outcome that results in a stagnation of commercial development or a delay in the recursive reinvestment schedule.
+ * The NUPALTA Tiebreaker Mechanism is restricted to mission-critical items (Asset Management, Fiduciary Compliance, Governance Integrity).  
+ * The NUPALTA is empowered to impose mandatory mediation upon any voting outcome that results in a stagnation of commercial development or a delay in the recursive reinvestment schedule.  
 
 **D. THE INDIVISIBILITY MANDATE (SYSTEMIC FAIL-SAFE)**
 
- * Indivisible Governance: The VQPV is a fused governance model. Any administrative action that attempts to marginalize Tribal authority or bypass the VQPV board or attempts the removal, marginalization, or bad-faith obstruction of any quadrant—specifically Tribal Sovereignty or Beneficiary Equity— triggers a Mandatory 10-Day Resolution Window. This period allows the Sovereign Nation to formally identify the overreach and provides the offending government office time to retract the action or resolve the breach. If the breach remains unresolved at the conclusion of Day 10, it triggers an Automatic Protective Dissolution of the CLT charter.
- * Federal Liability for Stagnation: Any dissolution of a local CLT Charter resulting from documented federal administrative overreach or "Institutional Bullying" shall be legally categorized as a "State-Induced Market Failure."
- * Liability Cascade: Upon dissolution, the offending party's office, within its capacity as a functionary of the U.S. Government, shall be held solely liable for all resulting third-party commercial damages, corporate breach claims, and Constitutional "Just Compensation" for the interruption of perpetually licensed sovereign economic rights/interest.
+ * Indivisible Governance: The VQPV is a fused governance model. Any administrative action that attempts to marginalize Tribal authority or bypass the VQPV board or attempts the removal, marginalization, or bad-faith obstruction of any quadrant—specifically Tribal Sovereignty or Beneficiary Equity— triggers a Mandatory 10-Day Resolution Window. This period allows the Sovereign Nation to formally identify the overreach and provides the offending government office time to retract the action or resolve the breach. If the breach remains unresolved at the conclusion of Day 10, it triggers an Automatic Protective Dissolution of the CLT charter.  
+ * Federal Liability for Stagnation: Any dissolution of a local CLT Charter resulting from documented federal administrative overreach or "Institutional Bullying" shall be legally categorized as a "State-Induced Market Failure."  
+ * Liability Cascade: Upon dissolution, the offending party's office, within its capacity as a functionary of the U.S. Government, shall be held solely liable for all resulting third-party commercial damages, corporate breach claims, and Constitutional "Just Compensation" for the interruption of perpetually licensed sovereign economic rights/interest.  
  * Audit-Exemption: This framework utilizes Point-of-Origin Verification. Since distributions are fixed and visible to VQPV, traditional audits are redundant. Direct interference with Architect Fees or Sovereign Royalties are unnecessary and is expressly prohibited.
 
 ### III.  CRISIS CLAUSE 
@@ -301,16 +301,16 @@ Hub exports (Solar/Data) lack traditional spoils-of-war value. Strategic occupat
 
 **A. Asset Source and Management (The 10% Preservation Limit)**
 
- * Statutory Acreage Cap: Congress shall authorize the designation and licensing of strategically located, underutilized BLM assets. However, the total aggregate land licensed via FASL through the NUPALTA shall not exceed Ten Percent (10.0%) of the total acreage managed by the Bureau of Land Management (BLM) as of the date of enactment.
- * The 90% Public Preservation Guarantee: To ensure the preservation of traditional land use, ninety percent (90.0%) of existing BLM holdings shall remain under current federal management for public recreation, hunting, grazing, and conservation, unaffected by NUPA commercial development.
- * Tier-1 Selection Criteria: Land within the authorized 10% shall be selected exclusively for Maximum Revenue Viability (e.g., Solar Energy, Data Centers, Logistics). Priority will be given to "Dead Capital" acreage—parcels that currently generate $0.00 in federal revenue and sit adjacent to existing high-capacity utility or fiber corridors, no less than, but not to exceed 8,000 acres.
- * Local Veto Seniority: Even within the authorized 10%, no specific parcel may be licensed without the formal, written Sovereign Opt-In of the relevant Tribal governing body.
+ * Statutory Acreage Cap: Congress shall authorize the designation and licensing of strategically located, underutilized BLM assets. However, the total aggregate land licensed via FASL through the NUPALTA shall not exceed Ten Percent (10.0%) of the total acreage managed by the Bureau of Land Management (BLM) as of the date of enactment.  
+ * The 90% Public Preservation Guarantee: To ensure the preservation of traditional land use, ninety percent (90.0%) of existing BLM holdings shall remain under current federal management for public recreation, hunting, grazing, and conservation, unaffected by NUPA commercial development.  
+ * Tier-1 Selection Criteria: Land within the authorized 10% shall be selected exclusively for Maximum Revenue Viability (e.g., Solar Energy, Data Centers, Logistics). Priority will be given to "Dead Capital" acreage—parcels that currently generate $0.00 in federal revenue and sit adjacent to existing high-capacity utility or fiber corridors, no less than, but not to exceed 8,000 acres.  
+ * Local Veto Seniority: Even within the authorized 10%, no specific parcel may be licensed without the formal, written Sovereign Opt-In of the relevant Tribal governing body.  
 
 **B. Verification Assurance (Privately Funded)**
 
 Preliminary Verification Thresholds for Phase 1 Seed Beneficiaries
- * Fast-Track Eligible Proofs: Recent DNA results from accredited laboratories (e.g., AncestryDNA, 23andMe) or court-certified genealogical records may qualify for immediate onboarding and base dividend unlock, subject to NUPALTA spot-check tracing verified ancestry to the enslaved during the era of chattel slavery in the United States.
- * Expert-Required Proofs: Historical documents (e.g., family Bibles, census records, oral histories) must have prior expert certification (e.g., from genealogists, historians, or legal proceedings) to qualify for fast-track; otherwise, routed to full VAP forensic review.
+ * Fast-Track Eligible Proofs: Recent DNA results from accredited laboratories (e.g., AncestryDNA, 23andMe) or court-certified genealogical records may qualify for immediate onboarding and base dividend unlock, subject to NUPALTA spot-check tracing verified ancestry to the enslaved during the era of chattel slavery in the United States.  
+ * Expert-Required Proofs: Historical documents (e.g., family Bibles, census records, oral histories) must have prior expert certification (e.g., from genealogists, historians, or legal proceedings) to qualify for fast-track; otherwise, routed to full VAP forensic review.  
  * No Taxpayer Cost: All verification costs shall be guaranteed and underwritten by a dedicated private donor endowment/fee structure, ensuring the Verification Assistance Program (VAP) operates without reliance on taxpayer funds.
 
 ### VI. FINAL SETTLEMENT AND SHARED SOVEREIGNTY
@@ -325,10 +325,10 @@ Preliminary Verification Thresholds for Phase 1 Seed Beneficiaries
 
 ### VII. CALL TO ACTION: A BIPARTISAN VICTORY
 
-The National Unity and Prosperity Act offers a rare "Unity Ticket" victory that aligns the interests of Labor, Fiscal Conservatives, and Land Rights advocates.
- * For the Natural Resources Committee: This legislation unlocks the value of dormant federal land, converting liability into an asset without privatization.
- * For the Education & Workforce Committee: This is the only legislative vehicle that provides a market-based defense for American jobs against Artificial Intelligence.
- * For the Budget Hawks: It discharges a multi-trillion dollar national liability for $0.00.
+The National Unity and Prosperity Act offers a rare "Unity Ticket" victory that aligns the interests of Labor, Fiscal Conservatives, and Land Rights advocates.  
+ * For the Natural Resources Committee: This legislation unlocks the value of dormant federal land, converting liability into an asset without privatization.  
+ * For the Education & Workforce Committee: This is the only legislative vehicle that provides a market-based defense for American jobs against Artificial Intelligence.  
+ * For the Budget Hawks: It discharges a multi-trillion dollar national liability for $0.00.  
 We urge the Committees to immediately initiate a joint legislative review process for the National Unity and Prosperity Act.
 
 **[COPYRIGHT NOTICE]**
@@ -341,62 +341,62 @@ Authored and Copyrighted by Brandon Anthony Bedard, December 2025
 
 ### I. THE SOVEREIGN KEY (The Vital Step)
 
-Requirement: Before any lease is signed or options sold, a Sovereign Tribe must execute a "Sovereign Opt-In".
-The Power: Tribes hold absolute veto power over specific acreage.
-The Benefit: Tribes receive a "Sovereign Royalty" from commercial success and a permanent seat on the governing Board.
+Requirement: Before any lease is signed or options sold, a Sovereign Tribe must execute a "Sovereign Opt-In".  
+The Power: Tribes hold absolute veto power over specific acreage.  
+The Benefit: Tribes receive a "Sovereign Royalty" from commercial success and a permanent seat on the governing Board.  
 
 ### II. THE SPARK (Phase 1: Zero Taxpayer Cost)
 
-Funding Source: Corporate Option Fees (Reservation Deposits).
-Mechanism: A designated Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow.
-Priority: Determined by a digital timestamp (First-Come, First-Served).
-Legal Protection: 100% Refundable if the Act is not passed within 24 months of deposit.
-Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the "Seed Beneficiaries" (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and  posting the Notice of Opportunity).
+Funding Source: Corporate Option Fees (Reservation Deposits).  
+Mechanism: A designated Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow.  
+Priority: Determined by a digital timestamp (First-Come, First-Served).  
+Legal Protection: 100% Refundable if the Act is not passed within 24 months of deposit.  
+Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the "Seed Beneficiaries" (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and  posting the Notice of Opportunity).  
 
 ### III. THE GOVERNANCE (The VQPV Board)
 
 Structure: Once the Tribe agrees, a 4-person VQPV Board is assembled to govern the land.
 
 The Seats: 
-1.  Tribal Representative.
-2.  Seed Beneficiary (Phase 1 Volunteer).
-3.  Local Government Official.
-4.  Fiduciary Expert (Professional).
+1.  Tribal Representative.  
+2.  Seed Beneficiary (Phase 1 Volunteer).  
+3.  Local Government Official.  
+4.  Fiduciary Expert (Professional).  
 
 Post-Enactment of the NUPA Legislative Framework
 
 ### IV. ASSET ECONOMIC STRUCTURE (Phase 2: The Recursive Reinvestment Model)
 
 This revenue is derived from the 99-year Ground Leases and Annual Ground Rent paid by the commercial lessees.  
- * 20% Reinvestment Fund: Automatically dedicated to the professional Fiduciary Expert, the Local Official, and the maintenance of the land asset. Crucially, this fund provides the capital for all materials, technology, and curriculum necessary for the "Knowledge" mastery modules, ensuring the educational infrastructure for beneficiaries is self-sustaining and costs the Tribe $0.
+ * 20% Reinvestment Fund: Automatically dedicated to the professional Fiduciary Expert, the Local Official, and the maintenance of the land asset. Crucially, this fund provides the capital for all materials, technology, and curriculum necessary for the "Knowledge" mastery modules, ensuring the educational infrastructure for beneficiaries is self-sustaining and costs the Tribe $0.  
  * 40% Sovereign Royalty: A direct payment to the Tribal government for their role as the primary steward and authority.  
  * 40% Beneficiary Dividend: Dedicated payments to the situated beneficiaries assigned to that specific acreage hub.  
 
 ### V. THE REVENUE LOOP (Phase 2: Private Sector Secured Funding - Anonymous Sponsorship)
 
- * Justice Engine: Funds the VAP Phase 2 (Forensic verification for the millions of other descendants). 
- * Growth Engine: Funds the NUPALTA Operations. This pays the law firm, surveyors, and scouts so the agency never bills the Treasury.
+ * Justice Engine: Funds the VAP Phase 2 (Forensic verification for the millions of other descendants).  
+ * Growth Engine: Funds the NUPALTA Operations. This pays the law firm, surveyors, and scouts so the agency never bills the Treasury. 
 
 ### VI. THE SUNSET (The Decentralization)
 
- * Dissolution Trigger: Once all of the VQPVs are seated and self-governing across the entire 10% of licensed BLM land, NUPALTA (the agency) is no longer required.
- * The Exit: The agency dissolves, relinquishing all administrative power directly to the independent VQPV Boards.
- * The Fail-Safe: A single Legacy Administrator remains as a restricted tiebreaker for board gridlock, funded by a small remnant of the 40% Growth Engine.
+ * Dissolution Trigger: Once all of the VQPVs are seated and self-governing across the entire 10% of licensed BLM land, NUPALTA (the agency) is no longer required.  
+ * The Exit: The agency dissolves, relinquishing all administrative power directly to the independent VQPV Boards.  
+ * The Fail-Safe: A single Legacy Administrator remains as a restricted tiebreaker for board gridlock, funded by a small remnant of the 40% Growth Engine.  
 
 **SUMMARY OF THE "ZERO" STATUS**
 
-Taxpayer Cost to Start: $0 (Corporate Funded).
-Taxpayer Cost to Operate: $0 (Royalty Funded).
-Taxpayer Cost to Scale: $0 (Self-Funding Agency).
-Net Treasury Impact: Positive Trillions (New Income, Payroll, Corporate, Sales, Construction, etc. tax revenue).
+Taxpayer Cost to Start: $0 (Corporate Funded).  
+Taxpayer Cost to Operate: $0 (Royalty Funded).  
+Taxpayer Cost to Scale: $0 (Self-Funding Agency).  
+Net Treasury Impact: Positive Trillions (New Income, Payroll, Corporate, Sales, Construction, etc. tax revenue).  
 
 # THE CONGRESSIONAL MEMORANDUM: THE NUPA ECONOMIC STABILIZATION FRAMEWORK
 
-SUBJECT: Structural Solution to Unfunded National Liabilities, Automation, and Deficit Reduction
+SUBJECT: Structural Solution to Unfunded National Liabilities, Automation, and Deficit Reduction  
 
-FISCAL COST: $0.00 (Net-Zero) | REVENUE IMPACT: POSITIVE (Septuple-Stream)
+FISCAL COST: $0.00 (Net-Zero) | REVENUE IMPACT: POSITIVE (Septuple-Stream)  
 
-THE OFFER: A FISCAL & LABOR FIREWALL
+THE OFFER: A FISCAL & LABOR FIREWALL  
 
 NUPA (National Unity and Prosperity Act) is a structural economic framework designed to discharge massive, compounding unfunded liabilities and future-proof the American workforce against automation—without requiring new taxes or federal debt.  
 
@@ -458,9 +458,9 @@ NO. The wealth created is backed by tangible production (Energy, Housing, Infras
 
 A VOTE FOR NUPA IS A VOTE TO:
 
- * Monetize Dormant Federal Assets.
- * Secure the Workforce Against AI.
- * Generate Trillions in Non-Tax Revenue.
+ * Monetize Dormant Federal Assets.  
+ * Secure the Workforce Against AI.  
+ * Generate Trillions in Non-Tax Revenue.  
 
 ### STATUS: FISCALLY MANDATORY.
 
@@ -537,8 +537,8 @@ For: NUPA Land Trust Authority (NUPALTA)
 
 # THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT
 
-ID: NUPA-AUDIT-001
-APPLICABILITY: Mandatory for all FORM NUPA-01 Lessees.
+ID: NUPA-AUDIT-001  
+APPLICABILITY: Mandatory for all FORM NUPA-01 Lessees.  
 
 ### I. THE FINANCIAL BASELINE (FIXED COST ARBITRAGE)
 
@@ -591,9 +591,9 @@ Focus: Leveraging capital to build new businesses.
 
 **Mobile-Friendly Completion Roadmap**
 
-Level 1 (The Foundation): Complete Pillar I to unlock an additional 15% of your dividend.
-Level 2 (The Industry): Complete Pillar II to unlock an additional 15% of your dividend.
-Level 3 (The Architect): Complete Pillar III to unlock the final 10%, reaching your 100% Full Dividend status.
+Level 1 (The Foundation): Complete Pillar I to unlock an additional 15% of your dividend.  
+Level 2 (The Industry): Complete Pillar II to unlock an additional 15% of your dividend.  
+Level 3 (The Architect): Complete Pillar III to unlock the final 10%, reaching your 100% Full Dividend status.  
 
 # THE ADAPTIVE DIVIDEND FRAMEWORK
 
@@ -614,9 +614,9 @@ Logic: Provides a "Base Stabilization" to cover time off work while rewarding th
 
 **The Growth Tier (Under 18)**:  
   
-Status: Foundational Educational Track.
+Status: Foundational Educational Track.  
 Payout: Dividends are held in a protected Fiduciary Trust.  
-Activation: Full funds are released upon reaching legal adulthood and completing the core knowledge gateway.
+Activation: Full funds are released upon reaching legal adulthood and completing the core knowledge gateway.  
 
 *Addressing Capability and Hardship*
 
@@ -634,9 +634,9 @@ The Infrastructure Offset: A portion of the 20% Recursive Reinvestment fund pays
 
 # PHASE 1 DISBURSEMENT INSTRUCTION
 
-AGREEMENT ID: NUPA-PRIVATE CAPITAL-001 (The "Seed-Capital Waterfall")
-EFFECTIVE DATE: [Date of Execution]
-THE CLIENT: The National Unity and Prosperity Land Trust Authority (NUPALTA).
+AGREEMENT ID: NUPA-PRIVATE CAPITAL-001 (The "Seed-Capital Waterfall")  
+EFFECTIVE DATE: [Date of Execution]  
+THE CLIENT: The National Unity and Prosperity Land Trust Authority (NUPALTA).  
 TO THE AGENT: [Name of Tier-1 Law Firm / Escrow Agent], acting as the Private Capitalization Escrow Agent.  
 
 ### ARTICLE 1: THE INFLOW (PRIVATE CAPITALIZATION DEPOSITS)
@@ -672,10 +672,10 @@ All deposits held in this account remain 100% refundable to the corporate entity
 
 # PHASE 2 DISBURSEMENT INSTRUCTION
 
-AGREEMENT ID: NUPA-ESCROW-001 (The "Smart-Waterfall Protocol")
-EFFECTIVE DATE: [Date of Execution]
-THE CLIENT: The National Unity and Prosperity Land Trust Authority (NUPALTA), acting as the Facilitator of the Sovereign Land Assets. 
-TO THE AGENT: [Name of Law Firm / Designated Tier-1 Bank], acting as Master Escrow Agent. 
+AGREEMENT ID: NUPA-ESCROW-001 (The "Smart-Waterfall Protocol")  
+EFFECTIVE DATE: [Date of Execution]  
+THE CLIENT: The National Unity and Prosperity Land Trust Authority (NUPALTA), acting as the Facilitator of the Sovereign Land Assets.  
+TO THE AGENT: [Name of Law Firm / Designated Tier-1 Bank], acting as Master Escrow Agent.  
 
 ### ARTICLE 1: THE INFLOW
 
@@ -685,8 +685,8 @@ The Agent shall maintain a segregated account titled "NUPA Master Administration
 
 **1.2 Immediate Processing**  
 
-Upon receipt of any wire transfer identified as a "Framework Usage Fee" (the 1% Architect Fee) the Agent shall automatically process the disbursement according to the Waterfall defined in Article 2. 
-(Note: Sovereign Royalties are routed directly to the Sovereign Account and are not subject to this instruction.)
+Upon receipt of any wire transfer identified as a "Framework Usage Fee" (the 1% Architect Fee) the Agent shall automatically process the disbursement according to the Waterfall defined in Article 2.  
+(Note: Sovereign Royalties are routed directly to the Sovereign Account and are not subject to this instruction.)  
 
 ### ARTICLE 2: THE DYNAMIC WATERFALL (THE SPLIT)  
 
