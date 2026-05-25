@@ -6,7 +6,7 @@ We are not here to propose what you should do with your ancestral lands. We are 
 
 # MEMORANDUM OF SOVEREIGN UNDERSTANDING (MOSU)
 
-**INSTRUMENT**: Sovereign Site-Activation & Fiduciary Alliance
+**INSTRUMENT**: Sovereign Site-Activation & Fiduciary Alliance  
 **VERSION**: 2026.MAR.FINAL
 
 **PARTIES:**
