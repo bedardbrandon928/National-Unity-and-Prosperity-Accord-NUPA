@@ -1,11 +1,11 @@
 # National Unity and Prosperity Act – Nigeria (NUPA-NG) Executive Summary 
 
-Original Draft: **March 30, 2026**
-Revised: **April 7, 2026**
+Original Draft: **March 30, 2026**  
+Revised: **April 7, 2026**  
 
-**Author: Brandon Anthony Bedard, Architect of the NUPA Framework**
+**Author: Brandon Anthony Bedard, Architect of the NUPA Framework**  
 
-**Disclaimer**
+**Disclaimer**  
 
 **This isn't about imposing ideas from outside. The economy's failing—debt, AI jobs, corruption—it's real, and we all see it coming. Dismissing solutions just because they're not homegrown keeps us stuck in the same loop. If the math checks out, validate it yourself. Origin shouldn't block progress. We're too close to collapse for that.**
 
