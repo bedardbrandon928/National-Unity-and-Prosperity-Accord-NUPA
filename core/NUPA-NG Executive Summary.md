@@ -33,7 +33,7 @@ By making the State a 50% stakeholder, the system utilizes "Sovereign Self-Inter
 
 ### Systemic Alignment for Nigeria
 
-NUPA-NG does not rely on political goodwill; it relies on an interlocking matrix of incentives. By operating as a private architectural system, it structurally fulfils the primary objectives of Nigeria’s major political and social constituencies.
+NUPA-NG does not rely on political goodwill; it relies on an interlocking matrix of incentives. By operating as a private architectural system, it structurally fulfills the primary objectives of Nigeria’s major political and social constituencies.
 
 **Federal Government Alignment: Debt Relief & Revenue Growth**  
 - Zero taxpayer cost debt reduction through private optimisation of idle land.  
