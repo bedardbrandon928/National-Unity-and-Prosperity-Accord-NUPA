@@ -1,48 +1,39 @@
-# INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC-NG)
+# INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC-LR)  
 
-**THIS IS A NUPA-NG TEMPLATE ONLY For illustrative and planning purposes for State Governors, Traditional Rulers, and Community Land Trusts.**  
+**THIS IS A NUPA-LR TEMPLATE ONLY. For illustrative and planning purposes for Customary Communities, Traditional Councils, Youth Cooperatives, and Community Land Trusts.**  
 
-**INSTRUMENT:** State Equity & Cross-Border Stewardship Agreement
-**VERSION:** 2026.MAR.NG.EQUITY  
-
+**INSTRUMENT:** Customary Alliance & Cross-Border Stewardship Agreement  
+**VERSION:** 2026.MAY.LR.EQUITY  
 **PARTIES:**  
+**THE HOST COMMUNITY**: [NAME OF CUSTOMARY CLAN/COMMUNITY] (A community with qualifying customary land recognized under the Land Rights Act of 2018).  
+**THE PARTICIPATING COMMUNITY:** [NAME OF GUEST COMMUNITY/YOUTH COOPERATIVE] (A resource-constrained or urban community exercising their NUPA-LR development allotment).  
+**NUPALTA-LR:** National Unity and Prosperity Land Trust Agency – Liberia (The “Independent Facilitator”).  
 
-**THE HOST STATE**: [NAME/STATE] (A State with qualifying underutilized land licensed under the Land Use Act).  
+### I. THE EQUITY MANDATE  
 
-**THE PARTICIPATING STATE:** [NAME/STATE] (A land-constrained Community exercising their NUPA-NG allotment).  
+The Parties acknowledge that systemic economic leakage, rural stagnation, and the threat of AI-driven youth unemployment are national crises affecting all Liberians. To ensure cross-regional equity and protect the national workforce, the Host Community hereby grants an Interjurisdictional Allowance to the Participating Community to manage and govern an autonomous NUPA-LR Infrastructure Hub (up to 4,000 hectares) within the Host Community’s identified, legally validated customary territories.  
 
-**NUPALTA-NG:** National Unity and Prosperity Land Trust Agency – Nigeria (The “Independent Facilitator”).  
+### II. JURISDICTIONAL SEPARATION (THE “SOVEREIGN ENCLAVE”)  
 
-**I. THE EQUITY MANDATE**  
+**2.1 Autonomous Governance:** While the physical land resides within the ancestral and recognized legal footprint of the Host Community under the Land Rights Act of 2018, the Sovereign Seat for this specific 4,000-hectare allotment is held exclusively by the Participating Community’s Trust.  
+**2.2 Revenue Integrity:** 100% of the 80% Ground Rent Dividend generated from this specific hub shall flow directly to the Participating Community’s Land Trust to fund their local dividends, health endowments, and development. The Host Community completely waives all claims to the direct ground rent of this sponsored hub, recognizing that the Host Community benefits entirely from the on-site 20% Infrastructure Loop and the massive secondary economic surge (localized commerce, supply chains, and jobs) created within their physical region.  
 
-The Parties acknowledge that the ₦180 Trillion+ national debt and the AI-driven youth unemployment crisis are national emergencies affecting all Nigerians. To ensure Inter-Regional Equity, the Host State hereby grants an Interjurisdictional Allowance to the Participating State to manage and govern up to five (5) NUPA-NG Infrastructure Hubs (4,000 hectares each) within the Host Community’s identified licensed territories.
+### III. THE VALUE TRANSITION GUARANTEE  
 
-**II. JURISDICTIONAL SEPARATION (THE “SOVEREIGN ENCLAVE”)**  
+The Host and Participating Communities collectively notify central administrative authorities that this arrangement incurs zero cost to the taxpayer and requires no central funding. The immense volume of economic value created within this multi-community Human Sanctuary triggers substantial indirect revenue streams (expanded domestic investment, light industry, and localized trade velocity) that satisfy national development mandates without drawing a single cent from the state budget.  
 
-**2.1 Autonomous Governance:** While the physical land resides within the ancestral or administrative footprint of the Host State, the Sovereign Seat for the specific 20,000-hectare allotment is held exclusively by the Participating State’s Trust.
+### IV. THE “SHIELD OF THE ALLIANCE”  
 
-**2.2 Revenue Integrity:** 100% of the 50% ground rent generated from these five hubs shall flow directly to the Participating State’s Treasury and the other 30% directly to the local community trust adjacent the hub. The Host State waives all claims to the rent of these specific sponsored hubs, recognizing that the Host State benefits from the 20% Infrastructure Loop and the secondary economic surge (VAT/Jobs) created in their region.
+**4.1 Unified Defense:** Leases within this enclave are protected as vested property interests. Any administrative, external political, or predatory corporate attempt to block the Participating Community from managing its hub on Host territory shall be treated as a double Breach of Sovereign Trust.  
+**4.2 Collective Liability:** The Breach of Trust protocol shall be triggered by both communities simultaneously. This doubles the legal pressure and shifts all resulting commercial damages—including 99 years of projected ground rent—directly onto the individual professional bonding and assets of the interfering entities or officials.  
 
-**III. THE TREASURY “SEPTUPLE-STREAM” GUARANTEE**
+### V. FIDUCIARY INDEPENDENCE & OPERATIONAL SCALING  
 
-The Host and Participating States collectively notify the Federal Ministry of Finance and the FIRS that this arrangement does not alter the ₦147 Trillion Tax Projection. The Federal Government shall receive its full “Septuple-Stream” revenue (VAT, CIT, PIT, etc.) from these hubs, regardless of which State holds the Licensing Seat.  
+**5.1 The Atomic Unit Mandate:** The 4,000-hectare hub authorized under this framework shall be established as a Standalone Community Land Trust (CLT) with its own dedicated Variable Quad-Partite Vetting (VQPV-LR) Board.  
+**5.2 Localized Dividend Logic:** To ensure absolute transparency, the CLT shall manage dividend and service distribution for a strictly defined set of verified households. This ensures that the Fiduciary Expert can provide face-to-face oversight, entirely eliminating the risk of centralized bureaucratic leakage.  
+**5.3 The Anti-Monopoly Footprint & Limited Veto:** No single corporate entity shall be permitted to license more than 4,000 contiguous hectares within the Sovereign Enclave. Furthermore, the strict Limited Veto Provision remains non-negotiably active: predatory global capital conglomerates (specifically BlackRock, Vanguard, State Street, and DoorDash) are completely excluded from holding equity or leases within the hub.  
+**5.4 Independent Fiduciary Liability:** The VQPV-LR board operates with its own independent professional liability boundaries. A dispute declared in one hub does not stall adjacent hubs, allowing for precision enforcement against specific bad actors without shutting down the wider regional economy.  
 
-**IV. THE “SHIELD OF THE ALLIANCE”**
+**Architect's Strategy Note:**  
 
-**4.1 Unified Defense:** Any administrative attempt by a State or Federal agency to block a Land-Locked State from exercising its right to manage hubs on Host territory shall be treated as a Double Breach of Sovereign Trust.  
-
-**4.2 Collective Liability:** The Breach of Trust protocol shall be triggered by both States simultaneously. This doubles the legal pressure on the individual bonds of the interfering officials, ensuring that "Policy Somersaults" are fiscally suicidal for the administrators involved.
-
-**V. FIDUCIARY INDEPENDENCE & OPERATIONAL SCALING**
-
-**5.1 The Atomic Unit Mandate:** Each 4,000-hectare hub authorized under this framework shall be established as a Standalone Community Land Trust (CLT) with its own dedicated VQPV-NG Board.
-
-**5.2 Operational Cap:** To ensure maximum transparency, each CLT shall manage the dividend and service distribution for a defined set of verified households. This "Localized Dividend Logic" ensures that the Fiduciary Expert can provide direct oversight without the risk of the centralized "Federal Leakage" that has historically plagued Nigerian social programs.
-
-**5.3 The Anti-Monopoly Footprint:** No single corporate entity (Multinational or Indigenous) shall be permitted to license more than 4,000 contiguous hectares within a single Sovereign Enclave. This ensures a diversified corporate ecosystem and prevents a single buyer from gaining "Godfather" leverage over the Community Landlord.
-
-**5.4 Independent Fiduciary Liability:** Each VQPV-NG board operates with its own independent professional liability insurance and fiduciary bonding. A "Breach of Sovereign Trust" declared in one hub does not automatically stall the adjacent hubs, allowing for Precision Enforcement against specific corporate or bureaucratic bad actors without shutting down the entire regional economy.
-
-**Architect's Strategy Note:**
-
-This ISC-NG is the "Peace Treaty" for 2026. It allows an Igbo tech firm or a Yoruba manufacturing cooperative to set up a "Sovereign Enclave" in a northern state like Niger or Kogi. The Host gets the infrastructure and the secondary jobs; the Guest gets the 80% rent and the primary industrial footprint.
+This ISC-LR is the "Economic Solidarity Treaty" for the post-2018 Land Rights era. It allows a land-constrained youth cooperative or an urban trade association from Monrovia to partner with a land-rich customary clan in the interior. The rural Host Community gets world-class, self-funding Tier-4 infrastructure (solar grids, fiber optics, roads) and immediate secondary jobs; the Guest Community gets the direct 80% ground rent dividend and a secure industrial footprint to safeguard their people from automation. It turns localized customary land rights into a macro-economic engine for national unity.
