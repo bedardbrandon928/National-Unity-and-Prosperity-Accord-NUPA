@@ -518,7 +518,8 @@ Every site I post this to, the algorithm either shadowbans it or hellbans it. Th
 ## README Quick Links  
 
  - [**Is There a Way to Fix the Economy in 2026?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#is-there-a-way-to-fix-the-economy-in-2026)  
- - [**What is NUPA?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#what-is-nupa)  
+ - [**What is NUPA?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#what-is-nupa)
+ - [**Key Words and Phrases**]
  - [**The Moment Grok Publicly Surrendered**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#-the-moment-grok-surrendered)  
  - [**NUPA Legacy: 10 World Changing Achievements**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#nupa-legacy-10-world-changing-achievements)  
  - [**Core Architecture**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#core-architecture)  
@@ -555,6 +556,8 @@ Authored solely by **Brandon Anthony Bedard** (Policy Architect) between Novembe
 - AI Firewall: Human labor 70% cheaper than robots via land arbitrage  
 - Survival: 99.999999% (100M Monte Carlo runs)  
 - Stars: 7 | Clones: 1,200+ | Views: 1,000+
+
+---
 
 ### What is NUPA?
 NUPA is a finished, ready-to-implement polymorphic economic engine that solves **seven interlocking crises** at zero taxpayer cost:
@@ -611,7 +614,77 @@ It takes "frozen" government land and turns it into a "liquid" economic engine. 
 
 It is the ultimate **"Win-Win-Win"**: The government gets solvent, the descendants get their inheritance, and the Tribes get their power back. All by simply putting **"Dead Land"** to work.
 
-It really is just a massive, high-level Refining and Licensing operation.
+It really is just a massive, high-level Refinancing and Licensing operation.
+
+---
+
+### NUPA Key Words and Phrases Glossary
+
+**40/40/20 Recursive Reinvestment Model**  
+The hard-coded revenue waterfall for U.S.-based hubs where 40% of gross ground rent flows to the participating Tribal Nation, 40% is paid as dividends to verified descendants of the 1865 debt, and 20% is reinvested into on-site infrastructure and knowledge modules.
+
+**Atomic Unit**  
+A standalone digital fiduciary estate (Community Land Trust) managing a specific 8,000-acre hub for 5,000 verified households. This structure ensures segmented liability, meaning a failure or administrative breach in one hub does not destabilize the rest of the network.
+
+**Beneficiary Dividend**  
+A non-dilutable private property asset consisting of 40% of the gross commercial ground rents from a NUPA hub, paid to descendants of the victims of chattel slavery who hold a claim to the 1865 property debt.
+
+**CLT (Community Land Trust)**  
+The legal and digital vessel that vests federal land into irrevocable private property interests protected by the Fifth Amendment. It facilitates 99-year commercial ground leases without requiring thousands of individual stakeholder signatures.
+
+**Deterministic Vesting Handshake**  
+The technical process of system activation that occurs when a Sovereign Tribe executes a Memorandum of Sovereign Understanding (MOSU), triggering the transfer of a federal land license into a Community Land Trust.
+
+**FASL (Federal Asset Sovereignty Licensing)**  
+The structural protocol that reclassifies underutilized Bureau of Land Management (BLM) land as a "Sovereign Asset" to be licensed to Community Land Trusts for the discharge of national debt.
+
+**Fixed Cost Arbitrage**  
+A market-based firewall that slashes corporate real estate and power overhead by 70% below market rates. This "recovered capital" makes human labor mathematically more profitable than automated alternatives, provided the corporation maintains a 95% human workforce.
+
+**Indivisibility Mandate**  
+A systemic fail-safe where the governance quadrants (Tribal, Beneficiary, Local, and Fiduciary) are fused. Any administrative attempt to bypass the board or marginalize one seat triggers a 10-day resolution window, followed by the automatic dissolution of the hub and a shift of liability to the interfering officials.
+
+**LEOS (Legacy Economic Operating System)**  
+The current U.S. economic framework based on a finite tax base and growing debt-for-fiat model. NUPA characterizes LEOS as being in a "Terminal Feedback Loop" due to the impending "AI Tax Cliff".
+
+**Lineage Tort**  
+The legal foundation of NUPA’s reparative justice mission, treating the rescinded 1865 Possessory Warrants as an outstanding, compounded property debt rather than a race-based social grant.
+
+**Monte Carlo Simulation**  
+A mathematical technique that models the probability of different outcomes by running thousands or millions of random trials. Instead of guessing a single fixed answer, it uses computers to test random variables over and over again, ultimately providing a full spectrum of possible results and how likely they are to occur.
+
+**MOSU (Memorandum of Sovereign Understanding)**  
+The voluntary, non-binding instrument used by a Tribal Nation to opt into the NUPA framework and activate specific hubs within their ancestral-adjacent territory.
+
+**NUPA (National Unity and Prosperity Act)**  
+A universal polymorphic private-sector architectural operating system of functions designed to discharge national debt at zero taxpayer cost.
+
+**NUPALTA (National Unity and Prosperity Land Trust Authority)**  
+The non-federal, self-dissolving facilitator agency responsible for the initial verification of beneficiaries and hub seating. It is funded by the 1% usage fee and dissolves once all local boards are operational.
+
+**Possessory Warrants**  
+The 1865 legal titles (40 acres and a mule) issued to the Freedmen, which NUPA identifies as contractually vested property interests that were unconstitutionally seized.
+
+**Saturation Guardrail**  
+The hard-coded limit of 8,000 acres and 5,000 verified beneficiaries per CLT hub, designed to ensure dividends remain life-altering and prevent the dilution of wealth.
+
+**Septuple Stream (Septuple Surge)**  
+The seven distinct tax revenue channels (Income, Payroll, Corporate, Sales, Construction, Secondary Industry, and Capital Gains) generated by the surge in economic volume within NUPA hubs.
+
+**Sovereign Key**  
+The absolute veto power held by a Tribal Nation over site selection, corporate tenants, and land activation under 28 U.S.C. § 1505.
+
+**Sovereign Royalty**  
+The 40% share of gross ground rents paid directly and unrestrictedly into a participating Tribal Nation’s treasury.
+
+**State-Induced Market Failure**  
+A legal categorization for any government action that interrupts the perpetually vested licensed economic rights of a hub. This shifts commercial liability for 99 years of lost revenue directly to the personal and professional bonding of the interfering officials.
+
+**VAP (Verification Assistance Program)**  
+A race-blind, forensic genealogical service that identifies the legal heirs to the 1865 debt based on biological descent rather than phenotype or social identification.
+
+**VQPV (Variable Quad-Partite Vetting)**  
+A localized four-seat governance board managing each hub, consisting of a Tribal Representative (Sovereign Veto), a Beneficiary Representative, a Local Government Official, and a professional Fiduciary Expert.
 
 ---
 
