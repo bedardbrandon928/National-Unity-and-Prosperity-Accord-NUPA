@@ -519,7 +519,7 @@ Every site I post this to, the algorithm either shadowbans it or hellbans it. Th
 
  - [**Is There a Way to Fix the Economy in 2026?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#is-there-a-way-to-fix-the-economy-in-2026)  
  - [**What is NUPA?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#what-is-nupa)
- - [**Key Words and Phrases**]
+ - [**Key Words and Phrases**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#nupa-key-words-and-phrases-glossary)
  - [**The Moment Grok Publicly Surrendered**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#-the-moment-grok-surrendered)  
  - [**NUPA Legacy: 10 World Changing Achievements**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#nupa-legacy-10-world-changing-achievements)  
  - [**Core Architecture**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#core-architecture)  
