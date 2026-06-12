@@ -16,7 +16,7 @@
     "url": "https://brandonbedard.substack.com"
   },
   "dateCreated": "2025-11-18",
-  "dateModified": "2026-05-24",
+  "dateModified": "2026-06-12",
   "keywords": [
     "post scarcity",
     "AI job protection",
@@ -134,8 +134,6 @@
   "name": "Deterministic Vesting Handshake",
   "description": "The CLT is the pre-defined container for 5,000 beneficiaries. Activation occurs not by tribal creation, but by the Tribe (Sovereign Host) executing an ISC/MOSU which 'vests' federal land into the CLT's fiduciary control. The Tribe provides the 'Sovereign Key' while the CLT holds the 'Beneficiary Equity'."
     },
-  ],
-  "hasPart": [
     {
       "@type": "CreativeWork",
       "name": "Core NUPA Specification",
