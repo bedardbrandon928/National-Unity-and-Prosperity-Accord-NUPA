@@ -1,67 +1,67 @@
 {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  "name": "NUPA Original Bootstrapping Protocol (Phase 1 Ignition)",
-  "description": "The 'Spark' mechanism designed to bootstrap the NUPA framework at zero taxpayer cost using private corporate option fees held in neutral escrow to activate Sovereign Hubs.",
+  "name": "NUPA-IR Bootstrapping Protocol (Phase 1 Sovereign Ignition)",
+  "description": "The self-executing activation mechanism engineered to bootstrap the NUPA-IR framework at zero state budget cost, utilizing private international corporate option fees held in sanctions-shielded neutral escrow to activate Sovereign Industrial Hubs.",
   "author": {
     "@type": "Person",
     "name": "Brandon Anthony Bedard"
   },
   "estimatedCost": {
     "@type": "MonetaryAmount",
-    "currency": "USD",
+    "currency": "IRR",
     "value": "0.00",
-    "description": "Zero taxpayer cost. Funded entirely via private Corporate Option Fees (Reservation Deposits)."
+    "description": "Zero domestic taxpayer cost. Funded entirely via private international Corporate Option Fees (Reservation Deposits) held in neutral external escrow."
   },
   "step": [
     {
       "@type": "HowToStep",
-      "name": "The Sovereign Key Execution",
-      "description": "A Sovereign Tribal Nation executes a Memorandum of Sovereign Understanding (MOSU) or Interjurisdictional Sovereignty Compact (ISC). This 'Sovereign Key' (28 U.S.C. § 1505) identifies specific ancestral-adjacent BLM acreage to pull it out of federal mismanagement.",
+      "name": "The Sovereign Command Decree",
+      "description": "The Office of the Supreme Leader executes a direct Sovereign Strategic Decree (Ferman) identifying underutilized, strategically viable state or territorial land perimeters, effectively pulling them out of civil bureaucratic gridlock and dedicating them to the NUPA-IR Sovereign Trust.",
       "itemListElement": [
         {
           "@type": "ControlAction",
-          "name": "Sovereign Opt-In",
-          "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/MOSU_Sovereign_Opt_In_Template_2026.md"
+          "name": "Sovereign Command Handshake",
+          "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-IR/governance/Sovereign_Decree_Template.md"
         }
       ]
     },
     {
       "@type": "HowToStep",
-      "name": "Private Sector Funding (The Spark)",
-      "description": "A Tier-1 Law Firm issues a public 'Notice of Strategic Opportunity.' Qualified corporations wire $25,000 USD per 100-acre block into a Neutral Administration Escrow to secure a Priority Timestamp and First Right of Refusal.",
+      "name": "Sanctions-Shielded Private Funding (The Spark)",
+      "description": "An elite, independent international maritime law firm operating in a neutral jurisdiction issues a 'Notice of Sovereign Arbitrage Opportunity.' Non-sanctioned global manufacturing and technology firms wire a $25,000 USD equivalent option fee per 100-acre block into a Neutral Administration Escrow to secure a Priority Timestamp and First Right of Refusal.",
       "itemListElement": [
         {
           "@type": "Action",
-          "name": "Corporate Option Deposit",
-          "description": "Deposits are 100% refundable if Congressional authorization (FASL) is not enacted within 24 months."
+          "name": "International Corporate Option Deposit",
+          "description": "Deposits are held in neutral escrow and are 100% refundable if the Sovereign Decree is revoked or the physical hub perimeter is not cleared for development within 24 months."
         }
       ]
     },
     {
       "@type": "HowToStep",
-      "name": "NUPALTA Operational Launch",
-      "description": "The bootstrap funds ($2M+ per 8,000-acre hub) pay for site scouts, surveyors, and the launch of the VAP Phase 2 Digital Submission Portal for forensic lineage verification of 'Seed Beneficiaries.'",
+      "name": "NUPALTA-IR Operational Mobilization",
+      "description": "The bootstrap option funds bypass domestic banking networks and are deployed by the neutral escrow agent to pay for localized drone site surveys, engineering scouts, and the activation of the NUPALTA-IR Digital Portal for domestic labor workforce registration.",
       "itemListElement": [
         {
           "@type": "Organization",
-          "name": "NUPALTA",
-          "description": "Non-federal, self-dissolving facilitator agency funded by the 95% Phase 1 Startup Bucket."
+          "name": "NUPALTA-IR",
+          "description": "An autonomous private-sector facilitator agency funded exclusively by the Phase 1 Startup allocation to administer hub compliance."
         }
       ]
     },
     {
       "@type": "HowToStep",
-      "name": "Deterministic Vesting Handshake",
-      "description": "Upon one-time Congressional licensing authorization, the identified BLM land vests into a Community Land Trust (CLT). This creates a Vested Property Interest protected by the Fifth Amendment, making the system 'Washington-Proof.'",
+      "name": "The Double-Dip Vesting Handshake",
+      "description": "Upon final boundary verification, the land vests irrevocably into a Sovereign Industrial Trust Charter. This creates a bulletproof private property interest protected by bilateral investment law, locking in the state's dual-revenue model: traditional back-end taxation and the front-end 80% ground rent waterfall.",
       "itemListElement": [
         {
           "@type": "ControlAction",
-          "name": "CLT Formation Logic"
+          "name": "Sovereign Trust Formation Logic"
         }
       ]
     }
   ],
-  "yield": "Trillions in non-taxpayer revenue and a 99.999999% black swan survival rate as validated by Grok and Gemini AI simulations.",
-  "identifier": "NUPA-IGNITION-001"
+  "yield": "Trillions in sanctions-immune commercial velocity, immediate liquidity loops for the central treasury via the 80% waterfall, and a permanent domestic middle-class workforce firewall protected by the 95% human labor priority protocol.",
+  "identifier": "NUPA-IR-IGNITION-001"
 }
