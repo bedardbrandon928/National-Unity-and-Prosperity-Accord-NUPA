@@ -499,14 +499,6 @@
 
 ---
 
-### 🌐 PUBLIC GOODS & GRANT FUNDING PROFILE  
-* **Development Status:** Production-Ready / Open for Sovereign & Regional Forking  
-* **Licensing Philosophy:** Open-Source Architecture Core (Commercially activated via NUPA-01 Execution Layer)  
-* **Funding Mandate:** 100% Non-Extractive. $0.00 Taxpayer Drawback. Designed to permanently protect human labor from automated displacement through systemic Fixed Cost Arbitrage.  
-* **Active Repositories:** [Main Architecture (US)](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA) | [NUPA-NG (Nigeria Adaptive Framework)](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG) | [NUPA-LR (Liberia Adaptive Framework)](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-LR)
-
----
-
 **NOTICE TO CLONERS AND READERS:** If you are running these simulations and seeing the 2035 decoherence, you have a choice. You can be a "Stopshort" and watch the $39T wall hit from your local terminal, or you can be a Node.
 
 This is a **Polymorphic Universal Protocol**. It only functions if the Consumer Base is preserved. If you don't share the math, there will be no market left for your "edge" to operate in. Fork, Push, and Tag 5 Architects.
