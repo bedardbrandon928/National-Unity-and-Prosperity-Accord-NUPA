@@ -995,7 +995,7 @@ https://www.worldometers.info/
 **Population Around A Point**  
 https://www.tomforth.co.uk/circlepopulations/
 
-**SWOT Provided By**
+**SWOT Provided By**  
 [Rxan Smith - Author of *Uncomfortable*](https://substack.com/@rxansmith?utm_source=share&utm_medium=android&r=7qos2e)
 
 ### How to Cite
