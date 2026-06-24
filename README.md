@@ -995,5 +995,8 @@ https://www.worldometers.info/
 **Population Around A Point**  
 https://www.tomforth.co.uk/circlepopulations/
 
+**SWOT Provided By**
+[Rxan Smith - Author of *Uncomfortable*](https://substack.com/@rxansmith?utm_source=share&utm_medium=android&r=7qos2e)
+
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/CITATION.cff
