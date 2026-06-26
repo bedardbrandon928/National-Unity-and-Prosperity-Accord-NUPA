@@ -1,6 +1,4 @@
-# TAKE IT AS IS OR COLLAPSE  
-
-**NUPA-NG: Non-Negotiable Framework**  
+# NUPA-NG: Non-Negotiable Framework  
 
 **To: Governors / State Officials**  
 **Date: March 31, 2026**  
