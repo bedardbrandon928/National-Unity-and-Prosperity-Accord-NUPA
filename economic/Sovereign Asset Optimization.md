@@ -6,7 +6,7 @@ SUBJECT: Pre-Legislative Priority Reservation: NUPA Phase 1 "The Spark"
 
 **1. THE OPPORTUNITY: SOVEREIGN ASSET PRICING**
 
-The National Unity and Prosperity Act (NUPA) is opening 99-year, bankable commercial ground leases on strategically optimized Federal BLM land. For the Spark Group, this means securing surface rights for utility-scale solar farms, Tier-1 data center campuses, and high-capacity logistics hubs at rates significantly below traditional commercial market values.
+The National Unity and Prosperity Accord (NUPA) is opening 99-year, bankable commercial ground leases on strategically optimized Federal BLM land. For the Spark Group, this means securing surface rights for utility-scale solar farms, Tier-1 data center campuses, and high-capacity logistics hubs at rates significantly below traditional commercial market values.
 
 **2. THE FIRST-MOVER ADVANTAGE: THE $25K TIMESTAMP**
 
