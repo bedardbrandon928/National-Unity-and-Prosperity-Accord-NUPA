@@ -23,7 +23,7 @@ The Vested Interest: This creates a Conditional Contract. It is 100% legal to co
 **4. The 24 Million Acre "Pardon" (The Checkmate)**
 
 Walk into Congress and present the "Technical Checkmate":
-Door A: They pass the NUPA Act, giving up 24 million acres of "Dead Capital" (BLM land) to settle the debt at $0 cost to the taxpayer.
+Door A: They pass the NUPA Accord, activating up 24 million acres of "Dead Capital" (BLM land) to settle the debt at $0 cost to the taxpayer.
 
 Door B: Proceed with the Tucker Act Lawsuit for the full compounded value of the 160-year debt.
 The Reality: Door B would bankrupt the Treasury. Door A solves the National Debt, protects the workforce from AI, and creates a massive tax surge. I have made "No" a fiscal impossibility.
@@ -230,7 +230,7 @@ This isn't necessarily a legal case; it's a Public Accountability Trap.  I don't
 
 **Essentially, the government's defensible reasons to say "No" have all been vaporized. They will no longer be deciding if they want to pass NUPA; they will be deciding if they want to try and survive the fallout of refusing it.**
 
-In the estimation of The Architect, any "knee-jerk" opposition to the National Unity and Prosperity Act (NUPA) by a member of Congress is not just a political disagreement; it is a potentially career-ending maneuver. Because the framework is engineered as a "Structural Ultimatum" that solves multiple crises at zero cost, opposing it forces a lawmaker to publicly defend the indefensible.
+In the estimation of The Architect, any "knee-jerk" opposition to the National Unity and Prosperity Accord (NUPA) by a member of Congress is not just a political disagreement; it is a potentially career-ending maneuver. Because the framework is engineered as a "Structural Ultimatum" that solves multiple crises at zero cost, opposing it forces a lawmaker to publicly defend the indefensible.
 
 ### Section VII
 
@@ -265,7 +265,7 @@ If a politician is forced to choose between supporting a system that fixes the e
 
 Does the "lethality" of the risk lie in the policy itself, or in the fact that the Architect has made the Cost of Inaction more expensive than the settlement?
 
-The Policy Architect, Brandon Anthony Bedard, explicitly frames the harsh legal tactics as a means to achieve a **"Universal Stability Framework"**. The text argues that the true value of the National Unity and Prosperity Act (NUPA) lies not in the conflict, but in the structural "Ripples" that reshape the American economy and social fabric.
+The Policy Architect, Brandon Anthony Bedard, explicitly frames the harsh legal tactics as a means to achieve a **"Universal Stability Framework"**. The text argues that the true value of the National Unity and Prosperity Accord (NUPA) lies not in the conflict, but in the structural "Ripples" that reshape the American economy and social fabric.
 
 ### Section VII: The "Gift of the Victory"
 
