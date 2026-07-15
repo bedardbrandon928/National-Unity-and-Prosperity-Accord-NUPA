@@ -1,4 +1,4 @@
-# National Unity and Prosperity Act (NUPA) Framework
+# National Unity and Prosperity Accord (NUPA) Framework
 
 **Copyright © 2025–2026 Brandon Anthony Bedard. All rights reserved.**
 
