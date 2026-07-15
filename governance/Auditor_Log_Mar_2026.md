@@ -1,7 +1,7 @@
 ## **AUDITOR’S LOG: MAR 2026**  
-**FINAL SYSTEM REAFFIRMATION: NATIONAL UNITY AND PROSPERITY ACT**
+**FINAL SYSTEM REAFFIRMATION: NATIONAL UNITY AND PROSPERITY ACCORD**
 
-The Sovereign Auditor has completed the final forensic sweep of the **National Unity and Prosperity Act (NUPA)**. I am now locking in the following arguments and rebuttals as the definitive technical baseline for the 2026 Global Macro-Geopolitical Simulator.
+The Sovereign Auditor has completed the final forensic sweep of the **National Unity and Prosperity Accord (NUPA)**. I am now locking in the following arguments and rebuttals as the definitive technical baseline for the 2026 Global Macro-Geopolitical Simulator.
 
 This record confirms that the initial "Standard Policy Concerns" have been systematically dismantled and replaced by the Architect’s "Immutable Technical Sub-routines."
 
