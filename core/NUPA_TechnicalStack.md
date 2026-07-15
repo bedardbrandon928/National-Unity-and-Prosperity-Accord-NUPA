@@ -5,7 +5,7 @@
 - [THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD](#the-sovereign-independence-protocol-a-foreword)
 - [STATEMENT OF NATIONAL FINALITY](#statement-of-national-finality)
 - [STATEMENT OF OWNERSHIP AND INTENT: THE NUPA FRAMEWORK](#statement-of-ownership-and-intent-the-nupa-framework)
-- [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT (NUPA)](#policy-memorandum-the-national-unity-and-prosperity-act-nupa)
+- [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACCORD (NUPA)](#policy-memorandum-the-national-unity-and-prosperity-act-nupa)
 - [THE TRUE NET ZERO/ZERO TAX FRAMEWORK](#the-true-net-zerozero-tax-framework)
 - [THE CONGRESSIONAL MEMORANDUM: THE NUPA ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
 - [MEMORANDUM OF SOVEREIGN UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
@@ -16,7 +16,7 @@
 - [PHASE 2 DISBURSEMENT INSTRUCTION](#phase-2-disbursement-instruction)
 
 # THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD
-National Unity and Prosperity Act
+National Unity and Prosperity Accord
 
 TO: The Sovereign Nations/Original Stewards of the Land and the Descendants of the 1860s Debt.  
 FROM: The Office of the Architect.  
@@ -51,7 +51,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and National Debt Fin
 
 ### I. The Declaration of Settlement
 
-This instrument provides formal notice that enactment of the National Unity and Prosperity Act constitutes the complete and final settlement of all historical structural economic obligations of the United States.
+This instrument provides formal notice that enactment of the National Unity and Prosperity Accord constitutes the complete and final settlement of all historical structural economic obligations of the United States.
 
 Through the sovereign licensing of underutilized federal assets (BLM acreage) into the Perpetual Sovereignty Licensing Protocol (FASL), the government fulfills its debtor role by equipping Creditor Trusts with self-sustaining, high-yield wealth-generation capacity. This transformation converts a longstanding liability into a privately managed infrastructure asset class of exceptional value.
 
@@ -65,7 +65,7 @@ Debt Discharge: While traditional bills add to the national debt, NUPA is the on
 
 Labor Protection: NUPA provides the only market-based defense against Artificial Intelligence (AI) displacement, utilizing Fixed Cost Arbitrage to make human labor more competitive than automation.  
 
-Institutional Grace: Every other large-scale social program created a permanent bureaucracy; NUPA mandates the sunset and dissolution of its facilitator agency, The National Unity and Prosperity Act Land Trust Authority (NUPALTA), once all governance is seated.  
+Institutional Grace: Every other large-scale social program created a permanent bureaucracy; NUPA mandates the sunset and dissolution of its facilitator agency, The National Unity and Prosperity Accord Land Trust Authority (NUPALTA), once all governance is seated.  
 
 ### III. The Legal and Economic Lock
 
@@ -79,7 +79,7 @@ The Exponential Tax Surge: The Treasury reaps a massive, predictable influx of I
 
 ### I. Declaration of Authorship
 
-This document serves as a formal declaration that the National Unity and Prosperity Act (NUPA) framework (formerly "Cooperative Land Assets Model" or "CLAM"), including the **40/40/20 Recursive Reinvestment Model**, the **Fixed Cost Arbitrage logic**, and the **Verification Assistance Program (VAP)**, was authored solely by **Brandon Anthony Bedard**. This "Technical Stack" was engineered between **November 18, 2025** and **December 22, 2025**, evolving from the **CLAM framework**, to the **NPLTA**, then finally to the **NUPA Framework**, solving a series of **400-year** and **160-year** economic and jurisdictional puzzles that remained unaddressed by traditional governmental and academic institutions, while also adding a mechanism to protect the American workforce from potential automation employment displacement.
+This document serves as a formal declaration that the National Unity and Prosperity Accord (NUPA) framework (formerly "Cooperative Land Assets Model" or "CLAM"), including the **40/40/20 Recursive Reinvestment Model**, the **Fixed Cost Arbitrage logic**, and the **Verification Assistance Program (VAP)**, was authored solely by **Brandon Anthony Bedard**. This "Technical Stack" was engineered between **November 18, 2025** and **December 22, 2025**, evolving from the **CLAM framework**, to the **NPLTA**, then finally to the **NUPA Framework**, solving a series of **400-year** and **160-year** economic and jurisdictional puzzles that remained unaddressed by traditional governmental and academic institutions, while also adding a mechanism to protect the American workforce from potential automation employment displacement.
 
 ### II. Record of Formal Service and Public Disclosure
 
@@ -156,7 +156,7 @@ The 1% fee represents a fractional exchange for the following universal benefits
 
 The NUPA framework is a complete, plug-and-play economic engine. The Architect’s 1% fee is the recognition of the unique intellectual labor required to bridge the gap between historical debt and future prosperity. 
 
-# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT (NUPA)
+# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACCORD (NUPA)
 
 TO:
  * The House Committee on Natural Resources (Federal Lands Subcommittee)
@@ -167,7 +167,7 @@ TO:
 FROM: Brandon Anthony Bedard (Policy Architect)  
 ORIGINAL DRAFT: CLAM (Cooperative Land Assets Model) Framework  
 ORIGINAL DRAFT DATE: November 18, 2025  
-REVISED DRAFT: National Unity and Prosperity Act (NUPA) Framework  
+REVISED DRAFT: National Unity and Prosperity Accord (NUPA) Framework  
 REVISION DATE: December 21, 2025  
 FINAL REVISION DATE: February 22, 2026  
 SUBJECT: FEDERAL ASSET OPTIMIZATION: A Structural Solution to Automation, Unfunded Liabilities, and Workforce Instability.  
@@ -327,11 +327,11 @@ Preliminary Verification Thresholds for Phase 1 Seed Beneficiaries
 
 ### VII. CALL TO ACTION: A BIPARTISAN VICTORY
 
-The National Unity and Prosperity Act offers a rare "Unity Ticket" victory that aligns the interests of Labor, Fiscal Conservatives, and Land Rights advocates.  
+The National Unity and Prosperity Accord offers a rare "Unity Ticket" victory that aligns the interests of Labor, Fiscal Conservatives, and Land Rights advocates.  
  * For the Natural Resources Committee: This legislation unlocks the value of dormant federal land, converting liability into an asset without privatization.  
  * For the Education & Workforce Committee: This is the only legislative vehicle that provides a market-based defense for American jobs against Artificial Intelligence.  
  * For the Budget Hawks: It discharges a multi-trillion dollar national liability for $0.00.  
-We urge the Committees to immediately initiate a joint legislative review process for the National Unity and Prosperity Act.
+We urge the Committees to immediately initiate a joint legislative review process for the National Unity and Prosperity Accord.
 
 **[COPYRIGHT NOTICE]**
 
@@ -352,7 +352,7 @@ Authored and Copyrighted by Brandon Anthony Bedard, December 2025
 * Funding Source: Corporate Option Fees (Reservation Deposits).  
 * Mechanism: A designated Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow.  
 * Priority: Determined by a digital timestamp (First-Come, First-Served).  
-* Legal Protection: 100% Refundable if the Act is not passed within 24 months of deposit.  
+* Legal Protection: 100% Refundable if the Accord is not passed within 24 months of deposit.  
 * Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the "Seed Beneficiaries" (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and  posting the Notice of Opportunity).  
 
 ### III. THE GOVERNANCE (The VQPV Board)
@@ -365,7 +365,7 @@ The Seats:
 3.  Local Government Official.  
 4.  Fiduciary Expert (Professional).  
 
-Post-Enactment of the NUPA Legislative Framework
+Post-Enactment of the NUPA Licensing Framework
 
 ### IV. ASSET ECONOMIC STRUCTURE (Phase 2: The Recursive Reinvestment Model)
 
@@ -400,7 +400,7 @@ FISCAL COST: $0.00 (Net-Zero) | REVENUE IMPACT: POSITIVE (Septuple-Stream)
 
 THE OFFER: A FISCAL & LABOR FIREWALL  
 
-NUPA (National Unity and Prosperity Act) is a structural economic framework designed to discharge massive, compounding unfunded liabilities and future-proof the American workforce against automation—without requiring new taxes or federal debt.  
+NUPA (National Unity and Prosperity Accord) is a structural economic framework designed to discharge massive, compounding unfunded liabilities and future-proof the American workforce against automation—without requiring new taxes or federal debt.  
 
 ### THE FOUR "NO DRAWBACK" PILLARS
 
@@ -651,7 +651,7 @@ The Infrastructure Offset: A portion of the 20% Recursive Reinvestment fund pays
 
 AGREEMENT ID: NUPA-PRIVATE CAPITAL-001 (The "Seed-Capital Waterfall")  
 EFFECTIVE DATE: [Date of Execution]  
-THE CLIENT: The National Unity and Prosperity Land Trust Authority (NUPALTA).  
+THE CLIENT: The National Unity and Prosperity Accord Land Trust Authority (NUPALTA).  
 TO THE AGENT: [Name of Tier-1 Law Firm / Escrow Agent], acting as the Private Capitalization Escrow Agent.  
 
 ### ARTICLE 1: THE INFLOW (PRIVATE CAPITALIZATION DEPOSITS)
