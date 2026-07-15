@@ -1,4 +1,4 @@
-# National Unity and Prosperity Act (NUPA)
+# National Unity and Prosperity Accord (NUPA)
 
 **March 4, 2026**
 
