@@ -2,7 +2,7 @@
 
 **Case Study: The "Norwegian" Probative Model**
 
-The National Unity and Prosperity Act (NUPA) rejects "Race" as a valid metric for restorative distribution, as racial categories are sociopolitical constructs subject to shifting definitions and judicial volatility. Instead, NUPA utilizes **Forensic Lineage Verification (FLV)**.
+The National Unity and Prosperity Accord (NUPA) rejects "Race" as a valid metric for restorative distribution, as racial categories are sociopolitical constructs subject to shifting definitions and judicial volatility. Instead, NUPA utilizes **Forensic Lineage Verification (FLV)**.
 
 **1. The Phenotype Irrelevance Principle**
 
