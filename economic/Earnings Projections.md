@@ -1,4 +1,4 @@
-# Earnings Projections - The National Unity and Prosperity Act
+# Earnings Projections - The National Unity and Prosperity Accord
 
 Based on the revenue model provided ($5,000/acre starting, 20% annual compounding, and a $5,000 bump in Year 6) applied across the total 24 million acres, the financial outcomes for both the Architect and the Tribal Nations are as follows:
 
