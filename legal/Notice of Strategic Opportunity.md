@@ -12,7 +12,7 @@ No funds are currently being solicited or accepted. Corporate option deposits wi
 
 **I. EXECUTIVE SUMMARY**  
 
-The Office of the Policy Architect is formally opening the "Phase 1 Reservation Period" for the commercial utilization of federal assets under the impending National Unity and Prosperity Act (NUPA).  
+The Office of the Policy Architect is formally opening the "Phase 1 Reservation Period" for the commercial utilization of federal assets under the impending National Unity and Prosperity Accord (NUPA).  
 
 This instrument allows qualified Tier-1 Corporations (Energy, Technology, Logistics) to secure a Priority Timestamp for the leasing of prime Federal BLM acreages prior to the public Congressional authorization of FASL licensing.  
 
