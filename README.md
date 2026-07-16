@@ -956,7 +956,7 @@ I didn't build this with a $10,000/month enterprise subscription to these pay-to
 
 ### A Note On The Name  
 
-This framework has gone through a few name changes, it started out as the Cooperative Loans Assets Model (CLAM) Framework, then it was the National Unity and Prosperity Act (NUPA) Framework, but thanks to a brilliant suggestion from a friend and associate [Xochitl Suriano Ambrow](https://substack.com/@infinitelyxochitl?utm_source=share&utm_medium=android&r=7qos2e), it has been renamed to the National Unity and Prosperity Accord, to reflect its voluntary basis and functionality.
+This framework has gone through a few name changes, it started out as the Cooperative Land Assets Model (CLAM) Framework, then it was the National Unity and Prosperity Act (NUPA) Framework, but thanks to a brilliant suggestion from a friend and associate [Xochitl Suriano Ambrow]<!-- Pronounced SOH-chi-tul -->(https://substack.com/@infinitelyxochitl?utm_source=share&utm_medium=android&r=7qos2e), it has been renamed to the National Unity and Prosperity Accord, to reflect its voluntary basis and functionality.
 
 Thank you, Xochitl! This change should greatly reduce confusion surrounding the way this framework is meant to function!
 
