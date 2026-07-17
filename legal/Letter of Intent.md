@@ -2,9 +2,9 @@
 
 **THIS IS A TEMPLATE ONLY For illustrative and planning purposes. No funds are being solicited. Official execution occurs only through a designated Tier-1 Nigerian law firm after the first Communal Opt-In (MOCU).**
 
-**To:** Legal Counsel for the **[Name of Host State/Traditional Council]**
-**From:** Brandon Anthony Bedard, Policy Architect
-**Subject:** Authorization of Multi-Phase Escrow for the NUPA-NG Framework
+**To:** Legal Counsel for the **[Name of Host State/Traditional Council]**  
+**From:** Brandon Anthony Bedard, Policy Architect  
+**Subject:** Authorization of Multi-Phase Escrow for the NUPA-NG Framework  
 
 **1. Purpose of Engagement**  
 
