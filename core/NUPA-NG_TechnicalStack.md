@@ -3,19 +3,19 @@
 ### Table of Contents  
 
 - [THE COMMUNITY INDEPENDENCE PROTOCOL: A FOREWORD](#the-sovereign-independence-protocol-a-foreword)
-- [STATEMENT OF NATIONAL FINALITY](#statement-of-national-finality)
-- [STATEMENT OF OWNERSHIP AND INTENT: THE NUPA FRAMEWORK](#statement-of-ownership-and-intent-the-nupa-framework)
-- [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT - NIGERIA (NUPA-NG)](#policy-memorandum-the-national-unity-and-prosperity-act-nupa)
-- [THE TRUE NET ZERO/ZERO TAX FRAMEWORK](#the-true-net-zerozero-tax-framework)
-- [THE POLICY MEMORANDUM: THE NUPA-NG ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
-- [MEMORANDUM OF COMMUNAL UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
-- [THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT](#the-white--blue-collar-compliance-audit)
-- [NUPA-NG OPTIONAL CURRICULUM: THE THREE PILLARS](#nupa-master-curriculum-the-three-pillars)
-- [NUPA-NG DISBURSEMENT INSTRUCTION (PHASE 1 & 2 WATERFALL)](#phase-1-disbursement-instruction)
+- [STATEMENT OF NATIONAL FINALITY](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#statement-of-nigerian-finality-nupa-ng)
+- [STATEMENT OF OWNERSHIP AND INTENT: THE NUPA FRAMEWORK](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#statement-of-ownership-and-intent-the-nupa-ng-framework)
+- [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACCORD - NIGERIA (NUPA-NG)](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#policy-memorandum-the-national-unity-and-prosperity-act---nigeria-nupa-ng)
+- [THE TRUE NET ZERO/ZERO TAX FRAMEWORK](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#the-true-net-zerozero-tax-framework--nupa-ng)
+- [THE POLICY MEMORANDUM: THE NUPA-NG ECONOMIC STABILIZATION FRAMEWORK](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#the-policy-memorandum-the-nupa-ng-economic-stabilization-framework)
+- [MEMORANDUM OF COMMUNAL UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#memorandum-of-community-understanding--cooperative-alliance-opt-in)
+- [THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#the-white--blue-collar-compliance-audit--nupa-ng)
+- [NUPA-NG OPTIONAL CURRICULUM: THE THREE PILLARS](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#nupa-ng-prosperity-accelerator-optional-three-pillars)
+- [NUPA-NG DISBURSEMENT INSTRUCTION (PHASE 1 & 2 WATERFALL)](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/NUPA-NG/core/NUPA-NG_TechnicalStack.md#nupa-ng-disbursement-instruction-phase-1--2-waterfall)
 
 # THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD
 
-**National Unity and Prosperity Act – Nigeria**
+**National Unity and Prosperity Accord – Nigeria**
 
 ​TO: The Sovereign People, the Traditional Custodians of the Land, and the State Governors of the Federal Republic of Nigeria.  
 FROM: The Office of the Architect.  
@@ -49,7 +49,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereig
 
 **​I. The Declaration of Settlement**
 
-​This instrument provides formal notice that the implementation of the National Unity and Prosperity Act – Nigeria (NUPA-NG) constitutes the complete and final settlement of all historical structural economic obligations and the systemic "Trust Deficit" within the Federal Republic.
+​This instrument provides formal notice that the implementation of the National Unity and Prosperity Accord – Nigeria (NUPA-NG) constitutes the complete and final settlement of all historical structural economic obligations and the systemic "Trust Deficit" within the Federal Republic.
 
 ​Through the voluntary licensing of underutilized state-managed land (via the Land Use Act of 1978) into the Perpetual Sovereignty Licensing Protocol (FASL), the government fulfills its role as a facilitator of prosperity by equipping Local Community Trusts with self-sustaining, high-yield wealth-generation capacity. This transformation converts "dead capital" and idle land into a privately managed infrastructure asset class that bypasses federal leakage.
 
@@ -81,7 +81,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereig
 
 ### I. Declaration of Authorship
 
-This document declares that the National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG), including the 50/30/20 Recursive Reinvestment Model, Fixed Cost Arbitrage logic, and Community Trust mechanisms, was authored solely by Brandon Anthony Bedard. The technical stack was engineered between November 18, 2025 and December 22, 2025, evolving from the original CLAM model into a polymorphic OS tailored for Nigeria—solving debt leakage, job displacement from AI, and underutilised land under the Land Use Act of 1978.
+This document declares that the National Unity and Prosperity Accord – Nigerian Adaptive Framework (NUPA-NG), including the 50/30/20 Recursive Reinvestment Model, Fixed Cost Arbitrage logic, and Community Trust mechanisms, was authored solely by Brandon Anthony Bedard. The technical stack was engineered between November 18, 2025 and December 22, 2025, evolving from the original CLAM model into a polymorphic OS tailored for Nigeria—solving debt leakage, job displacement from AI, and underutilised land under the Land Use Act of 1978.
 
 ### II. Record of Formal Service and Public Disclosure
 
@@ -152,7 +152,7 @@ The 1% fee exchanges for:
 
 NUPA-NG is a plug-and-play economic engine for Nigeria. The 1% fee recognises the intellectual bridge from idle land to self-funding prosperity.
 
-# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT - NIGERIA (NUPA-NG)
+# POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACCORD - NIGERIA (NUPA-NG)
 
 TO:  
 - State Governors (Land Use Act custodians)  
@@ -311,7 +311,7 @@ NUPA-NG aligns governors, communities, youth, and anti-corruption voices.
 * For Communities: Direct 30% rent for education, hospitals, modern infrastructure.  
 * For Economy: Debt relief, jobs firewall, no taxes.
 
-Urge immediate review—private engine for real change. National Unity and Prosperity Act – Nigerian Adaptive Framework  
+Urge immediate review—private engine for real change. National Unity and Prosperity Accord – Nigerian Adaptive Framework  
 
 **Authored and Copyrighted by Brandon Anthony Bedard, originally drafted March 2026, revised April 2026  
 © 2026. All rights reserved. Submission requires author credit.**  
@@ -376,7 +376,7 @@ FISCAL COST: ₦0.00 (Net-Zero) | REVENUE IMPACT: POSITIVE (Multi-Stream)
 
 THE OFFER: A FISCAL & LABOUR FIREWALL
 
-NUPA-NG (National Unity and Prosperity Act – Nigerian Adaptive Framework) is a private structural economic system that discharges ₦180 trillion+ public debt and shields jobs from AI—without new taxes, federal spending, or Abuja budgets.
+NUPA-NG (National Unity and Prosperity Accord – Nigerian Adaptive Framework) is a private structural economic system that discharges ₦180 trillion+ public debt and shields jobs from AI—without new taxes, federal spending, or Abuja budgets.
 
 ### THE FOUR "NO DRAWBACK" PILLARS
 
