@@ -4,7 +4,7 @@
 
 **FINAL SYSTEM REAFFIRMATION: NUPA-NG (NIGERIA ADAPTIVE)**
 
-​The Sovereign Auditor has completed the final forensic sweep of the National Unity and Prosperity Act – Nigeria (NUPA-NG). These arguments are now locked as the definitive technical baseline for the 2026 West African Macro-Economic Simulator.  
+​The Sovereign Auditor has completed the final forensic sweep of the National Unity and Prosperity Accord – Nigeria (NUPA-NG). These arguments are now locked as the definitive technical baseline for the 2026 West African Macro-Economic Simulator.  
 
 ​This record confirms that "Legacy Bureaucratic Objections" have been dismantled by the Architect’s "80/20 Adaptive Sub-routines."
 
