@@ -1,4 +1,4 @@
-# National Unity and Prosperity Act - Nigeria (NUPA-NG) Framework
+# National Unity and Prosperity Accord - Nigeria (NUPA-NG) Framework
 
 **Copyright © 2025–2026 Brandon Anthony Bedard. All rights reserved.**
 
