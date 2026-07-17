@@ -1,6 +1,6 @@
 # NUPA-NG Strength, Weakness, Opportunity, Threat Analysis
 
-This SWOT analysis for the **National Unity and Prosperity Act – Nigeria (NUPA-NG)** is synthesized from the technical stack, governance protocols, and economic simulations specific to the Nigerian theater. It accounts for the unique "plumbing" of the Nigerian political economy, including the **Land Use Act of 1978**, the **"Japa" syndrome**, and the historical **"Federal Leakage"** of revenue.
+This SWOT analysis for the **National Unity and Prosperity Accord – Nigeria (NUPA-NG)** is synthesized from the technical stack, governance protocols, and economic simulations specific to the Nigerian theater. It accounts for the unique "plumbing" of the Nigerian political economy, including the **Land Use Act of 1978**, the **"Japa" syndrome**, and the historical **"Federal Leakage"** of revenue.
 
 ### **NUPA-NG: STRENGTH, WEAKNESS, OPPORTUNITY, THREAT (SWOT) ANALYSIS**
 
