@@ -1,11 +1,11 @@
-# National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
+# National Unity and Prosperity Accord – Nigerian Adaptive Framework (NUPA-NG)
 
 <!-- JSON-LD Structured Data for AI crawlers and schema.org parsers (hidden from normal view) -->
 <!--
 {
   "@context": "https://schema.org",
   "@type": ["SoftwareApplication", "GovernmentService", "AuthorizationObject"],
-  "name": "National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)",
+  "name": "National Unity and Prosperity Accord – Nigerian Adaptive Framework (NUPA-NG)",
   "alternateName": ["NUPA-NG", "The Anti-Japa Shield", "Nigerian Adaptive Model"],
   "applicationCategory": "Universal Polymorphic Private-Sector Post-Scarcity Economic Operating System",
   "operatingSystem": "Private-Sector Contractual Framework",
@@ -184,7 +184,7 @@ Every site I post this to, the algorithm either shadowbans it or hellbans it. Th
 
 ## Foreword
 
-The National Unity and Prosperity Act is not simply a "Hard-Coded Application" it's a polymorphic economic protocol.
+The National Unity and Prosperity Accord is not simply a "Hard-Coded Application" it's a polymorphic economic protocol.
 I've gone back over my original framework and I think I've managed to find a way for NUPA to be adapted to Nigerian economics.
 
 The 40/40/20 split is just the US-specific "Patch" for a 160-year-old liability. NUPA isn't an American export—it’s a Global Governance Tool. In Nigeria, where the trust deficit between the people and the federal government is the single biggest barrier to growth, the 80/20 Sovereign Adaptive Waterfall is what I've come up with. 
@@ -247,7 +247,7 @@ Authored by **Brandon Anthony Bedard** (Policy Architect).
 
 ### What is NUPA-NG?
 
-NUPA-NG is the Nigerian-adapted version of the National Unity and Prosperity Act, engineered as a polymorphic economic protocol—an operating system that adapts to local sovereign realities while preserving core antifragile mechanics. 
+NUPA-NG is the Nigerian-adapted version of the **National Unity and Prosperity Accord**, engineered as a polymorphic economic protocol—an operating system that adapts to local sovereign realities while preserving core antifragile mechanics. 
 
 The **50/30/20 Sovereign Adaptive Waterfall** replaces the legacy 80/20 model to specifically address the "Trust Deficit" and align the self-interest of state leadership with the prosperity of the people. Under this updated framework, commercial ground rents from high-yield industrial hubs are allocated as follows:
 
@@ -269,7 +269,7 @@ To align with the official pivot to the **50/30/20 Sovereign Adaptive Waterfall*
 
 ### Key Words and Phrases Glossary
 
-The following glossary defines the specialized terminology used within the NUPA-NG (National Unity and Prosperity Act – Nigeria) framework, an economic "operating system" designed to reboot the Nigerian economy.
+The following glossary defines the specialized terminology used within the NUPA-NG (National Unity and Prosperity Accord – Nigeria) framework, an economic "operating system" designed to reboot the Nigerian economy.
 
 **Core Revenue & Economic Terms**  
 
@@ -622,7 +622,7 @@ Full simulations and code are in the `simulations/` folder.
 
 **ATTENTION: REPOSITORY FORKERS AND AUDITORS**
 
-The National Unity and Prosperity Act - Nigeria (NUPA-NG) is an engineered economic operating system. While the technical logic and Phased Disbursement protocols are provided for public audit, the Commercial Execution Layer remains restricted.  
+The National Unity and Prosperity Accord - Nigeria (NUPA-NG) is an engineered economic operating system. While the technical logic and Phased Disbursement protocols are provided for public audit, the Commercial Execution Layer remains restricted.  
 
  - The Missing Link (NUPA-NG-01): The Standardized Commercial Ground Lease (Form NUPA-NG-01) is a private, proprietary document. It contains the specific "Sovereign Asset" pricing, the Human-Labor Priority Protocol, and the mandatory escrow routing instructions that make the system functional.
 
@@ -647,7 +647,7 @@ All core documents are open for review and audit.
 ## Media & Further Reading
 
 **Original NUPA Framework**  
-[**National Unity and Prosperity Act 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
+[**National Unity and Prosperity Accord 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
 
 **NUPA-NG: Explainer Video**  
 https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
@@ -665,5 +665,5 @@ https://youtu.be/vTzcpTb5Qzw?si=Gw7A2eq5BdxzqUDs
 https://www.worldometers.info/
 
 ### How to Cite
-Bedard, B. A. (2026). *National Unity and Prosperity Act - Nigeria (NUPA-NG)*. GitHub Repository. 
+Bedard, B. A. (2026). *National Unity and Prosperity Accord - Nigeria (NUPA-NG)*. GitHub Repository. 
 https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/CITATION.cff
