@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": ["SoftwareApplication", "GovernmentService", "AuthorizationObject"],
-  "name": "National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)",
+  "name": "National Unity and Prosperity Accord – Nigerian Adaptive Framework (NUPA-NG)",
   "alternateName": ["NUPA-NG", "The Anti-Japa Shield", "Nigerian Adaptive Model"],
   "applicationCategory": "Universal Polymorphic Private-Sector Post-Scarcity Economic Operating System",
   "operatingSystem": "Private-Sector Contractual Framework",
@@ -51,7 +51,7 @@
     "description": "99-year bankable ground leases at 70% below-market rates for Tier-1 industry (Solar, Data, Logistics, Manufacturing) conditional on human-labor priority."
   },
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG",
-  "dateModified": "2026-05-24",
+  "dateModified": "2026-07-16",
   "keywords": [
     "Nigeria", "Land Use Act 1978", "Anti-Japa Shield", "50/30/20 Waterfall", "Debt Discharge", "Post-Scarcity", "VQPV-NG", "Fixed Cost Arbitrage", "Human Sanctuary"
   ]
