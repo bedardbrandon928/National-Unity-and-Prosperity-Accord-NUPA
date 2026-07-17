@@ -6,7 +6,7 @@ SUBJECT: Pre-Implementation Priority Reservation: NUPA-NG Phase 1 "The Spark"
 
 **1. THE OPPORTUNITY: SOVEREIGN ASSET PRICING (THE ANTI-LEAKAGE HEDGE)**
 
-The National Unity and Prosperity Act – Nigeria (NUPA-NG) is opening 99-year, bankable commercial ground leases on strategically optimized State-Managed land. For the Spark Group, this means securing surface rights for utility-scale solar farms, Tier-1 data center campuses, and high-capacity manufacturing hubs at a 70% discount compared to market rates in Lagos or Abuja.
+The National Unity and Prosperity Accord – Nigeria (NUPA-NG) is opening 99-year, bankable commercial ground leases on strategically optimized State-Managed land. For the Spark Group, this means securing surface rights for utility-scale solar farms, Tier-1 data center campuses, and high-capacity manufacturing hubs at a 70% discount compared to market rates in Lagos or Abuja.
 
 By bypassing the "Federal Leakage" model, your ground rent flows directly into the 50/30/20 Adaptive Waterfall, ensuring the local community is a partner in your security, not a barrier to your operations.
 
