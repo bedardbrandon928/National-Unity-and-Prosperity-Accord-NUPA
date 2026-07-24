@@ -1,8 +1,8 @@
 # THE SPARK GROUP: EXECUTIVE BRIEFING ON SOVEREIGN ASSET OPTIMIZATION
 
-DATE: December 25, 2025
-TO: Tier-1 Chief Executives (Energy, Technology, Logistics)
-SUBJECT: Pre-Legislative Priority Reservation: NUPA Phase 1 "The Spark"
+DATE: December 25, 2025  
+TO: Tier-1 Chief Executives (Energy, Technology, Logistics)  
+SUBJECT: Pre-Legislative Priority Reservation: NUPA Phase 1 "The Spark"  
 
 **1. THE OPPORTUNITY: SOVEREIGN ASSET PRICING**
 
