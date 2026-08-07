@@ -64,7 +64,7 @@ NUPA replaces political promises with enforceable private contracts, turns “de
 
 The complete framework, including voluntary Sovereign Opt-In templates (MOSU & ISC), the 22-page core specification, and full Auditor’s Log, is publicly available at:
 
-https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
+https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA
 
 Brandon Anthony Bedard  
 Policy Architect, NUPA Framework  
