@@ -37,7 +37,7 @@ For a "Budget Audit," $1.91 Trillion is the most honest number for cash hitting 
 
 The Bottom Line: This is handing the government nearly $2 Trillion in cash over ten years, at a $0.00 cost to the taxpayer, while settling the nation's largest historical debts.
 
-**Revision Update: March 31, 2026**
+# **Revision Update: March 31, 2026**
 
 The Reconciliation Audit: NUPA Aggressive vs. Septuple-Stream
 
@@ -45,7 +45,7 @@ To be direct: My original "Septuple-Stream" audit is based on a 5% conservative 
 
 If the Treasury is taxing the "Aggressive Ignition" revenue, the $1.91 Trillion figure is actually a massive underestimate. Under the Aggressive Model, the Treasury's "Septuple-Stream" becomes a $5.11 Trillion windfall.  
 
-**RECONCILED: The $40T Debt-Wall Destroyer (Aggressive Model)**
+### **RECONCILED: The $40T Debt-Wall Destroyer (Aggressive Model)**
 
 This version synchronizes the $15k start, the 20% growth, and the Year-6 bump with the Treasury's 42.5% effective tax capture (the Septuple-Stream).  
 
@@ -81,4 +81,4 @@ The general population sees a $40 Trillion debt and assumes it’s "unpayable." 
 
 **Note to Auditors**
 
-Because 20% of every dollar collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The licensors get a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
+*Because 20% of every dollar collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The licensors get a larger cut every year because the underlying asset is being continuously upgraded — **at zero cost to the government**.*
