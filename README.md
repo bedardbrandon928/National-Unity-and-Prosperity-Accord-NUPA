@@ -1014,7 +1014,7 @@ https://youtu.be/1l34dNVbmgU?si=k6EGxGjx-sxyfQdl
 [Full Core NUPA Stack - 22-page memorandum](https://pastebin.com/NVunnnP4)
 
 **Substack Home**  
-https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
+https://brandonbedard.substack.com/  
 
 **Department of the Interior/Bureau of Land Management Public Land Use Data**  
 [Full dataset source](https://gbp-blm-egis.hub.arcgis.com/)
