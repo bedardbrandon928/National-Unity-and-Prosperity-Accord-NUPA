@@ -985,8 +985,11 @@ Thank you, Xochitl! This change should greatly reduce confusion surrounding the 
 
 For comments, interviews, or implementation questions:
 
-**Signal**: +1 928-419-4189  
-**Email**: bedard.brandon928@gmail.com
+**Signal, Telegram, WhatsApp**:  
++1 928-419-4189  
+**Emails**:  
+- bedard.brandon928@gmail.com  
+- bedard.brandon928@proton.me
 
 All core documents, templates, and the full Auditor’s Log are open for review and audit.
 
