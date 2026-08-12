@@ -527,6 +527,7 @@ Every site I post this to, the algorithm either shadowbans it or hellbans it. Th
  - [**Auditor's Log: March 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#auditors-log-mar-2026)  
  - [**Latest Monte Carlo Simulations/Independent AI Analysis (March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#latest-monte-carlo-simulationsindependent-ai-analysis-march-2026)  
  - [**Notice of Incomplete Documentation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#notice-of-incomplete-documentation)
+ - [**The Geopolitical Leapfrog Risk**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#the-geopolitical-leapfrog-risk-a-global-race-for-activation)
  - [**Vacuum Validation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#vacuum-validation)  
  - [**Contact the Architect**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#contact-the-architect)  
  - [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#media--further-reading)  
