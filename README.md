@@ -942,7 +942,27 @@ The National Unity and Prosperity Accord (NUPA) is an engineered economic operat
 
  - Copyright & IP Sovereignty: Utilization of the NUPA "Technical Stack" for commercial gain or corporate "philosophies" without a licensed NUPA-01 agreement is a direct violation of the Architect's Intellectual Property rights.
 
-**For inquiries regarding Sovereign Opt-In or to request a Commercial Lease template for audit, please contact the Architect directly.**
+**For inquiries regarding Sovereign Opt-In or to request a Commercial Lease template for audit, please contact the Architect directly.**  
+
+## The Geopolitical Leapfrog Risk: A Global Race for Activation
+
+The **Geopolitical Leapfrog** is an acute systemic risk identified by the NUPA architecture, predicated on the fact that the framework is a **Polymorphic Universal Protocol**. Because the system's mechanical logic is jurisdiction-agnostic, it can be adapted to any nation’s legal "hardware" (such as the **Land Use Act of 1978** in Nigeria or the **Land Rights Act of 2018** in Liberia).
+
+The risk is defined by the following deterministic outcomes if a foreign nation executes a "Deterministic Vesting Handshake" before the United States:
+
+*   **Fiduciary Flight (The "Offshore Stampede"):** Under corporate law precedents like *Dodge v. Ford Motor Co.*, Tier-1 corporate boards have a legal fiduciary duty to maximize shareholder profit. If an international adopter—such as **Nigeria (NUPA-NG)** or **Liberia (NUPA-LR)**—activates a hub offering a **70% discount on land and power overhead**, global capital will be "fiscally forced" to offshore operations to that jurisdiction to remain competitive.
+*   **Tax Base Vaporization:** The United States relies on the top 1% of earners and major corporations for approximately 40% of its federal tax revenue. As these entities migrate to more stable, low-cost NUPA sanctuaries abroad, the domestic tax base will vanish effectively overnight.
+*   **National Insolvency:** Without this critical revenue volume, the **\$40 trillion U.S. national debt** becomes mechanically unpayable. The U.S. would face terminal economic decline, transforming from a global leader into a hollowed-out **"Debtor Nation,"** while the first international movers become the world's primary liquidity providers and **"Global Creditors"**.
+*   **Infrastructure Inversion:** While the U.S. struggles to maintain a decaying grid with a shrinking tax base, international adopters will use their **20% Recursive Reinvestment funds** to build brand-new, purpose-built **"Tier-4" industrial hubs** from scratch.
+*   **Foreign Interest Capitalization:** Even if the U.S. government attempts to block domestic firms from participating through embargoes or exit taxes, it does absolutely nothing to stop **foreign rivals from China, Europe, or the Gulf** from capitalizing on the NUPA architecture abroad to gain a massive industrial edge.
+
+**Current Status:** This is not a hypothetical threat. The Architect is actively in talks with economists from the **Nigerian Office of Trade Negotiations** and has provided strategic briefs to Ministers regarding the deployment of NUPA-NG. The "Inertia of Wealth" in the U.S. is currently being outpaced by the **"Momentum of Necessity"** in developing nations.
+
+Refusing to authorize the licensing of underutilized land for domestic hubs is not a mere policy delay; within the context of the global race, it is **"Pure Economic Suicide"**. The first mover wins the century.  
+
+To learn more about NUPA-NG, please visit: https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/NUPA-NG
+
+There are more adaptations being developed, notably for Iran, Bangladesh, and Liberia, however, the architectures for the other repositories are currently still under construction. 
 
 ## Vacuum Validation
 
