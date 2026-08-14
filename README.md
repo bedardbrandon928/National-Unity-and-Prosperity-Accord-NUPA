@@ -969,7 +969,8 @@ There are more adaptations being developed, notably for Iran, Bangladesh, and Li
 
 The core mechanical logic has been tested in a jurisdiction-neutral abstract environment with no real-world legal or economic inputs. The waterfall arithmetic and recursive reinvestment loop held under those conditions, confirming the logic is self-contained and not dependent on any specific legal framework for its internal consistency.
 
-[Star Wars - New Republic Prosperity System](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/NRPS-StarWars-Control-Spec.jsonld)
+[Star Wars - New Republic Prosperity System](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/NRPS-StarWars-Control-Spec.jsonld)  
+[Pax Astra - How the New Republic Could Win With Prosperity](https://brandonbedard.substack.com/p/pax-astra-the-end-of-the-empire-how)
 
 ### For Your Consideration
 
