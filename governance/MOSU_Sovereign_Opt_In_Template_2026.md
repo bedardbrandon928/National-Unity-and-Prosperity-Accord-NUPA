@@ -38,7 +38,7 @@ We are not here to propose what you should do with your ancestral lands. We are 
 
 4.1 **The Tax Swap**: **THE NATION** acknowledges that while the land itself is shielded from property tax, the Velocity of Value created within the Hub triggers seven (7) specific federal tax streams (Income, Payroll, Corporate, etc.).
 
-4.2 **Fiduciary Leverage**: By providing the Treasury with a projected $1.91 Trillion in new revenue, **THE NATION** holds the “Moral and Fiscal High Ground,” making any federal attempt to block this activation a breach of their fiduciary duty to the American taxpayer.
+4.2 **Fiduciary Leverage**: By providing the Treasury with a projected $5.11 Trillion in new revenue, **THE NATION** holds the “Moral and Fiscal High Ground,” making any federal attempt to block this activation a breach of their fiduciary duty to the American taxpayer.
 
 **V. DEFENSE AGAINST OVERREACH (THE VETO & SHIELD)**  
 
