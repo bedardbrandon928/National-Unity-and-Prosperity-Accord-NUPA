@@ -20,11 +20,11 @@ A special thanks to Hereditary Chief Phil Lane Jr. of the Ihanktonwan Dakota and
 
 **I. RECOGNITION OF INHERENT SOVEREIGNTY**  
 
-The Parties declare that Tribal Sovereignty is not a legal concession, a legislative charity, or a contract role designed by outside institutions. It is the unyielding, inherent authority of [NAME OF TRIBE] over its ancestral territories [513]. NUPALTA enters this alliance by invitation and with humility, offering its technical economic engine solely to support the Nation’s self-determined future.
+The Parties declare that Tribal Sovereignty is not a legal concession, a legislative charity, or a contract role designed by outside institutions. It is the unyielding, inherent authority of [NAME OF TRIBE] over its ancestral territories. NUPALTA enters this alliance by invitation and with humility, offering its technical economic engine solely to support the Nation’s self-determined future.
 
 **II. MOTHER EARTH IS ALIVE (REJECTING "DEAD CAPITAL")**
 
-The Parties explicitly reject the legacy colonial framework that defines underutilized land as "dead capital" to be hollowed out by extractive industries [37]. We declare that Mother Earth is alive. She holds memory, medicines, watersheds, animal relatives, sacred sites, and an unwritten constitutional obligation to the generations yet unborn.
+The Parties explicitly reject the legacy colonial framework that defines underutilized land as "dead capital" to be hollowed out by extractive industries. We declare that Mother Earth is alive. She holds memory, medicines, watersheds, animal relatives, sacred sites, and an unwritten constitutional obligation to the generations yet unborn.
 
 This Covenant establishes that any land activated within the designated NUPA hubs is licensed strictly for harmonious utility. Industrial development is mandated to remain physically secondary to ecological conservation and spiritual preservation, leaving ninety percent (90%) of ancestral-adjacent BLM holdings as an untouched, pristine buffer.
 
