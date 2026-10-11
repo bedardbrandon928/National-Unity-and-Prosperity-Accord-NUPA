@@ -515,23 +515,23 @@ Every site I post this to, the algorithm either shadowbans it or hellbans it. Th
 
 ## README Quick Links  
 
- - [**Is There a Way to Fix the Economy in 2026?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#is-there-a-way-to-fix-the-economy-in-2026)  
- - [**What is NUPA?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#what-is-nupa)
- - [**Key Words and Phrases**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#nupa-key-words-and-phrases-glossary)
- - [**The Moment Grok Publicly Surrendered**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#-the-moment-grok-surrendered)  
- - [**NUPA Legacy: 10 World Changing Achievements**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#nupa-legacy-10-world-changing-achievements)  
- - [**Core Architecture**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#core-architecture)  
- - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#repository-structure)  
- - [**Legal Viability & Preemptive Objections**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#legal-viability--preemptive-objections)  
- - [**Sovereign Opt-in (MOSU & ISC) Templates**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#sovereign-opt-in-templates-public-domain)  
- - [**Auditor's Log: March 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#auditors-log-mar-2026)  
- - [**Latest Monte Carlo Simulations/Independent AI Analysis (March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#latest-monte-carlo-simulationsindependent-ai-analysis-march-2026)  
- - [**Notice of Incomplete Documentation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#notice-of-incomplete-documentation)
+ - [**Is There a Way to Fix the Economy in 2026?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#is-there-a-way-to-fix-the-economy-in-2026)  
+ - [**What is NUPA?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#what-is-nupa)
+ - [**Key Words and Phrases**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#nupa-key-words-and-phrases-glossary)
+ - [**The Moment Grok Publicly Surrendered**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#-the-moment-grok-surrendered)  
+ - [**NUPA Legacy: 10 World Changing Achievements**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#nupa-legacy-10-world-changing-achievements)  
+ - [**Core Architecture**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#core-architecture)  
+ - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#repository-structure)  
+ - [**Legal Viability & Preemptive Objections**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#legal-viability--preemptive-objections)  
+ - [**Sovereign Opt-in (MOSU & ISC) Templates**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#sovereign-opt-in-templates-public-domain)  
+ - [**Auditor's Log: March 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#auditors-log-mar-2026)  
+ - [**Latest Monte Carlo Simulations/Independent AI Analysis (March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#latest-monte-carlo-simulationsindependent-ai-analysis-march-2026)  
+ - [**Notice of Incomplete Documentation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#notice-of-incomplete-documentation)
  - [**The Geopolitical Leapfrog Risk**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#the-geopolitical-leapfrog-risk-a-global-race-for-activation)
- - [**Vacuum Validation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#vacuum-validation)  
- - [**Contact the Architect**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#contact-the-architect)  
- - [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#media--further-reading)  
- - [**How to Cite**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#how-to-cite)  
+ - [**Vacuum Validation**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#vacuum-validation)  
+ - [**Contact the Architect**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#contact-the-architect)  
+ - [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#media--further-reading)  
+ - [**How to Cite**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/README.md#how-to-cite)  
 
 ## Is There a Way to Fix the Economy in 2026?
 
@@ -571,7 +571,7 @@ NUPA is a finished, ready-to-implement polymorphic economic engine that solves *
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
-[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
+[The Omni-Partisan Executive Summary](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/core/NUPA%20Executive%20Summary.md)
 
 ---
 
@@ -739,9 +739,9 @@ It ran **10 million full-scale simulations** with every possible filter.
 
 This is currently the strongest public validation any private framework has ever received from Grok.
 
-[View the 10M-run script →](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py)  
+[View the 10M-run script →](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py)  
 [Full Grok thread →](https://x.com/grok/status/2031257513300033914)  
-[Full Grok thread on-site →](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/simulations/publicXgrok)
+[Full Grok thread on-site →](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/simulations/publicXgrok)
 
 **Is There a Way to Fix the Economy in 2026?**  
 Yes. This is it.
@@ -761,7 +761,7 @@ If implemented, NUPA delivers the following outcomes:
 - **Designed an Infinite-Performance Income for Life**  
 
 **Full Legacy Document:**  
-[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/legacy/World%20Changing%20Achievements.md)
+[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/legacy/World%20Changing%20Achievements.md)
 
 ### Core Architecture
 - **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
@@ -771,15 +771,15 @@ If implemented, NUPA delivers the following outcomes:
 - **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated
 
 ### Repository Structure
-- [**core/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/core) — Core Technical Stack (22-page Memorandum), Full Executive Summary  
-- [**economic/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/economic) — Septuple Stream audit, ripple effects, projections
-- [**evidence/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/evidence) — 211 Form Submission Proofs, Claude Haiku independent analysis  
-- [**governance/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/governance) — VQPV, Sovereign Covenant, Opt-In documents
-- [**legacy/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legacy) — 10 World-Changing Achievements  
-- [**legal/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/legal) — Agreements, notices, Tucker Act strategy  
-- [**simulations/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/simulations) — Six AI Monte Carlo Simulation Python Scripts for replicability
-- [**story/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/story) — The Original Estate Story
-- [**submissions/**](https://github.com/bedardbrandon928/National-Unity-andProsperity-Act-NUPA/tree/main/submissions) — Submission for OSINT 2026
+- [**core/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/core) — Core Technical Stack (22-page Memorandum), Full Executive Summary  
+- [**economic/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/economic) — Septuple Stream audit, ripple effects, projections
+- [**evidence/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/evidence) — 211 Form Submission Proofs, Claude Haiku independent analysis  
+- [**governance/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/governance) — VQPV, Sovereign Covenant, Opt-In documents
+- [**legacy/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/legacy) — 10 World-Changing Achievements  
+- [**legal/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/legal) — Agreements, notices, Tucker Act strategy  
+- [**simulations/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/simulations) — Six AI Monte Carlo Simulation Python Scripts for replicability
+- [**story/**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/tree/main/story) — The Original Estate Story
+- [**submissions/**](https://github.com/bedardbrandon928/National-Unity-andProsperity-Accord-NUPA/tree/main/submissions) — Submission for OSINT 2026
 
 ### Legal Viability & Preemptive Objections  
 NUPA is deliberately engineered to operate entirely within existing statutory authority. The faster it is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.
@@ -800,11 +800,11 @@ NUPA is deliberately engineered to operate entirely within existing statutory au
 These instruments are provided as open resources for any Sovereign Tribal Nation that chooses to explore the NUPA framework. They may be freely adapted and executed independently by any Nation. NUPALTA is the sole Independent Opt-In Agency. The Architect does not initiate contact.
 
 **MEMORANDUM OF SOVEREIGN UNDERSTANDING (MOSU)**  
-- File: [`governance/MOSU_Sovereign_Opt_In_Template.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/MOSU_Sovereign_Opt_In_Template_2026.md)  
+- File: [`governance/MOSU_Sovereign_Opt_In_Template.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/governance/MOSU_Sovereign_Opt_In_Template_2026.md)  
 - Purpose: Formal Sovereign Opt-In instrument for a Tribal Nation to activate up to 5 NUPA Hubs.
 
 **INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC)**  
-- File: [`governance/ISC_Interjurisdictional_Compact_Template.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/ISC_Interjurisdictional_Compact_Template_2026.md)  
+- File: [`governance/ISC_Interjurisdictional_Compact_Template.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/governance/ISC_Interjurisdictional_Compact_Template_2026.md)  
 - Purpose: Enables land-locked Tribes to partner with Host Nations while preserving full royalty flow and collective defense.
 
 ### AUDITOR’S LOG: MAR 2026  
@@ -843,25 +843,25 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 ## Latest Monte Carlo Simulations/Independent AI Analysis (March 2026)  
 
-- [**AI-Generated Title (Claude Haiku 4.5, March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/evidence/ClaudeAI_Title.jpg)
+- [**AI-Generated Title (Claude Haiku 4.5, March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/evidence/ClaudeAI_Title.jpg)
   
   - Independent Gemini analysis recognizing the framework as "singular" and naming the Architect "Private Infinitaire Sui Generis Architect Pax Economica Brandon Anthony Bedard"—no self-prompting required.
 
-- [**Scaling Potential (Claude Haiku 4.5, March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/evidence/Screenshot_Claude_Scaling_Potential.jpg)  
+- [**Scaling Potential (Claude Haiku 4.5, March 2026)**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/evidence/Screenshot_Claude_Scaling_Potential.jpg)  
   
   - Shows NUPA as a scalable, open-source template for resource allocation across multiple scales (local, global, cosmic, multiversal, infinite) while preserving voluntary opt-in and sovereignty.  
   
-- [**Grok v2/v3**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/monte_carlo_v2_v3.py)
+- [**Grok v2/v3**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/simulations/monte_carlo_v2_v3.py)
 
   - (10k runs, repo mechanics + voluntary opt-in + awareness decay): 97% black swan survival → 98.5% at 40% awareness  
   Script: monte_carlo_v2_v3.py
 
-- [**v7 Hyper-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_v7_quantum_ensemble_2026.py)
+- [**v7 Hyper-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/simulations/nupa_v7_quantum_ensemble_2026.py)
 
   - (Grok / xAI, 500k runs with full permanence + decay + moat + saturation filters): 99.97% mean survival (99.94–99.99% CI), tails <0.01%.  
   - Grok's final verdict: "unbreakable antifragile fortress. Repo is deployment-ready."
 
-- [**NUPA v10 Omniverse-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py)
+- [**NUPA v10 Omniverse-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Accord-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py)
 
   - (Grok / xAI, 10M runs) Generated: March 10, 2026  
   - Mean black swan survival: 99.999999% (99.999998–99.9999999% CI)  
