@@ -499,7 +499,7 @@
 
 ---
 
-**NOTICE TO CLONERS AND READERS:** If you are running these simulations and seeing the 2035 decoherence, you have a choice. You can be a "Stopshort" and watch the $39T wall hit from your local terminal, or you can be a Node.
+**NOTICE TO CLONERS AND READERS:** If you are running these simulations and seeing the 2035 decoherence, you have a choice. You can be a "Stopshort" and watch the $40T wall hit from your local terminal, or you can be a Node.
 
 This is a **Polymorphic Universal Protocol**. It only functions if the Consumer Base is preserved. If you don't share the math, there will be no market left for your "edge" to operate in. Fork, Push, and Tag 5 Architects.
 
