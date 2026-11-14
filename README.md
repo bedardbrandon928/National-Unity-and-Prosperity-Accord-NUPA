@@ -55,9 +55,11 @@ While the government collects $0 in land rent, activating these hubs generates a
 
 
 
-**Contact the Architect**
+## Contact the Architect
 
+Brandon Anthony Bedard  
 +1 928-331-3663  
+
 **Emails**:  
 - bedard.brandon928@gmail.com  
 - bedard.brandon928@proton.me
