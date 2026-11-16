@@ -18,7 +18,7 @@ Rather than relying on fragile political promises, new taxes, or bureaucratic we
 ## The Structural Solution: Policy as Code
 
 ### 1. Sovereign Activation (Zero Taxpayer Risk)
-Under existing federal statutory authority (**28 U.S.C. § 1505 / The Indian Tucker Act**), dormant, non-conservation public land managed by the Bureau of Land Management (capped at 10% / 24.5M acres total) is licensed to Sovereign Tribal Nations via a voluntary **Memorandum of Sovereign Understanding (MOSU)** . 
+Under existing federal statutory authority (**28 U.S.C. § 1505 / The Indian Tucker Act**), dormant, non-conservation public land managed by the Bureau of Land Management (capped at 10% / 24.5M acres total) is licensed to Sovereign Tribal Nations via a voluntary **Memorandum of Sovereign Understanding (MOSU)** . Designed so that all 574 federally recognized Tribal Nations can participate, each managing up to five or six hubs (~40,000 aggregate acres).
 * The Host Tribe holds **absolute veto power** over all commercial leases and tenant selection.
 * Zero tribal, sacred, or reservation land is encumbered.
 * The remaining 90% of federal holdings (~220.5M acres) are permanently locked into untouchable conservation easements.
