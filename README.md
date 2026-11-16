@@ -52,8 +52,73 @@ All ground lease revenue bypasses central government pooling into independent, n
 ## Macroeconomic Solvency Without Taxation (The Septuple Stream)  
 While the government collects $0 in land rent, activating these hubs generates an estimated **$5.11 trillion "Septuple Stream" tax windfall** for the U.S. Treasury over 10 years (via new payroll, corporate, income, velocity sales, construction, secondary business, and capital gains taxes). This creates a mathematical off-ramp for the $40T+ national debt and
 
+---
 
+# The NUPA Architecture: Complete Publication Index
+### By Brandon Anthony Bedard (`brandonbedard.substack.com`)
 
+An open-source, polymorphic economic operating system designed to discharge sovereign debt, secure human labor against algorithmic displacement, and settle historical restitution—at **$0.00 taxpayer cost**.
+
+---
+
+### What You Are Reading
+
+**The legacy economic operating system is bankrupt, brittle, and running out of road.** We are staring down a \$40+ trillion national debt wall, an algorithmic wave preparing to wipe out millions of human jobs, and a political apparatus trapped in circular theater. Begging Congress for legislative charity, proposing un-fundable welfare schemes, or hoping the next election cycle miraculously fixes broken hardware is a dead end.
+
+**The National Unity and Prosperity Accord (NUPA) takes a completely different path: policy as code.** By utilizing private contract law, 99-year commercial ground leases, and off-grid renewable microgrids on dormant federal land, NUPA builds a parallel, post-scarcity production engine. It flips corporate fiduciary duty (*Dodge v. Ford*) on its head—offering hyperscalers and industrial tenants a 70% land and power discount only if they maintain an ironclad 95% human labor firewall. It settles historical property defaults through direct probate inheritance, restores sovereign seniority to Host Nations, and generates trillions in non-taxpayer revenue to permanently secure national safety nets—all at **\$0.00 cost to the public**.
+
+**Below is the complete architectural archive.** These 28 essays document the mechanics, the financial modeling, the stress tests, and the international adaptations of the framework. You won’t find partisan talking points or moralizing here—only executable legal code, balance-sheet forcing functions, and the structural blueprints for human survival.
+
+---
+
+### I. Core Mechanics, Activation & Architecture
+* **[The Economic “Software Patch”](https://brandonbedard.substack.com)** — The foundational breakdown of NUPA’s zero-taxpayer-cost engine and the transition from legislative reform to executable code.
+* **[The Technical Trojan Horse](https://brandonbedard.substack.com)** — How hard-coded private contract law decouples state policy from billionaire and donor-class leverage.
+* **[Stop Waiting for Permission (Part I)](https://brandonbedard.substack.com)** — Bypassing traditional political gatekeepers via single-sign sovereign opt-in compacts.
+* **[Stop Waiting for Permission (Part II)](https://brandonbedard.substack.com)** — The deployment blueprint: moving from theoretical whitepapers to active ground execution.
+* **[The Spreadsheet of Survival](https://brandonbedard.substack.com)** — The mathematical engine: stress-test simulations, FASL protocols, VQPV boards, and the 40/40/20 escrow waterfall.
+* **[The Omniverse Eternal Fortress](https://brandonbedard.substack.com)** — Mathematical proof demonstrating why NUPA is the sole non-inflationary exit ramp for the 2026 fiscal wall.
+* **[The Omni-Partisan Blueprint](https://brandonbedard.substack.com)** — Replacing bipartisan ideological compromise with private contract hardware that satisfies all political factions simultaneously.
+* **[The Architectural Endgame](https://brandonbedard.substack.com)** — What happens after national debt discharge: post-scarcity production and sovereign stability.
+* **[The First Domino](https://brandonbedard.substack.com)** — Why modern political statutes fail and how policy-as-code starts the chain reaction.
+* **[A Request for Collaboration on A Human-First Framework](https://brandonbedard.substack.com)** — The open invitation to systems architects, legal scholars, and quantitative auditors to red-team the repository.
+
+---
+
+### II. Labor Defense, AI Disruption & Human Sanctuaries
+* **[The Human Sanctuary is Not a Robot Ban](https://brandonbedard.substack.com)** — The mechanics of the 95% human labor firewall and the 300% rent spike penalty against algorithmic displacement.
+* **[Where Are the "Unimagined Jobs"?](https://brandonbedard.substack.com)** — Refuting legacy tech-optimist retasking myths with hard labor data.
+* **[Stop Trying to Appeal to Corporate Morality](https://brandonbedard.substack.com)** — Weaponizing corporate fiduciary duty (*Dodge v. Ford*) to make human preservation the most profitable C-suite decision.
+* **[Reproductive Sovereignty as Infrastructure](https://brandonbedard.substack.com)** — Hard-coding women's economic autonomy and emergency healthcare into commercial lease covenants as non-negotiable fault-tolerance layers.
+* **[The Infrastructure of Dignity](https://brandonbedard.substack.com)** — Structuring un-siphonable, non-conditional safety nets for disabled citizens and veterans.
+* **[The UBI Propaganda Pipeline](https://brandonbedard.substack.com)** — Exposing why unconditional fiat cash transfers without underlying asset control cause runaway inflation.
+* **[The UBI Trojan Horse of the Leisure Class](https://brandonbedard.substack.com)** — How elite-backed UBI proposals function as corporate pacification tools rather than true sovereign wealth.
+
+---
+
+### III. Sovereign Restitution & Legal Foundations
+* **[From Wards to Landlords](https://brandonbedard.substack.com)** — Transitioning Tribal Nations from federal wardship into sovereign commercial landlords using 28 U.S.C. § 1505 (The Indian Tucker Act).
+* **[Reparations 2.0](https://brandonbedard.substack.com)** — Settling the 1865 Possessory Warrant default as an unliquidated commercial property tort under probate law, avoiding 14th Amendment judicial traps.
+
+---
+
+### IV. International Adaptations & Geopolitical Arbitrage
+* **[The Software Update Nigeria Actually Needs (Part I)](https://brandonbedard.substack.com)** — Adapting NUPA to Nigeria (NUPA-NG) under the Land Use Act of 1978 and the 50/30/20 Sovereign Adaptive Waterfall.
+* **[The Software Update Nigeria Actually Needs (Part II)](https://brandonbedard.substack.com)** — Reversing "Japa" (brain drain) by coupling captive renewable power with hyperscale digital infrastructure.
+* **[The Geopolitical Leapfrog](https://brandonbedard.substack.com)** — How foreign adoption creates a capital flight crisis that forces domestic U.S. implementation.
+* **[Porting NUPA Globally](https://brandonbedard.substack.com)** — Demonstrating the polymorphic, jurisdiction-agnostic nature of the framework across divergent legal architectures.
+* **[The Liberian Leap](https://brandonbedard.substack.com)** — Applying the core engine to Liberia (NUPA-LR) via the Land Rights Act of 2018.
+* **[The Sovereign Operating System](https://brandonbedard.substack.com)** — Evaluating NUPA-IR as a structural, decentralized sanctions-bypass blueprint.
+* **[The Tensegrity Fusion](https://brandonbedard.substack.com)** — Integrating NUPA's physical real estate and power hardware with the mathematical principles of the *Peace Equation*.
+* **[Pax Astra: The End of the Empire](https://brandonbedard.substack.com)** — A stress-test thought experiment deploying NUPA’s economic mechanics into a high-stakes fictional sandbox (Star Wars).
+
+---
+
+### V. First-Principles Reality & Catalysts
+* **[When the System Can't Even Feed You](https://brandonbedard.substack.com)** — The visceral breakdown of administrative system collapse, written from direct survival experience.
+* **[The Hunger Trap](https://brandonbedard.substack.com)** — Why policy designed from positions of comfortable institutional theory fails, and why architectural necessity must govern economic survival.
+
+---
 
 ## Contact the Architect
 
