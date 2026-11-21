@@ -185,6 +185,9 @@ https://youtu.be/1l34dNVbmgU?si=k6EGxGjx-sxyfQdl
 **Substack Home**  
 https://brandonbedard.substack.com/  
 
+**SSRN Preprint (Abstract ID: 7712438)**
+[Operational Mechanics versus Predictive Projections: A Structural Breakdown of the National Unity and Prosperity Accord (NUPA)](https://ssrn.com/abstract=7712438)
+
 **Department of the Interior/Bureau of Land Management Public Land Use Data**  
 [Full dataset source](https://gbp-blm-egis.hub.arcgis.com/)
 
@@ -199,3 +202,6 @@ https://www.tomforth.co.uk/circlepopulations/
 
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Accord (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/CITATION.cff
+
+Bedard, B. A. (2026). *Operational Mechanics versus Predictive Projections: A Structural Breakdown of the National Unity and Prosperity Accord (NUPA)*. SSRN Electronic Journal, Abstract ID 7712438. https://ssrn.com/abstract=7712438
+
